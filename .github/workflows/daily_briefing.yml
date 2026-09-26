@@ -2,12 +2,9 @@ name: Daily Policy Briefing
 
 on:
   schedule:
-    # 03:00 UTC = 06:00 IST (Israel Standard Time, UTC+3 in summer/DST —
-    # note Israel observes DST roughly Mar-Oct, during which 03:00 UTC is
-    # actually 06:00 local as well since Israel is UTC+3 in DST and UTC+2
-    # standard time; if you want a strictly fixed 06:00 IST year-round,
-    # split this into two cron lines for the DST/non-DST periods).
-    - cron: "0 3 * * *"
+    # Runs at 06:00, 12:00, 16:00, and 20:00 Israel Time (IDT, UTC+3)
+    # Corresponding UTC hours: 03:00, 09:00, 13:00, 17:00
+    - cron: "0 3,9,13,17 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -42,7 +39,7 @@ jobs:
 
       - name: Run scraper + analyzer + dashboard build
         env:
-         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
       - name: Commit updated data files back to repo
