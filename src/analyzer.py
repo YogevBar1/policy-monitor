@@ -3,7 +3,22 @@ import json
 from google import genai
 from google.genai import types
 
-def analyze_article(client: genai.Client, item: dict) -> dict:
+def analyze_article(client: genai.Client, raw_item) -> dict:
+    # Handle Pydantic models or plain dictionaries safely
+    if hasattr(raw_item, "model_dump"):
+        item = raw_item.model_dump()
+    elif hasattr(raw_item, "dict"):
+        item = raw_item.dict()
+    elif isinstance(raw_item, dict):
+        item = raw_item
+    else:
+        item = {
+            "title": getattr(raw_item, "title", ""),
+            "summary": getattr(raw_item, "summary", "") or getattr(raw_item, "description", ""),
+            "source": getattr(raw_item, "source", "Unknown"),
+            "url": getattr(raw_item, "url", getattr(raw_item, "link", ""))
+        }
+
     title = item.get("title", "")
     summary = item.get("summary", "") or item.get("description", "")
     source = item.get("source", "Unknown")
