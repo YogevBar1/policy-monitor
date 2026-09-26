@@ -1,0 +1,35 @@
+<div class="bg-white rounded-lg shadow-sm border border-slate-200 p-4">
+  <div class="flex items-start justify-between gap-3">
+    <div class="flex-1 min-w-0">
+      <div class="flex items-center gap-2 flex-wrap text-xs text-slate-500 mb-1">
+        <span class="font-semibold text-slate-700">{{ item.source }}</span>
+        <span>&middot;</span>
+        <span>{{ item.published_display }}</span>
+        <span>&middot;</span>
+        <span class="px-2 py-0.5 rounded-full bg-slate-100">{{ item.category }}</span>
+      </div>
+      <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer"
+         class="text-base md:text-lg font-semibold text-slate-900 hover:text-blue-700 hover:underline">
+        {{ item.title }}
+      </a>
+      <p class="text-slate-700 mt-2 text-sm">{{ item.bluf }}</p>
+    </div>
+    <div class="shrink-0 w-9 h-9 rounded-full flex items-center justify-center font-bold text-sm score-{{ item.importance_score }}">
+      {{ item.importance_score }}
+    </div>
+  </div>
+
+  {% if item.implications %}
+  <details class="mt-3">
+    <summary class="text-sm font-medium text-blue-700 flex items-center gap-1">
+      <span class="chevron inline-block transition-transform">&#9656;</span>
+      Strategic implications
+    </summary>
+    <ul class="mt-2 ml-5 list-disc text-sm text-slate-600 space-y-1">
+      {% for point in item.implications %}
+      <li>{{ point }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
+</div>

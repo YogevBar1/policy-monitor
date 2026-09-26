@@ -1,0 +1,144 @@
+# config/sources.yaml
+#
+# Every feed is tagged with a `category`, which must be one of the four
+# categories used throughout the pipeline:
+#   - "Strategic & Defense"
+#   - "Diplomacy & Regional Affairs"
+#   - "Capitol Hill & Legislation"
+#   - "American Jewry & Civil Society"
+#
+# NOTE ON URL STABILITY: government and think-tank RSS endpoints change
+# more often than news outlets'. Every feed below was a real, working
+# endpoint at time of writing, but if a run logs a "feed error" for a
+# given source, open the site, find its current RSS/Atom link (usually
+# in the page footer or via view-source search for "rss"), and update
+# the `url` here. The pipeline is designed to keep working (and simply
+# skip) any single broken feed rather than fail the whole run.
+
+feeds:
+  # ---------------------------------------------------------------
+  # Government & Official
+  # ---------------------------------------------------------------
+  - name: "White House - Briefing Room"
+    url: "https://www.whitehouse.gov/briefing-room/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["administration", "executive"]
+
+  - name: "US State Department - Press Releases"
+    url: "https://www.state.gov/rss-feed/press-releases/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["state department", "near east"]
+
+  - name: "US Embassy Jerusalem"
+    url: "https://il.usembassy.gov/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["embassy", "jerusalem"]
+
+  - name: "Senate Foreign Relations Committee"
+    url: "https://www.foreign.senate.gov/press/rss"
+    category: "Capitol Hill & Legislation"
+    tags: ["SFRC", "senate"]
+
+  - name: "House Foreign Affairs Committee"
+    url: "https://foreignaffairs.house.gov/press-releases?format=rss"
+    category: "Capitol Hill & Legislation"
+    tags: ["HFAC", "house"]
+
+  # ---------------------------------------------------------------
+  # Specialized Think Tanks & Policy Outlets
+  # ---------------------------------------------------------------
+  - name: "Washington Institute for Near East Policy"
+    url: "https://www.washingtoninstitute.org/rss/policy-analysis"
+    category: "Strategic & Defense"
+    tags: ["WINEP", "think tank"]
+
+  - name: "Foundation for Defense of Democracies (FDD)"
+    url: "https://www.fdd.org/feed/"
+    category: "Strategic & Defense"
+    tags: ["FDD", "think tank"]
+
+  - name: "Atlantic Council"
+    url: "https://www.atlanticcouncil.org/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["atlantic council", "think tank"]
+
+  - name: "Foreign Policy Magazine"
+    url: "https://foreignpolicy.com/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["foreign policy"]
+
+  - name: "Foreign Affairs Magazine"
+    url: "https://www.foreignaffairs.com/rss.xml"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["foreign affairs"]
+
+  - name: "Fathom Journal"
+    url: "https://fathomjournal.org/feed/"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["fathom", "analysis"]
+
+  # ---------------------------------------------------------------
+  # Congress & Legislation
+  # ---------------------------------------------------------------
+  - name: "GovTrack - Israel-tagged bills"
+    url: "https://www.govtrack.us/congress/bills/subjects/israel/6062/rss"
+    category: "Capitol Hill & Legislation"
+    tags: ["congress", "bills", "israel"]
+
+  - name: "Google News - NDAA / FMF / Title VI"
+    url: "https://news.google.com/rss/search?q=(NDAA+OR+%22Foreign+Military+Financing%22+OR+%22Title+VI%22)+Israel&hl=en-US&gl=US&ceid=US:en"
+    category: "Capitol Hill & Legislation"
+    tags: ["congress", "legislation", "google news"]
+
+  # ---------------------------------------------------------------
+  # Jewish Communal, Civil Society & Defense Policy
+  # ---------------------------------------------------------------
+  - name: "Jewish Insider"
+    url: "https://jewishinsider.com/feed/"
+    category: "American Jewry & Civil Society"
+    tags: ["jewish insider"]
+
+  - name: "JTA - Jewish Telegraphic Agency"
+    url: "https://www.jta.org/feed"
+    category: "American Jewry & Civil Society"
+    tags: ["JTA"]
+
+  - name: "The Forward"
+    url: "https://forward.com/feed/"
+    category: "American Jewry & Civil Society"
+    tags: ["forward"]
+
+  - name: "eJewishPhilanthropy"
+    url: "https://ejewishphilanthropy.com/feed/"
+    category: "American Jewry & Civil Society"
+    tags: ["ejewishphilanthropy"]
+
+  # ---------------------------------------------------------------
+  # Targeted Dynamic Feeds (Google News RSS queries)
+  # ---------------------------------------------------------------
+  - name: "Google News - White House & Israel"
+    url: "https://news.google.com/rss/search?q=%22White+House%22+Israel+policy&hl=en-US&gl=US&ceid=US:en"
+    category: "Diplomacy & Regional Affairs"
+    tags: ["google news", "administration"]
+
+  - name: "Google News - Congress & Israel"
+    url: "https://news.google.com/rss/search?q=Congress+Israel+bill+OR+resolution&hl=en-US&gl=US&ceid=US:en"
+    category: "Capitol Hill & Legislation"
+    tags: ["google news", "congress"]
+
+  - name: "Google News - US Antisemitism & Campus Affairs"
+    url: "https://news.google.com/rss/search?q=antisemitism+campus+university+US&hl=en-US&gl=US&ceid=US:en"
+    category: "American Jewry & Civil Society"
+    tags: ["google news", "antisemitism", "campus"]
+
+  - name: "Google News - US-Israel Defense Cooperation"
+    url: "https://news.google.com/rss/search?q=%22US-Israel%22+defense+OR+military+cooperation&hl=en-US&gl=US&ceid=US:en"
+    category: "Strategic & Defense"
+    tags: ["google news", "defense"]
+
+# Only items published within this many hours are considered "new" for a run.
+lookback_hours: 24
+
+# How many days of analyzed history to retain in data/history.json
+# (older entries are trimmed so the repo doesn't grow unbounded).
+history_retention_days: 14

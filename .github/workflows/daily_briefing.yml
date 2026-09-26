@@ -1,0 +1,67 @@
+name: Daily Policy Briefing
+
+on:
+  schedule:
+    # 03:00 UTC = 06:00 IST (Israel Standard Time, UTC+3 in summer/DST —
+    # note Israel observes DST roughly Mar-Oct, during which 03:00 UTC is
+    # actually 06:00 local as well since Israel is UTC+3 in DST and UTC+2
+    # standard time; if you want a strictly fixed 06:00 IST year-round,
+    # split this into two cron lines for the DST/non-DST periods).
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper + analyzer + dashboard build
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py
+
+      - name: Commit updated data files back to repo
+        run: |
+          git config user.name "policy-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.json data/seen_hashes.json
+          git diff --cached --quiet && echo "No data changes to commit" || \
+            git commit -m "chore: update briefing data [skip ci]"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
