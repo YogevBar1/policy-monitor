@@ -3,12 +3,10 @@ import json
 from google import genai
 from google.genai import types
 
-def analyze_article(title: str, summary: str, source: str) -> dict:
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        raise ValueError("Missing GEMINI_API_KEY environment variable")
-
-    client = genai.Client(api_key=api_key)
+def analyze_article(client: genai.Client, item: dict) -> dict:
+    title = item.get("title", "")
+    summary = item.get("summary", "") or item.get("description", "")
+    source = item.get("source", "Unknown")
 
     prompt = f"""
 You are an expert foreign policy intelligence analyst specializing in US-Israel relations and American Jewry.
@@ -29,7 +27,6 @@ Respond ONLY with a valid JSON object matching this schema:
   "category": "<Must be exactly one of: 'Strategic & Defense', 'Diplomacy & Regional Affairs', 'Capitol Hill & Legislation', 'American Jewry & Civil Society'>"
 }}
 """
-
     try:
         response = client.models.generate_content(
             model='gemini-2.5-flash',
@@ -38,12 +35,28 @@ Respond ONLY with a valid JSON object matching this schema:
                 response_mime_type="application/json"
             )
         )
-        return json.loads(response.text)
+        data = json.loads(response.text)
+        return {**item, **data}
     except Exception as e:
-        print(f"Error analyzing with Gemini: {e}")
+        print(f"Error analyzing '{title}': {e}")
         return {
-            "importance_score": 1,
+            **item,
+            "importance_score": 2,
             "bluf": title,
-            "strategic_implications": ["Analysis unavailable."],
+            "strategic_implications": ["Analysis temporarily unavailable."],
             "category": "Diplomacy & Regional Affairs"
         }
+
+def analyze_items(items: list) -> list:
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("Missing GEMINI_API_KEY environment variable")
+
+    client = genai.Client(api_key=api_key)
+    analyzed_list = []
+
+    for item in items:
+        result = analyze_article(client, item)
+        analyzed_list.append(result)
+
+    return analyzed_list
