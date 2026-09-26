@@ -4,25 +4,15 @@ import time
 from google import genai
 from google.genai import types
 
-def analyze_article(client: genai.Client, raw_item) -> dict:
-    # Handle Pydantic models or plain dictionaries safely
-    if hasattr(raw_item, "model_dump"):
-        item = raw_item.model_dump()
-    elif hasattr(raw_item, "dict"):
-        item = raw_item.dict()
-    elif isinstance(raw_item, dict):
-        item = raw_item
-    else:
-        item = {
-            "title": getattr(raw_item, "title", ""),
-            "summary": getattr(raw_item, "summary", "") or getattr(raw_item, "description", ""),
-            "source": getattr(raw_item, "source", "Unknown"),
-            "url": getattr(raw_item, "url", getattr(raw_item, "link", ""))
-        }
-
-    title = item.get("title", "")
-    summary = item.get("summary", "") or item.get("description", "")
-    source = item.get("source", "Unknown")
+def analyze_article(client: genai.Client, item) -> None:
+    # Safely extract text attributes from Pydantic object or dict
+    title = getattr(item, "title", None) or (item.get("title", "") if isinstance(item, dict) else "")
+    summary = (
+        getattr(item, "summary", None) 
+        or getattr(item, "description", None) 
+        or (item.get("summary", "") or item.get("description", "") if isinstance(item, dict) else "")
+    )
+    source = getattr(item, "source", None) or (item.get("source", "Unknown") if isinstance(item, dict) else "Unknown")
 
     prompt = f"""
 You are an expert foreign policy intelligence analyst specializing in US-Israel relations and American Jewry.
@@ -45,23 +35,28 @@ Respond ONLY with a valid JSON object matching this schema:
 """
     try:
         response = client.models.generate_content(
-            model='gemini-2.0-flash',
+            model='gemini-3.8-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
             )
         )
         data = json.loads(response.text)
-        return {**item, **data}
     except Exception as e:
         print(f"Error analyzing '{title}': {e}")
-        return {
-            **item,
+        data = {
             "importance_score": 2,
             "bluf": title,
             "strategic_implications": ["Analysis temporarily unavailable."],
             "category": "Diplomacy & Regional Affairs"
         }
+
+    # Assign attributes directly to the object so history.py keeps url_hash intact
+    for key, value in data.items():
+        if hasattr(item, key):
+            setattr(item, key, value)
+        elif isinstance(item, dict):
+            item[key] = value
 
 def analyze_items(items: list) -> list:
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -69,11 +64,9 @@ def analyze_items(items: list) -> list:
         raise ValueError("Missing GEMINI_API_KEY environment variable")
 
     client = genai.Client(api_key=api_key)
-    analyzed_list = []
 
     for item in items:
-        result = analyze_article(client, item)
-        analyzed_list.append(result)
-        time.sleep(4)  # מונע שגיאת 429 במכסה החינמית של Gemini
+        analyze_article(client, item)
+        time.sleep(4)
 
-    return analyzed_list
+    return items
