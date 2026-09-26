@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from google import genai
 from google.genai import types
 
@@ -44,7 +45,7 @@ Respond ONLY with a valid JSON object matching this schema:
 """
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-2.0-flash',
             contents=prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json"
@@ -73,5 +74,6 @@ def analyze_items(items: list) -> list:
     for item in items:
         result = analyze_article(client, item)
         analyzed_list.append(result)
+        time.sleep(4)  # מונע שגיאת 429 במכסה החינמית של Gemini
 
     return analyzed_list
