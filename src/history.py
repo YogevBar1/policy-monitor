@@ -26,20 +26,19 @@ def load_history(path: Path) -> List[AnalyzedItem]:
         return []
     try:
         raw = json.loads(path.read_text(encoding="utf-8"))
-        
-                cleaned = []
+        cleaned = []
         for entry in raw:
+            if not isinstance(entry, dict):
+                continue
             if "implications" not in entry:
                 entry["implications"] = entry.get("strategic_implications", [])
             if "fetched_iso" not in entry:
-                from datetime import datetime, timezone
                 entry["fetched_iso"] = datetime.now(timezone.utc).isoformat()
             try:
                 cleaned.append(AnalyzedItem(**entry))
             except Exception:
                 continue
         return cleaned
-        
     except (json.JSONDecodeError, OSError, TypeError) as exc:
         logger.warning("Could not load history at %s (%s), starting fresh", path, exc)
         return []
