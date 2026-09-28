@@ -47,16 +47,26 @@ def load_history(path: Path) -> List[AnalyzedItem]:
 def append_and_save(
     path: Path,
     existing: List[AnalyzedItem],
-    new_items: List[AnalyzedItem],
+    new_items: List[dict | AnalyzedItem],
     retention_days: int,
 ) -> List[AnalyzedItem]:
     """Merge new items into existing history, drop anything older than
     retention_days (by published date), de-dupe by url_hash, and write
     the result back out. Returns the merged, trimmed list."""
     by_hash = {item.url_hash: item for item in existing}
-    for item in new_items:
-           by_hash[item["url_hash"]] = item 
+    
+    for raw in new_items:
+        if isinstance(raw, dict):
+            try:
+                item = AnalyzedItem(**raw)
+            except Exception as e:
+                logger.warning("Could not convert item to AnalyzedItem: %s", e)
+                continue
+        else:
+            item = raw
             
+        by_hash[item.url_hash] = item
+
     cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
     kept = []
     for item in by_hash.values():
