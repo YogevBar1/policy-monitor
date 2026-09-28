@@ -55,7 +55,7 @@ def append_and_save(
     the result back out. Returns the merged, trimmed list."""
     by_hash = {item.url_hash: item for item in existing}
     for item in new_items:
-            by_hash[item["url_hash"]] = item  
+           by_hash[item["url_hash"]] = item 
             
     cutoff = datetime.now(timezone.utc) - timedelta(days=retention_days)
     kept = []
