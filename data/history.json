@@ -1,5 +1,621 @@
 [
   {
+    "url_hash": "93ebef62b3e1fac400664890a71a2cb86c81dc70bdb5c499668cd3d6b66d84ad",
+    "title": "Netanyahu’s trip to the United Arab Emirates",
+    "link": "https://www.fdd.org/in_the_news/2026/09/29/netanyahus-trip-to-the-united-arab-emirates/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T18:15:42+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.117204+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Netanyahu’s trip to the United Arab Emirates",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "01351c74a6aba2631703e03f89fdaca3e1d1403c0cd6ee79dac28ea21f3cc18c",
+    "title": "DMFI launches $1 million ad campaign supporting Elaine Luria",
+    "link": "https://jewishinsider.com/2026/09/democratic-majority-for-israel-ad-campaign-elaine-luria-jen-kiggans/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T18:11:37+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.718749+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "DMFI launches $1 million ad campaign supporting Elaine Luria",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8bb14daecb7e7a3d87d215e053ef2984c8f9e42ed367c99df08ff4268e464684",
+    "title": "Hormuz tensions remain as Trump rejects Iran deal",
+    "link": "https://www.fdd.org/in_the_news/2026/09/29/hormuz-tensions-remain-as-trump-rejects-iran-deal/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T18:03:11+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.216563+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hormuz tensions remain as Trump rejects Iran deal",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f0796c23503ed8d1c027207ecd6d50c5e8bd86bcceb5b24d103754726e62ceb5",
+    "title": "Mamdani releases NYC strategy to combat antisemitism, receives mixed response from Jewish community",
+    "link": "https://jewishinsider.com/2026/09/mamdani-nyc-strategy-combat-antisemitism-jewish-groups-mixed-response/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T17:55:29+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.817885+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mamdani releases NYC strategy to combat antisemitism, receives mixed response from Jewish community",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2782f90040c1627e85591fa31461888780a2e0465f73d725b7bb02db271fd243",
+    "title": "Sanctioning Sinaloa Cartel Leaders and Corrupt Enablers in Baja California",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/sanctioning-sinaloa-cartel-leaders-and-corrupt-enablers-in-baja-california/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-29T17:43:50+00:00",
+    "fetched_iso": "2026-09-29T18:21:36.764250+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sanctioning Sinaloa Cartel Leaders and Corrupt Enablers in Baja California",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ef6856baebe9946ae5856f2ab7e72d81a4ae8dfaffde46c402c8584576a45284",
+    "title": "Secretary of State Marco Rubio At President Trump’s America.gov Event",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-at-president-trumps-america-gov-event/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-29T17:38:13+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.012760+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary of State Marco Rubio At President Trump’s America.gov Event",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "085f861d33c2674514082660cd475b179ba7c85662344ee0cc968630b0e47c8e",
+    "title": "Vladimir Putin only has two options in Ukraine: Total victory or endless war",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/vladimir-putin-only-has-two-options-in-ukraine-total-victory-or-endless-war/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T17:29:17+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.154529+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Vladimir Putin only has two options in Ukraine: Total victory or endless war",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "94c4949ec582642783a8f68c292441f8961a55965b330bff784a9391124a8559",
+    "title": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)",
+    "link": "https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T17:15:19+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.881834+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump’s Global Tariffs Are Likely to Fail in Court (Again)",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f827aa406866048dddc35ab39cf4daf506b3efb8e4de5898a7c6c89ffc57487f",
+    "title": "America runs on GPS. It needs a backup plan",
+    "link": "https://www.fdd.org/analysis/2026/09/29/america-runs-on-gps-it-needs-a-backup-plan/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T17:13:19+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.313060+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "America runs on GPS. It needs a backup plan",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "beaabb0a4a6ef3e3c1ef960bef11266bc97cb938100dc4571be6ea5f9077bdf9",
+    "title": "Stopping Russia’s aggression requires holding its enablers accountable",
+    "link": "https://www.atlanticcouncil.org/dispatches/stopping-russias-aggression-requires-holding-its-enablers-accountable/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T16:48:05+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.262903+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Stopping Russia’s aggression requires holding its enablers accountable",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1f171a78da318e4ea3b3322358e530fda62f5243369a5d87cdc99aa1756abf7d",
+    "title": "The strategic rationale for closer investment ties between Europe and the Gulf",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-strategic-rationale-for-closer-investment-ties-between-europe-and-the-gulf/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T16:40:50+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.352364+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The strategic rationale for closer investment ties between Europe and the Gulf",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "52e1f6e367432adf1103069ea5a7376cbda3c23a00d5ead5d606419dbbebc566",
+    "title": "Trade and connectivity in the Europe-Gulf strategic partnership",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/trade-and-connectivity-in-the-europe-gulf-strategic-partnership/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T16:39:32+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.454225+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trade and connectivity in the Europe-Gulf strategic partnership",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "00f3fc137e7b4b9a657b2c80fb777f7621b87bca3dd812d36be74b5a8ea2e759",
+    "title": "Three principles to guide European-Gulf defense cooperation",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/three-principles-to-guide-european-gulf-defense-cooperation/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T16:38:32+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.557457+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Three principles to guide European-Gulf defense cooperation",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0adcb905591a1ad54e7850857e3065b52cb9e59a953c1f3c7a0c81a8b0bbe452",
+    "title": "How Europe and the Gulf can unite behind an energy-transition agenda",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/how-europe-and-the-gulf-can-unite-behind-an-energy-transition-agenda/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T16:38:06+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.671234+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How Europe and the Gulf can unite behind an energy-transition agenda",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d0a91ff0a07d483e0246b5b99be797cbcdf6b5eee08d1ea42e63e2d17cf67fff",
+    "title": "'Pressing concern': US commission on civil rights releases report on campus antisemitism - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bENWUk11M2ZEZTRZcDR4Q3BQTjlMeVVXeGkzYVBGVEtEcjJzQmFpZTdUY3V5cHQ1aHdiXzdEdmhVZ0lXcFNuUFcxTktCakFNcjlDSXFOVHRVMEhPa3oyVkl1bWJUV0t6Znc?oc=5",
+    "source": "Google News - US Antisemitism & Campus Affairs",
+    "published_iso": "2026-09-29T16:34:40+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.498889+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "'Pressing concern': US commission on civil rights releases report on campus antisemitism - The Jerusalem Post",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9c26a74cce6b35a11277434d01603ab3b45c68d0e02cba0884c7b6dc9b237421",
+    "title": "Iran tells the U.S. public that Trump’s war has failed",
+    "link": "https://www.fdd.org/in_the_news/2026/09/29/iran-tells-the-u-s-public-that-trumps-war-has-failed/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T16:07:07+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.401730+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iran tells the U.S. public that Trump’s war has failed",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "23ac98b63fcdab2cea5b278e224c1d6648c6cecd71e0937a41185675087bb77c",
+    "title": "Sunkist Fruit Gems return after panic over loss of synagogue staple",
+    "link": "https://forward.com/fast-forward/852593/sunkist-fruit-gems-return-after-panic-over-loss-of-synagogue-staple/",
+    "source": "The Forward",
+    "published_iso": "2026-09-29T15:52:02+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.917334+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sunkist Fruit Gems return after panic over loss of synagogue staple",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "69c6c4a8170f02548d7748a005ffeec53d3e3ba5c94371d518c6752ba0f39b43",
+    "title": "China Is the Last Major Runway Open to Iran’s Sanctioned Airlines",
+    "link": "https://www.fdd.org/analysis/2026/09/29/china-is-the-last-major-runway-open-to-irans-sanctioned-airlines/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T15:32:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.520620+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "China Is the Last Major Runway Open to Iran’s Sanctioned Airlines",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a7e4f806a9a1ebdb348a3352b9fd34d694d2a9a7ee453a2918d528447ad21325",
+    "title": "Two Years After Nasrallah’s Death, Hezbollah Is Outsourcing its Survival and Revival",
+    "link": "https://www.fdd.org/analysis/2026/09/29/two-years-after-nasrallahs-death-hezbollah-is-outsourcing-its-survival-and-revival/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T15:21:03+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.617657+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Two Years After Nasrallah’s Death, Hezbollah Is Outsourcing its Survival and Revival",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "900eaf041d2fc2e75baa90a151b1c5d193aeaabee4557db230c3a9eebc51b978",
+    "title": "Not quite nothing",
+    "link": "https://www.fdd.org/in_the_news/2026/09/29/not-quite-nothing/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T15:18:32+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.735731+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Not quite nothing",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "951bd46f619f147d12a8e29fbad7b32d6d24ed47a82d7381c622eaf7e239c611",
+    "title": "Why are more than 40 countries boycotting the UN event?",
+    "link": "https://www.fdd.org/in_the_news/2026/09/29/why-are-more-than-40-countries-boycotting-the-un-event/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T15:16:39+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.856855+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why are more than 40 countries boycotting the UN event?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2532e85ef8969f4f08baa358be6da435aabbb8c0cd7aca6fd9a9ee426dcc92c1",
+    "title": "AIPAC Reported Lobbying on Iran and Israel Defense Policy - legis1.com",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UYkhKdTNxdmZCN3ZPRks4SUM0eEx6TTRtbVFtamNLU19tUGxXcW1nYk9NRzBkZ0NIZ21idFNQUENibjUzQTlPcWVzY1RvMk10UTgwQnZ5X3RuNmhULVdxczNNYU9Rc0xLV3ozMF9zcTY2OHBja0xUdQ?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-09-29T15:15:47+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.592783+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AIPAC Reported Lobbying on Iran and Israel Defense Policy - legis1.com",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f2ea540e83d13c30d485eb695488ffb6181cc31ce3b9b75975d22875028871be",
+    "title": "Trump’s US, Greenland deal changes less than it seems",
+    "link": "https://www.fdd.org/analysis/2026/09/29/trumps-us-greenland-deal-changes-less-than-it-seems/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T15:05:38+00:00",
+    "fetched_iso": "2026-09-29T18:21:37.960564+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump’s US, Greenland deal changes less than it seems",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0509a4d01f8127a16ce4a837825e685188953a7576a0a22dd8c5158e398f2e90",
+    "title": "Mamdani’s plan to combat antisemitism ‘fails to address’ anti-Israel rhetoric, Jewish groups say",
+    "link": "https://www.jta.org/2026/09/29/ny/mamdanis-office-unveils-plan-to-combat-antisemitism",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-29T15:00:54+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.503953+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mamdani’s plan to combat antisemitism ‘fails to address’ anti-Israel rhetoric, Jewish groups say",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "449fcd91c36db880e6bc6656a0f770bf885791fd24a077f250059b08304edcac",
+    "title": "Mamdani rolls out NYC’s first plan for fighting antisemitism — without defining the term",
+    "link": "https://forward.com/news/852563/mamdani-antisemitism-plan-jewish-new-york/",
+    "source": "The Forward",
+    "published_iso": "2026-09-29T15:00:50+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.011810+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mamdani rolls out NYC’s first plan for fighting antisemitism — without defining the term",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "92d46044ebdc57455771e7baa52c761a6355413a414fecd17c11c620b9baa90b",
+    "title": "I came to America as a Jewish refugee. For some Jews, I still don’t count.",
+    "link": "https://www.jta.org/2026/09/29/ideas/i-came-to-america-as-a-jewish-refugee-for-some-jews-i-still-dont-count",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-29T15:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.602513+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "I came to America as a Jewish refugee. For some Jews, I still don’t count.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "aff58f9be04962dad7a10c719b045adfed44e0a077b107cfcadcdbe04cc3d658",
+    "title": "Federal commission highlights campus antisemitism concern, rebukes WH response",
+    "link": "https://jewishinsider.com/2026/09/us-commission-civil-rights-campus-antisemitism-trump-administration/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T14:38:32+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.918357+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Federal commission highlights campus antisemitism concern, rebukes WH response",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "783400d70c63eb3ea549faa3f15a8898968a4f93bbd34df00fcc861af3df0cc0",
+    "title": "Don’t Ban Diesel Exports",
+    "link": "https://foreignpolicy.com/2026/09/29/trump-iran-hormuz-energy-diesel-exports-ban/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T13:28:28+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.990042+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Don’t Ban Diesel Exports",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7181f9a9759dd343fbf128dc6558350a54a1ce1873848d68e362b5cc2a7e0947",
+    "title": "US Defense Bill Deepens Military Ties With Israel and Sets Out New Middle East Strategy - israeldefense.co.il",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xNkcyRFB4cy1CcVFkQm9ZNHRQUERGT29UVUllSm1ubmJJRXFETTdEN1RYM3J2YUZpRElaZDJhRE1nc3FqRElfU3N2UWJqLU1OM3V1cWJzWGo?oc=5",
+    "source": "Google News - NDAA / FMF / Title VI",
+    "published_iso": "2026-09-29T13:28:11+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.610027+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "US Defense Bill Deepens Military Ties With Israel and Sets Out New Middle East Strategy - israeldefense.co.il",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1f64d1e0170b5c2e6382c8aefd701bd42da79345646455aa63700a97f5975f21",
+    "title": "Back-to-back incidents highlight Israel’s muddled effort to tackle extremist violence",
+    "link": "https://ejewishphilanthropy.com/back-to-back-incidents-highlight-israels-muddled-effort-to-tackle-extremist-violence/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-09-29T13:04:08+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.299813+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Back-to-back incidents highlight Israel’s muddled effort to tackle extremist violence",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "44c87ddf1def4dffb68a491e64176c58cd6635c4ff41f640c197a4e3bbc20d51",
+    "title": "Don’t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+    "link": "https://www.fdd.org/analysis/2026/09/29/dont-let-our-next-un-secretary-general-be-a-shill-for-china-cuba-and-hamas/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-29T12:34:03+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.055502+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Don’t let our next UN secretary-general be a shill for China, Cuba and Hamas",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "926a6e4b2e3b878dacb1c02b8f220662008df1cd231291b07800cdf0c53ecddf",
+    "title": "Evan Gershkovich’s prison memoir begins with a Soviet Jewish exodus",
+    "link": "https://forward.com/news/852590/evan-gershkovich-memoir-soviet-jewish-family/",
+    "source": "The Forward",
+    "published_iso": "2026-09-29T12:29:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.105837+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Evan Gershkovich’s prison memoir begins with a Soviet Jewish exodus",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "053835dbebb2f7225cf6e1b35d3078eb190a1ae3be295c9be506e5650bfcb650",
+    "title": "Sunkist Fruit Gems return after panic over loss of synagogue staple",
+    "link": "https://www.jta.org/2026/09/29/united-states/sunkist-fruit-gems-return-after-panic-over-loss-of-synagogue-staple",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-29T11:36:29+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.714169+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sunkist Fruit Gems return after panic over loss of synagogue staple",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7526a6f533cdedd542048f702542a3597b8481687f0e5aa1c543e2b15d784762",
+    "title": "Inside NYMag’s ink-quisition",
+    "link": "https://jewishinsider.com/2026/09/inside-nymags-ink-quisition/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T11:07:17+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.010585+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Inside NYMag’s ink-quisition",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fe422ee0122f5ef736694b25f99206f42784118c8f84d7887e67135f3c42a8b7",
+    "title": "Russia’s Sahel Intervention Is Riskier Than It Looks",
+    "link": "https://foreignpolicy.com/2026/09/29/niger-coup-russia-africa-corps-sahel-counterterrorism-junta-security-model-united-states/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T11:00:41+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.084083+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia’s Sahel Intervention Is Riskier Than It Looks",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7f9f92f80fe13da8a968ea63308c47c4c1b4bbbdf728e591afcf4716a4cd87b7",
+    "title": "Don’t ignore the ‘dead rats’ of global disorder",
+    "link": "https://www.atlanticcouncil.org/content-series/inflection-points/dont-ignore-the-dead-rats-of-global-disorder/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-29T11:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:38.787269+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Don’t ignore the ‘dead rats’ of global disorder",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a9b5d3c265ea0f5d0733227ecf2a136a948edd2d2e30ce3c8f436ea2f4486476",
+    "title": "Rosen, Lankford press Zuckerberg over antisemitic bot accounts on Facebook, Instagram",
+    "link": "https://jewishinsider.com/2026/09/rosen-lankford-press-zuckerberg-over-antisemitic-bot-accounts-on-facebook-instagram/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T11:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.119726+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Rosen, Lankford press Zuckerberg over antisemitic bot accounts on Facebook, Instagram",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "86cb3f2dcea428256dc24be452c40ccb505b1b6d45a7b392ac9ab2fd625c79c9",
+    "title": "If we’re going to fund AI, let’s fund it right",
+    "link": "https://ejewishphilanthropy.com/if-were-going-to-fund-ai-lets-fund-it-right/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-09-29T10:54:40+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.417874+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "If we’re going to fund AI, let’s fund it right",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d8d900ffd7902ffb4d08edd12c45feef254626012c9be3e777ea5c6af5906dad",
+    "title": "More Michigan Jews sign a petition pressuring El-Sayed on Israel. Will it matter?",
+    "link": "https://forward.com/fast-forward/852578/more-michigan-jews-sign-a-petition-pressuring-el-sayed-on-israel-will-it-matter/",
+    "source": "The Forward",
+    "published_iso": "2026-09-29T10:15:35+00:00",
+    "fetched_iso": "2026-09-29T18:21:41.213390+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "More Michigan Jews sign a petition pressuring El-Sayed on Israel. Will it matter?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "328229a178dbac40bd1cbb42950b3db86a2aaf23d1cd61f59fd383f27b7a6f14",
+    "title": "Sounds of silence: Texas Dems decline to speak out against Piker before his UT event",
+    "link": "https://jewishinsider.com/2026/09/sounds-of-silence-texas-dems-decline-to-speak-out-against-piker-before-his-ut-event/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T10:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.209699+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sounds of silence: Texas Dems decline to speak out against Piker before his UT event",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d4aeb65c34dc2ee252463d4d0873ad19c1dbda57ae67f9a6ec6bd19aa0bbd23d",
+    "title": "Inside New York magazine’s anti-Israel shift — and the Jewish staffers left behind",
+    "link": "https://jewishinsider.com/2026/09/inside-new-york-magazines-anti-israel-shift-and-the-jewish-staffers-left-behind/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T10:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.312360+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Inside New York magazine’s anti-Israel shift — and the Jewish staffers left behind",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "94de76c20d3fe1d52e3b9f45c6c471c92229b94abf0b0519b339d0395d0bfa82",
+    "title": "Michigan state lawmaker, Jewish Dem leaders join call for El-Sayed to affirm commitment to Jewish safety",
+    "link": "https://jewishinsider.com/2026/09/michigan-state-lawmaker-jewish-dem-leaders-join-call-for-el-sayed-to-affirm-commitment-to-jewish-safety/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-29T10:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.394200+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Michigan state lawmaker, Jewish Dem leaders join call for El-Sayed to affirm commitment to Jewish safety",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c0a8a9988c923d82154918b113c4646e2797e3fea085351ea1c350d8402b7dad",
+    "title": "More Michigan Jews sign a petition pressuring El-Sayed on Israel. Will it matter?",
+    "link": "https://www.jta.org/2026/09/29/politics/more-michigan-jews-sign-a-petition-pressuring-el-sayed-on-israel-will-it-matter",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-29T10:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:40.800597+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "More Michigan Jews sign a petition pressuring El-Sayed on Israel. Will it matter?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "727c8f3bccf727ba818e5745955cfe2615fbec9f42f00a0aff052f413494b248",
+    "title": "The True Meaning of Russia’s Sham Election",
+    "link": "https://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T09:56:56+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.197490+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The True Meaning of Russia’s Sham Election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "4df4a8fc1655aca673fbf68da91b9b0c1f0441755543619fa2f019d5f029fdd8",
     "title": "A matter of national security: Danielle Abraham on 3 years reviving Israel’s war-torn border farms",
     "link": "https://ejewishphilanthropy.com/a-matter-of-national-security-danielle-abraham-on-3-years-reviving-israels-war-torn-border-farms/",
@@ -14,12 +630,40 @@
     ]
   },
   {
+    "url_hash": "0a04929e434a811344780b71e7ac9c51c8a53cb9c0e97a0de558aa018906cdb3",
+    "title": "Turkey Is Turning Its Breadbasket Into an Oil Hub",
+    "link": "https://foreignpolicy.com/2026/09/29/turkey-war-iran-ukraine-oil-export-trade-agriculture-farmland-fertile-crescent/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T09:00:26+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.305003+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Turkey Is Turning Its Breadbasket Into an Oil Hub",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "da0154e366cec908c117f1f0e059ef5541b534253659494f63a24b6572766ab7",
     "title": "Why Nobody Can End the War in Ukraine",
     "link": "https://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/",
     "source": "Foreign Policy Magazine",
     "published_iso": "2026-09-29T07:35:26+00:00",
     "fetched_iso": "2026-09-29T09:10:31.261504+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why Nobody Can End the War in Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "599e6b1e7445b0d658483e8ed7783b1b1215cf6aa3483b7b7176e6de7b553515",
+    "title": "Why Nobody Can End the War in Ukraine",
+    "link": "https://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelensky-stalemate-united-states-negotiations/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-29T07:35:26+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.399430+00:00",
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Why Nobody Can End the War in Ukraine",
@@ -62,6 +706,20 @@
     "source": "Foreign Affairs Magazine",
     "published_iso": "2026-09-29T04:00:00+00:00",
     "fetched_iso": "2026-09-29T09:10:31.576232+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The New Forever War",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2000bb035afb6284034e2b32daaa01d50f520d18bb8d625d41a3d9f66ff19080",
+    "title": "The New Forever War",
+    "link": "https://www.foreignaffairs.com/iran/new-forever-war-america-ali-vaez",
+    "source": "Foreign Affairs Magazine",
+    "published_iso": "2026-09-29T04:00:00+00:00",
+    "fetched_iso": "2026-09-29T18:21:39.522550+00:00",
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "The New Forever War",
