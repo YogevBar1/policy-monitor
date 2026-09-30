@@ -1,5 +1,551 @@
 [
   {
+    "url_hash": "922ecaba06ba4fc8d282106aab9f55b7a236dd25e573fb76f7b407b864fb88ec",
+    "title": "Ohio GOP gubernatorial nominee appeared at church whose pastor called modern Judaism ‘fake’",
+    "link": "https://forward.com/news/852872/vivek-ramaswamy-ohio-liberty-valley-church-antisemitism/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T18:08:53+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.094280+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ohio GOP gubernatorial nominee appeared at church whose pastor called modern Judaism ‘fake’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9da742e1f9ba03711435b15a3ab1fd02caf797f4b205deca82c5d2e9ef0f5337",
+    "title": "What is flydubai and will it continue to link Israel and the Emirates?",
+    "link": "https://forward.com/fast-forward/852965/what-is-flydubai-and-will-it-continue-to-link-israel-and-the-emirates/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T18:06:31+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.213530+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What is flydubai and will it continue to link Israel and the Emirates?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c83abd6c85c651f832e92deb4feb5922fb32a2f7cdf596fae05b84a49a21a874",
+    "title": "Cockpit stabbing on Flydubai flight to Israel",
+    "link": "https://www.fdd.org/in_the_news/2026/09/30/cockpit-stabbing-on-flydubai-flight-to-israel/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T18:01:36+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.481528+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Cockpit stabbing on Flydubai flight to Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3f29762652eca8968c89115bbda91d48171180a4da2e74dc5b979f2ed3f5b480",
+    "title": "What is flydubai and will it continue to link Israel and the UAE?",
+    "link": "https://www.jta.org/2026/09/30/israel/what-is-flydubai-and-will-it-continue-to-link-israel-and-the-emirates",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-30T17:51:46+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.657899+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What is flydubai and will it continue to link Israel and the UAE?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "854e6142dfdb47a442d8f69d6abdad8f6aa318f9ad723a89a27a63828aa5738a",
+    "title": "Mayor Mamdani’s antisemitism strategy doesn’t define antisemitism. That’s a good thing.",
+    "link": "https://forward.com/opinion/852941/nyc-mayor-mamdanis-antisemitism-policy-no-definition-of-antisemitism/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T17:48:24+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.324843+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mayor Mamdani’s antisemitism strategy doesn’t define antisemitism. That’s a good thing.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ea33887e443298498fa8e9b9f048309963b67e85ff9c1debff239b1df56920fb",
+    "title": "U.S. exit may give Iran, ISIS an opening",
+    "link": "https://www.fdd.org/in_the_news/2026/09/30/u-s-exit-may-give-iran-isis-an-opening/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T17:10:23+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.604394+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "U.S. exit may give Iran, ISIS an opening",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c75dc0c8e3cad0730078657e7506560c216cdc5f7f478bb1bd25aa60292a5ae2",
+    "title": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends",
+    "link": "https://www.fdd.org/analysis/2026/09/30/us-forces-complete-departure-from-iraq-as-anti-islamic-state-mission-in-iraq-ends/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T16:39:17+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.703517+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "US forces complete departure from Iraq as anti-Islamic State mission in Iraq ends",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6ebb1b19a94555c639e6900d892cd3e7e35c1000a5e5951cb2dbc9936ccd444f",
+    "title": "Anti-Taliban resistance claims attacks across Afghanistan in September",
+    "link": "https://www.fdd.org/analysis/2026/09/30/anti-taliban-resistance-claims-attacks-across-afghanistan-in-september/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T16:33:46+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.812597+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Anti-Taliban resistance claims attacks across Afghanistan in September",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ce0ae1225c6333ed7a5acfe553a332e9deffaa588bc9c38ba6546ef33c2528e6",
+    "title": "UN Human Rights Council, European Governments Launch Economic Warfare Against Israel",
+    "link": "https://www.fdd.org/analysis/2026/09/30/un-human-rights-council-european-governments-launch-economic-warfare-against-israel/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T16:29:23+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.908528+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "UN Human Rights Council, European Governments Launch Economic Warfare Against Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e27b260301e1dd41a03327df9a86c1c0a39be186fbe9c6ae0f17690c0b785120",
+    "title": "New York Public Library hosts author mocking Jewish concerns of antisemitism",
+    "link": "https://jewishinsider.com/2026/09/new-york-public-library-scrutiny-author-antisemitism/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T16:13:45+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.068738+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "New York Public Library hosts author mocking Jewish concerns of antisemitism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4076aa7e0fee6ec596185ad4bb1864fdaf0923ac7ee90e59b3b3eb0dbae67f27",
+    "title": "At LA mayoral forum, candidates weigh in on Israeli genocide charges and antisemitism",
+    "link": "https://www.jta.org/2026/09/30/politics/at-la-mayoral-forum-candidates-weigh-in-on-israeli-genocide-charges-and-antisemitism",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-30T16:03:48+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.743131+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "At LA mayoral forum, candidates weigh in on Israeli genocide charges and antisemitism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "772e82334f26f1da18d35340f743e313df4b14c820d485cc77a25b4eef5486e1",
+    "title": "Tuvalu National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/tuvalu-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T16:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:02.782055+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tuvalu National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0dfe5ebedeaaed38f66f3b2772538a54491788510261f7f093f66752b427c665",
+    "title": "Palau National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/palau-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T16:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:02.981894+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Palau National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6970cdbe5678091a5abb92bf2005e8ee0d35f59591d4a5d42f27953de59002bc",
+    "title": "People’s Republic of China National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/peoples-republic-of-china-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T16:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.083337+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "People’s Republic of China National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d3a03687cef945cb9bb4f0bdd81fecd568934042b6a0ffc53a9ad8542e67a77a",
+    "title": "G20 Chair’s Statement: Ebola Ministerial on Accelerating Collective Action to Defeat Ebola",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/g20-chairs-statement-ebola-ministerial-on-accelerating-collective-action-to-defeat-ebola/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T15:54:39+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.185461+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "G20 Chair’s Statement: Ebola Ministerial on Accelerating Collective Action to Defeat Ebola",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3b9932ccefb33ad6eab78fabd153fec06c68c256a6883216083ec58626ee9527",
+    "title": "U.S. Tightens Cuba Sanctions to Counter Regime Repression",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/u-s-tightens-cuba-sanctions-to-counter-regime-repression/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T15:45:49+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.283669+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "U.S. Tightens Cuba Sanctions to Counter Regime Repression",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9b04aef6324c1a172902ac700ae151b3ff6316483d044f5e20dd86c7a85a8d66",
+    "title": "Lula Bets Big on Defense Ahead of Election",
+    "link": "https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industrial-policy-economy-trump/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-30T15:34:09+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.468383+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lula Bets Big on Defense Ahead of Election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9e65df8ac936c091bc642017c1188f5088e51e253b988adce6201bb8ac8ea661",
+    "title": "Africa’s exit problem is the United States’ entry point",
+    "link": "https://www.atlanticcouncil.org/blogs/africasource/africas-exit-problem-is-the-united-states-entry-point/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-30T15:05:04+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.152701+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Africa’s exit problem is the United States’ entry point",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ec2b447321c3403c39ed40c047484f728d4d84a3d1067259376571fc421a73e3",
+    "title": "Sanctioning Money Launderers Linked to Tren de Aragua’s Multi-Million-Dollar Theft Scheme",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/sanctioning-money-launderers-linked-to-tren-de-araguas-multi-million-dollar-theft-scheme/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-09-30T14:58:25+00:00",
+    "fetched_iso": "2026-09-30T18:11:03.386617+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sanctioning Money Launderers Linked to Tren de Aragua’s Multi-Million-Dollar Theft Scheme",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "35e45cf855cb69e0bd3a4252ea2a4b7ffb476585b93cd40e3ceb713a77523b47",
+    "title": "DNC bids to reengage Jewish voters with new constituency council ahead of 2028",
+    "link": "https://jewishinsider.com/2026/09/dnc-launches-jewish-constituency-council/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T14:34:08+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.177768+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "DNC bids to reengage Jewish voters with new constituency council ahead of 2028",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ecb330802235292f117623c206391bd2b5d93ba4175f65658d12210626b67bdb",
+    "title": "To save its manufacturing base, Europe needs to look east",
+    "link": "https://www.atlanticcouncil.org/blogs/econographics/to-save-its-manufacturing-base-europe-needs-to-look-east/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-30T14:30:10+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.255739+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "To save its manufacturing base, Europe needs to look east",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d715dd83bd4c37608035222654909dbd90270e2e65f45358de49a7be686a4db8",
+    "title": "AI, Judaism and what to do about ‘Fully-Automated Luxury Communism’",
+    "link": "https://forward.com/opinion/852749/ai-future-of-judaism-bastani-fully-automated-luxury-communism/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T14:20:10+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.425621+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AI, Judaism and what to do about ‘Fully-Automated Luxury Communism’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b64c755908594a21c2c7b39324d86b583de30bb25af907be18bf15f2a02b70a8",
+    "title": "Populism’s New Rallying Cry Is ‘Expropriation’",
+    "link": "https://foreignpolicy.com/2026/09/30/berlin-left-linke-expropriation-confiscation-housing-mayor/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-30T13:54:47+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.577368+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Populism’s New Rallying Cry Is ‘Expropriation’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "78607d054bbd21be20e3afaf235747acc56cad107bb5d7c7666e1ae3953a34cd",
+    "title": "Your Daily Phil: The diverse donors doubling down against antisemitism",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-the-diverse-donors-doubling-down-against-antisemitism/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-09-30T13:03:14+00:00",
+    "fetched_iso": "2026-09-30T18:11:07.061042+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: The diverse donors doubling down against antisemitism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6becb15245ad014547becaafa4cab4efa06ac9180cb90b29654819c465bb2b6e",
+    "title": "Passengers from attempted hijacking land back in Israel",
+    "link": "https://forward.com/fast-forward/852899/israel-bound-flight-diverted-to-saudi-arabia-after-terror-attack-on-board/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T12:59:13+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.533316+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Passengers from attempted hijacking land back in Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "64bf7c83c2096beaf730a135438372017bbb9d9da9e8455b71e8816d790b432b",
+    "title": "Medvedev’s message",
+    "link": "https://www.fdd.org/analysis/2026/09/30/medvedevs-message/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-09-30T12:48:41+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.009798+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Medvedev’s message",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f84ae9a36876c66c0181446eda7afb8981bba10dabbd2b27b99cabffa95e3e45",
+    "title": "Passengers from the attempted flydubai hijacking land back in Israel",
+    "link": "https://www.jta.org/2026/09/30/israel/israel-bound-flight-diverted-to-saudi-arabia-after-terror-attack-on-board",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-30T12:45:08+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.883687+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Passengers from the attempted flydubai hijacking land back in Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "60a4a94390fc23fd71243d95f2a222176d7ed54d7f24c85d59f0412cfc6b23ef",
+    "title": "Israelis land in Saudi, miraculously",
+    "link": "https://jewishinsider.com/2026/09/israelis-land-in-saudi-miraculously/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T12:15:21+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.268431+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israelis land in Saudi, miraculously",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7f70817a64b7c4d7359669dc85183dc13c27aa5040702d2e0c548fb6904bede4",
+    "title": "How Far Will the Canada-EU Lovefest Go?",
+    "link": "https://foreignpolicy.com/2026/09/30/canada-european-union-membership-trump-ottowa-brussels/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-30T11:53:49+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.707369+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How Far Will the Canada-EU Lovefest Go?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9ce241b0ad85526a4379c7cb21a722c70993151125a5a159c565548710bd1214",
+    "title": "Israel-bound FlyDubai flight makes emergency landing in Saudi Arabia after suspected terror attack by co-pilot",
+    "link": "https://jewishinsider.com/2026/09/israel-flydubai-flight-suspected-terror-attack-co-pilot/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T11:36:42+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.357258+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel-bound FlyDubai flight makes emergency landing in Saudi Arabia after suspected terror attack by co-pilot",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "31d3164aa9a2b86e0470b88c383eea0b91f82a7513a57b02049c498f87a2b8bb",
+    "title": "Everyone Got Pete Hegseth Wrong",
+    "link": "https://foreignpolicy.com/2026/09/30/pete-hegseth-trump-influential-official/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-30T11:09:01+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.787075+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Everyone Got Pete Hegseth Wrong",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e594cdad746b5721b0f0c15f02ed9b14d1504584c233de8b485fec2e4db5467a",
+    "title": "Far-right Israel critic James Fishback likens abortion to the Holocaust",
+    "link": "https://forward.com/fast-forward/852851/far-right-israel-critic-james-fishback-likens-abortion-to-the-holocaust/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T11:04:58+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.638001+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Far-right Israel critic James Fishback likens abortion to the Holocaust",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e74532f21f144eeaf84aa8ea72ca885a3e8e4f349124c79a8315136b9d462958",
+    "title": "Gottheimer urges DOJ to investigate N.J. city for antisemitic discrimination",
+    "link": "https://jewishinsider.com/2026/09/gottheimer-urges-doj-to-investigate-n-j-city-for-antisemitic-discrimination/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T11:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.446183+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Gottheimer urges DOJ to investigate N.J. city for antisemitic discrimination",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6412d22c067a8b05d696cc60c8a512c1dbde76e828575172bb3ad69b8d10eb80",
+    "title": "Rising Jewish Democrat in Michigan won’t endorse El-Sayed",
+    "link": "https://jewishinsider.com/2026/09/rising-jewish-democrat-in-michigan-wont-endorse-el-sayed/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-09-30T11:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.539247+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Rising Jewish Democrat in Michigan won’t endorse El-Sayed",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "12ff9308d510538d89eaf71b1f37519d45b8d356c1a33ff1e3d3b151f68be982",
+    "title": "Far-right Israel critic James Fishback likens abortion to the Holocaust in Ole Miss speech",
+    "link": "https://www.jta.org/2026/09/30/politics/far-right-israel-critic-james-fishback-likens-abortion-to-the-holocaust-in-ole-miss-speech",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-09-30T10:24:36+00:00",
+    "fetched_iso": "2026-09-30T18:11:05.983561+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Far-right Israel critic James Fishback likens abortion to the Holocaust in Ole Miss speech",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7cc34de3d7d92aba6fad9d865f5ad88ccd55fb40925d5159225343bd655dcbc1",
+    "title": "Protesters stormed Mahmoud Khalil’s book release. His Israeli editor confronted them.",
+    "link": "https://forward.com/news/852818/mahmoud-khall-book-protest-betar/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T10:17:32+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.736280+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Protesters stormed Mahmoud Khalil’s book release. His Israeli editor confronted them.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5775a7980298ec36060493fbe984aa2927744f8b75b2ba8ed96e93978b3ff90a",
+    "title": "Thailand’s Demographic Crisis Arrives Early",
+    "link": "https://foreignpolicy.com/2026/09/30/thailand-demographic-crisis-birth-rate-declining-economy/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-09-30T10:00:10+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.891314+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Thailand’s Demographic Crisis Arrives Early",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "81b52662656392718de67c3e70c836bc0f12230de9509b35a05fa17eba951f33",
+    "title": "US troops are leaving Iraq, but the US should stay",
+    "link": "https://www.atlanticcouncil.org/dispatches/us-troops-are-leaving-iraq-but-the-us-should-stay/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-09-30T09:51:42+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.371934+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "US troops are leaving Iraq, but the US should stay",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c7d642e9ebcb0729e00f399a3688dcc50f37bd6f88be76e8e472c46d33a39ed0",
+    "title": "When we make space for relational work, our community flourishes",
+    "link": "https://ejewishphilanthropy.com/when-we-make-space-for-relational-work-our-community-flourishes/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-09-30T09:35:46+00:00",
+    "fetched_iso": "2026-09-30T18:11:07.137913+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "When we make space for relational work, our community flourishes",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "1e06a7fb8c08db876c29682664094152b581af3da0e4bcf5bfe8fae26793d4d7",
     "title": "If Trump makes good on offering Canadian Jews refugee status, will they come?",
     "link": "https://forward.com/fast-forward/852746/if-trump-makes-good-on-offering-canadian-jews-refugee-status-will-they-come/",
@@ -126,6 +672,20 @@
     ]
   },
   {
+    "url_hash": "22fd5e161be23d06b3ed30caa950532c7eb52ba777b3695bad6a751968a55419",
+    "title": "Will ‘genocide’ in Israel cost LA mayoral candidate Jewish votes and her lead? Forum suggests it could",
+    "link": "https://forward.com/news/852764/nithya-raman-la-mayor-jewish-vote/",
+    "source": "The Forward",
+    "published_iso": "2026-09-30T05:26:42+00:00",
+    "fetched_iso": "2026-09-30T18:11:06.977724+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Will ‘genocide’ in Israel cost LA mayoral candidate Jewish votes and her lead? Forum suggests it could",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "4ac7e4412b72b643c1a0c66c7c5f7d1a3670ffd8735ba83ef39c1966730979a8",
     "title": "Why Have Indonesia’s Fires Gotten So Bad?",
     "link": "https://foreignpolicy.com/2026/09/30/indonesia-forest-fires-worst-ever-plantations-el-nino/",
@@ -210,6 +770,20 @@
     ]
   },
   {
+    "url_hash": "f8c9876a670956ab2d0a47c9bc12eacf4aeb82d5d90af853b5a8c291aaa8f0ec",
+    "title": "Russia’s Plan to Break Ukraine",
+    "link": "https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine-dmytro-kuleba",
+    "source": "Foreign Affairs Magazine",
+    "published_iso": "2026-09-30T04:00:00+00:00",
+    "fetched_iso": "2026-09-30T18:11:04.980417+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia’s Plan to Break Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "ccc83022602c6ec9b3f39074d1acd9b70e677a8a32b06b78dbf6850a2d35c850",
     "title": "Nearly all Democrats vote for resolution demanding report on Israeli violence in the West Bank",
     "link": "https://jewishinsider.com/2026/09/nearly-all-democrats-resolution-report-israeli-violence-west0bank/",
@@ -261,6 +835,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Democrats in Congress Embrace a More Punitive Posture Toward Israel - The New York Times",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e809277919cadf24f97a2d12cbbc69f028eb8da3b9c4f284a75c9a4f6e26510f",
+    "title": "Iraq begins high-stakes security balancing act as US troops withdraw - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXNwV2V3V0N4QXJRWG8tS1RCc01kSTZURTJxVzVkckU2Vm1kcWlIMXdXVWhuenQxVFYwSktNbnVBMHI5UHVxcWtSQUN1d1FUMU5LMGd1Rk8tbHFTc2RvbEl5YzhHM0g4ajBxOFNXQWNWVy1Od25LNC1FRjBxZFU5NWFJc016UGZCaWQwM094NVNoUVVtM3FwbjByV000c3lGazdwUHpJVVptOHhOT2fSAbMBQVVfeXFMTjRZN2l3MzJnUEx0cjJCY21mMnNrNlIxVzBhUzNKbGkyWWJkQmVaSU5kandRdlBnYTNIUS13UlkyaTJnLW5VLVVWaGloNEhtWGFCbmY2SndMbmtkLWN5Nnh5ZUx5Um9qNnBsZlFWQ1k4M2sxMnk3eUJIZFJBY2Q0c2YxSXI1cE9RVV8wbWtOUnF0R3FBTl9OZDR6bnd0dWJsdFZlSHJYaFJOLXptTGVkMVJEX2s?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-09-29T23:18:26+00:00",
+    "fetched_iso": "2026-09-30T18:11:07.241328+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iraq begins high-stakes security balancing act as US troops withdraw - Al Jazeera",
     "implications": [
       "Analysis temporarily unavailable."
     ]
