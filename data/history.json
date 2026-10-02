@@ -1,5 +1,537 @@
 [
   {
+    "url_hash": "e1585fff216a6f4bee565a93e75c0988bfadbcd1484fabe76d7fbac41daa17e8",
+    "title": "Israel’s long quest for defensible borders",
+    "link": "https://www.fdd.org/in_the_news/quotes/2026/10/02/israels-long-quest-for-defensible-borders/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T17:55:37+00:00",
+    "fetched_iso": "2026-10-02T18:06:11.752260+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel’s long quest for defensible borders",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "30f7285fd364d3405aca2fe80d39b71843f1636e4e7a9fd8d36461725c0deb96",
+    "title": "Trump’s Iran crackdown collides with NATO ally seeking access to America’s prized fighter jet",
+    "link": "https://www.fdd.org/in_the_news/quotes/2026/10/02/trumps-iran-crackdown-collides-with-nato-ally-seeking-access-to-americas-prized-fighter-jet/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T17:50:53+00:00",
+    "fetched_iso": "2026-10-02T18:06:11.874654+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump’s Iran crackdown collides with NATO ally seeking access to America’s prized fighter jet",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "84b57605ef27c39ebc01311cc18b08fa45dd12a9a67015de62365f5b361d4287",
+    "title": "Rogers calls El-Sayed ‘threat to our national security’ in new ad",
+    "link": "https://jewishinsider.com/2026/10/rogers-el-sayed-threat-national-security-new-ad/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T17:43:40+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.027770+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Rogers calls El-Sayed ‘threat to our national security’ in new ad",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3e15bbc152ffc91b62d2b6a501e0e33be71d4e4b112293304eda808f594a3e95",
+    "title": "Kansas Democratic Senate candidate wants to cut offensive aid to Israel, rejects genocide label",
+    "link": "https://jewishinsider.com/2026/10/adam-hamilton-kansas-senate-israel-genocide-offensive-aid/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T17:29:14+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.149817+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Kansas Democratic Senate candidate wants to cut offensive aid to Israel, rejects genocide label",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0e564dc56790808b5f6340f608cb7e256635d07594aa36b463ef5af763145a6e",
+    "title": "The Jewish players to watch in the NHL this season",
+    "link": "https://www.jta.org/2026/10/02/sports/the-jewish-players-to-watch-in-the-nhl-this-season",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T17:19:15+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.610825+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Jewish players to watch in the NHL this season",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "57359d3cf93d0288c4bbf629bde8ee1997875cd0faab112ab522d92777d70998",
+    "title": "What’s at Stake in Brazil’s Election",
+    "link": "https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T17:09:19+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.211896+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What’s at Stake in Brazil’s Election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7bee6fe49b64a309f221a405d9f95c205c1db4fb6cf86c7e9be708289b3a5c2f",
+    "title": "I was so afraid my son would leave the Jewish family that I forgot to be his father",
+    "link": "https://www.jta.org/2026/10/02/ideas/i-was-so-afraid-my-son-would-leave-the-jewish-family-that-i-forgot-to-be-his-father",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T17:00:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.739562+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "I was so afraid my son would leave the Jewish family that I forgot to be his father",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "800a90595eb17588181aadb7da49e014363b7fd6e32a5905dee4b7a56ff7f0ad",
+    "title": "Jewish communities worldwide under heightened threat after flydubai attack",
+    "link": "https://www.jta.org/2026/10/02/israel/jewish-communities-worldwide-under-heightened-threat-after-flydubai-attack",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T16:57:30+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.851261+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jewish communities worldwide under heightened threat after flydubai attack",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "02fcef189f7eef63f31eef1a8f44b08371e59fbc5d6d26b4e041f51b200fc49c",
+    "title": "Iran’s regime continues to use proxies in Middle East",
+    "link": "https://www.fdd.org/in_the_news/2026/10/02/irans-regime-continues-to-use-proxies-in-middle-east/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T16:48:39+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.002359+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iran’s regime continues to use proxies in Middle East",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "21af73f1603c33237e4f3af7a74364f00c87b488a689165a7ab1ff4c9164207a",
+    "title": "The Houthis, Tehran, and the Deep Red Sea",
+    "link": "https://www.fdd.org/podcasts/2026/10/02/the-houthis-tehran-and-the-deep-red-sea/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T16:45:58+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.120740+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Houthis, Tehran, and the Deep Red Sea",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8f9a2d8b01625b5fade95cc0caa7a51063a8237d97d9c9b7c66a60c8c27b86b9",
+    "title": "‘What Is Happening Today Is Development in Reverse’",
+    "link": "https://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T16:32:07+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.342641+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘What Is Happening Today Is Development in Reverse’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "aaca0c9537ba743d54af84771fe865c8da4bea109c1aa7dc847abed24f0c24b1",
+    "title": "Defense Department’s Public Election Security Directive Sends Important, but Belated, Signal to U.S. Adversaries",
+    "link": "https://www.fdd.org/analysis/2026/10/02/defense-departments-public-election-security-directive-sends-important-but-belated-signal-to-u-s-adversaries/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T16:32:03+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.250582+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Defense Department’s Public Election Security Directive Sends Important, but Belated, Signal to U.S. Adversaries",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3c0ea950760b83acaee0a1970cc0a0f4ef68742a12ab631e89b06c87b1834d0f",
+    "title": "United States Cuts Off Hamas Financing Network",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-cuts-off-hamas-financing-network/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T16:31:48+00:00",
+    "fetched_iso": "2026-10-02T18:06:11.344237+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "United States Cuts Off Hamas Financing Network",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2902dac94f596d5b0fbf02bb2f0a40f19c806bc63218c99a5f8586eb52bb3f0b",
+    "title": "Pashinyan Confronts the Karabakh Cause",
+    "link": "https://foreignpolicy.com/2026/10/02/pashinyan-karabakh-armenia-democracy-azerbaijan-refugees/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T15:47:14+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.480340+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Pashinyan Confronts the Karabakh Cause",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "045ebb3992ba56df2b8349def9795a78e34c3857107c9c716e31dce12d614fa0",
+    "title": "Secretary Rubio’s Call with Jordanian King Abdullah II",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-jordanian-king-abdullah-ii/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T15:13:18+00:00",
+    "fetched_iso": "2026-10-02T18:06:11.560998+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary Rubio’s Call with Jordanian King Abdullah II",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f1b43911116dd7654334b47cd5e32363becb379bad377e5b99ea8aedaeee90f1",
+    "title": "US charges engineer with supporting Houthis, Louisiana brothers and Florida man with financing Hamas",
+    "link": "https://www.fdd.org/analysis/2026/10/02/us-charges-engineer-with-supporting-houthis-louisiana-brothers-and-florida-man-with-financing-hamas/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T15:00:09+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.382657+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "US charges engineer with supporting Houthis, Louisiana brothers and Florida man with financing Hamas",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b314b0f8e111d412261b38192f23df27e5c6f9c2d99c17dee11fab89bee308e0",
+    "title": "As The New York Times turns 175, the fight over its Israel coverage heats up again",
+    "link": "https://www.jta.org/2026/10/02/ideas/as-the-new-york-times-turns-175-the-fight-over-its-israel-coverage-heats-up-again",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T15:00:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.974293+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "As The New York Times turns 175, the fight over its Israel coverage heats up again",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e59800e5c8b480d5048cb28177342e210758740f1fd78c2be092ad76ee69ea4b",
+    "title": "Search for answers in Flydubai cockpit attack",
+    "link": "https://www.fdd.org/in_the_news/2026/10/02/search-for-answers-in-flydubai-cockpit-attack/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T14:37:21+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.504338+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Search for answers in Flydubai cockpit attack",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8699e0b5c17384e1379d52d8bc4e1f3026880c7453d88d0a6626f17f6d7baef5",
+    "title": "Russian Cyberespionage Campaign Signals U.S. Should Fast-Track Lessons Learned From Ukraine",
+    "link": "https://www.fdd.org/analysis/2026/10/02/russian-cyberespionage-campaign-signals-should-fast-track-lessons-learned-from-ukraine/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T14:24:03+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.625447+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russian Cyberespionage Campaign Signals U.S. Should Fast-Track Lessons Learned From Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "cf9ba95d060e556de36de84523998a038c75188d3899608db89d07d1f0ba1036",
+    "title": "America’s only major etrog grower is in survival mode amid global competition",
+    "link": "https://www.jta.org/2026/10/02/united-states/americas-only-major-etrog-grower-is-in-survival-mode-amid-global-competition",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T14:22:12+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.095640+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "America’s only major etrog grower is in survival mode amid global competition",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "540a7c166c95ebab3988101654de940e0e49dcd63be4b1d3536062907c58dd89",
+    "title": "Investing in Europe’s next growth engine",
+    "link": "https://www.atlanticcouncil.org/blogs/econographics/investing-in-europes-next-growth-engine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T14:15:07+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.758239+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Investing in Europe’s next growth engine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "da646eb86b9b9520490db3668c5a428af6243a15a084a4d2682eacd32bfa6d35",
+    "title": "How China Managed the Oil Shock",
+    "link": "https://foreignpolicy.com/2026/10/02/china-oil-reserves-refiners-energy-crisis-coal-petrochemicals/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T14:04:59+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.597498+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How China Managed the Oil Shock",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "52b9b41255335bc4f8e60ec56e68368fd6b0a7eb231c56295ab659d7dc2ad1c8",
+    "title": "Your Daily Phil: Guess who’s not coming to dinner? Shabbat can help",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-guess-whos-not-coming-to-dinner-shabbat-can-help/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-02T13:35:32+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.693990+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Guess who’s not coming to dinner? Shabbat can help",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "67b1df1255e856ae74b6cae5e2b3f07631227e32710b14aa5f32ad4b073e5c43",
+    "title": "Chhangani quoted in Fortune on mBridge and dollar dominance",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-new-york-times-on-the-prospects-of-de-dollarization-3/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T13:21:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.860859+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Chhangani quoted in Fortune on mBridge and dollar dominance",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7f8c212d0f57000a246e677f398d5448964bcbd10caa892e66a1677d041750ac",
+    "title": "Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T13:20:22+00:00",
+    "fetched_iso": "2026-10-02T18:06:12.972855+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Nikoladze quoted in a National Intelligence University monograph on the geoeconomic implications of the Israel-Hamas conflict",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "909f561817b08b4c03ebc632ae2e2e98dce84b0793fa8423c39e7fcf0614a355",
+    "title": "Singh featured in Financial Times on Saudi Arabia’s withdrawal from mBridge",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-new-york-times-on-the-prospects-of-de-dollarization-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T13:19:09+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.091389+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Singh featured in Financial Times on Saudi Arabia’s withdrawal from mBridge",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c311b6bbe4a99e0ae6b4d469f2d9c81185f6e718472bd835943a4049f51a5420",
+    "title": "As Voice of the People recruits new members, first cohort wrestles with limits of civil debate — and initiative’s purpose",
+    "link": "https://ejewishphilanthropy.com/as-voice-of-the-people-recruits-new-members-first-cohort-wrestles-with-limits-of-civil-debate-and-initiatives-purpose/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-02T12:50:40+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.814469+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "As Voice of the People recruits new members, first cohort wrestles with limits of civil debate — and initiative’s purpose",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1e4b34917fa1a12edab2cf714db381590045e0cca5343489409117e5c047b279",
+    "title": "The Forces Shaping Brazil’s Election",
+    "link": "https://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T12:00:38+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.704618+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Forces Shaping Brazil’s Election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a47447e4db82062c1cef73a00addb0e37213a8db386212b810c5e266e2e665f0",
+    "title": "Lone Star Jews have the Senate blues",
+    "link": "https://jewishinsider.com/2026/10/lone-star-jews-have-the-senate-blues/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T11:58:21+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.257465+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lone Star Jews have the Senate blues",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e3530223df8f3150574e3c3d43ecfdcd4d11f54847c1c033aefe40407f06b9b1",
+    "title": "Is this Vermont farm the American kibbutz? I camped out there during Sukkot — and got a taste of Judaism’s ancient agrarian roots",
+    "link": "https://forward.com/culture/853253/living-tree-alliance-sukkot-vermont-kibbutz-cohousing-earth-based-judaism/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T11:49:34+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.200360+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Is this Vermont farm the American kibbutz? I camped out there during Sukkot — and got a taste of Judaism’s ancient agrarian roots",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "20aca9edf32f5266ebea54aa220fade3a98273c4e788fd3390a302d8b4361d8e",
+    "title": "Americans aren’t hosting in their homes anymore; Shabbat can help",
+    "link": "https://ejewishphilanthropy.com/americans-arent-hosting-in-their-homes-anymore-shabbat-can-help/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-02T11:23:19+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.929117+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Americans aren’t hosting in their homes anymore; Shabbat can help",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4f02a57a85468fdba05c3bcec70369d06fb1c7d7a81cc555b636c44b904ff619",
+    "title": "Simchat Torah: A road map for Jewish joy",
+    "link": "https://ejewishphilanthropy.com/simchat-torah-a-road-map-for-jewish-joy/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-02T11:14:45+00:00",
+    "fetched_iso": "2026-10-02T18:06:16.053293+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Simchat Torah: A road map for Jewish joy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "34932871a1e89efdb0f56b5493e55ffde25e38d62b74578e9095e42cc8e936ca",
+    "title": "In its first detailed response to ‘NAZA’ documentary, IDF claims ‘fundamental errors’",
+    "link": "https://forward.com/fast-forward/853442/idf-claims-fundamental-errors-in-naza/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T10:29:08+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.340058+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "In its first detailed response to ‘NAZA’ documentary, IDF claims ‘fundamental errors’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e7ef8217db13919a17388d45bc5350256a2b28818062f39f2749acabab0536fb",
+    "title": "Zara removes Halloween costume likened to concentration camp uniform",
+    "link": "https://forward.com/fast-forward/853472/zara-removes-halloween-costume-likened-to-concentration-camp-uniform/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T10:23:17+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.481213+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Zara removes Halloween costume likened to concentration camp uniform",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6998e652cd7ae32f5c0308b4dead9737d7c20d4490c45c3dfea2317ed074efc7",
+    "title": "Jewish groups hail California law making it the first state to list ‘Jewish’ as an ethnicity",
+    "link": "https://forward.com/fast-forward/853466/california-first-state-law-jewish-ethnicity/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T10:17:38+00:00",
+    "fetched_iso": "2026-10-02T18:06:15.585430+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jewish groups hail California law making it the first state to list ‘Jewish’ as an ethnicity",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8ad373d04cdca9e533b41b3e10457974b35507598bc4ac41d891c8c52006903e",
+    "title": "House Democrats urge Rubio to respond to Turkey’s crackdown on LGBTQ community",
+    "link": "https://jewishinsider.com/2026/10/house-democrats-rubio-respond-turkey-lgbtq-crackdown/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T10:00:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.369699+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "House Democrats urge Rubio to respond to Turkey’s crackdown on LGBTQ community",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7787be61874d3b98b44c6ecfef989f52b6d8cec79779637905c315b9c26d02dc",
+    "title": "Democratic governors face looming deadline to opt in for educational tax credit",
+    "link": "https://jewishinsider.com/2026/10/democratic-governors-deadline-federal-education-tax-credit/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T10:00:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:14.493776+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Democratic governors face looming deadline to opt in for educational tax credit",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "47e332df76299492caddcfc9a96417d7adc24e4b1487dbe5284bb5552858ae31",
+    "title": "The top rung: What trauma survivors can teach funders about relationships",
+    "link": "https://ejewishphilanthropy.com/the-top-rung-what-trauma-survivors-can-teach-funders-about-relationships/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-02T09:50:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:16.163603+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The top rung: What trauma survivors can teach funders about relationships",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "008ec1070d5f855284222ad15cc9436f5f3419d11e605fb4c24e1dfd520218d5",
     "title": "Texas Jewish voters at a loss in the state’s hotly contested Senate race",
     "link": "https://jewishinsider.com/2026/10/texas-jewish-voters-senate-race-ken-paxton-james-talarico/",
@@ -76,6 +608,20 @@
     "source": "Foreign Affairs Magazine",
     "published_iso": "2026-10-02T04:00:00+00:00",
     "fetched_iso": "2026-10-02T09:05:34.101204+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Brazil’s Election Won’t Fix What’s Broken",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "37e21c60550a21131bd52b05e64cb33b1eda61d3fc9e2edaf7dead019de6e95e",
+    "title": "Brazil’s Election Won’t Fix What’s Broken",
+    "link": "https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor",
+    "source": "Foreign Affairs Magazine",
+    "published_iso": "2026-10-02T04:00:00+00:00",
+    "fetched_iso": "2026-10-02T18:06:13.902799+00:00",
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Brazil’s Election Won’t Fix What’s Broken",
