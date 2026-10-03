@@ -1,5 +1,341 @@
 [
   {
+    "url_hash": "f445f0be5a6806c8a5b02da8fb5ad6bc55acc7505cfab0f3ca4ee604ebe29aad",
+    "title": "Germany National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/germany-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-03T04:01:00+00:00",
+    "fetched_iso": "2026-10-03T08:38:22.555417+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Germany National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1e546b861ad81126d97c05c806252554dd11ceb078ddde6a27100a935a660dac",
+    "title": "United States and Japan Extend Science and Technology Agreement Indefinitely",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-japan-extend-science-and-technology-agreement-indefinitely/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T22:56:50+00:00",
+    "fetched_iso": "2026-10-03T08:38:22.800233+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "United States and Japan Extend Science and Technology Agreement Indefinitely",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "11c28bbd5a2f2e6d382feacd6121f410be7a3922c75ec2f0277a0c48d9ff74f1",
+    "title": "David Ellison slots Israeli Ynon Kreiz into executive role at merged Paramount-Warner studios",
+    "link": "https://www.jta.org/2026/10/02/united-states/david-ellison-slots-israeli-ynon-kreiz-into-executive-role-at-merged-paramount-warner-studios",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T22:01:04+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.159062+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "David Ellison slots Israeli Ynon Kreiz into executive role at merged Paramount-Warner studios",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ad94b756ef086af146070eee5cc8db675d1a48196626efecd3dcf2d5cc88f4c1",
+    "title": "Deputy Secretary Landau’s Meeting with Japanese State Minister for Foreign Affairs Horii",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/deputy-secretary-landaus-meeting-with-japanese-state-minister-for-foreign-affairs-iwao-horii/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T21:20:02+00:00",
+    "fetched_iso": "2026-10-03T08:38:22.909610+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Deputy Secretary Landau’s Meeting with Japanese State Minister for Foreign Affairs Horii",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "371121ead3b896fb67f006e5821ab0c37130c206817a7295fd62b76e59b33e85",
+    "title": "Protesters disrupt Mahmoud Khalil book event",
+    "link": "https://www.jta.org/2026/10/02/ny/protesters-disrupt-mahmoud-khalil-book-event",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T21:18:57+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.249241+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Protesters disrupt Mahmoud Khalil book event",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "45f869b27ef2dda0144c86457789ebfe0f675b41651db6fe6c807cc07072a21b",
+    "title": "G-7 Agrees to Release 100 Million Barrels of Reserve Diesel",
+    "link": "https://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T21:01:12+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.334077+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "G-7 Agrees to Release 100 Million Barrels of Reserve Diesel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9c068f3b8514fb208cdf9b087523753586ab95d7d0a4fca7dab51f04fed80e3c",
+    "title": "Mamdani joins Theo Von’s podcast. They find common ground in criticizing Netanyahu.",
+    "link": "https://www.jta.org/2026/10/02/ny/mamdani-joins-theo-vons-podcast-they-find-common-ground-in-criticizing-netanyahu",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T20:57:05+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.448596+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mamdani joins Theo Von’s podcast. They find common ground in criticizing Netanyahu.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "009d40ba049f6cc77816b0a98918755e49b00401ff7dd87729fe2a638265d69f",
+    "title": "It’s not just misuse: AI-enabled biological research also runs the risk of accidents",
+    "link": "https://www.atlanticcouncil.org/dispatches/its-not-just-misuse-ai-enabled-biological-research-also-runs-the-risk-of-accidents/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T20:37:40+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.807888+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "It’s not just misuse: AI-enabled biological research also runs the risk of accidents",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0b5425b7bdcc234074f40dbe358b47e85ad52723a81dac80ea477355e926c13e",
+    "title": "Ad-Hoc Coalition to Defeat ISIS Meeting on Iraq and Syria",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/ad-hoc-coalition-to-defeat-isis-meeting-on-iraq-and-syria/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T20:23:14+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.006580+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ad-Hoc Coalition to Defeat ISIS Meeting on Iraq and Syria",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "53bd7c7228103d2a421b25fb1caac327e4082207deb902507dae2bc11bd6d20c",
+    "title": "What the US gains by keeping a military presence in Kosovo",
+    "link": "https://www.atlanticcouncil.org/dispatches/what-the-us-gains-by-keeping-a-military-presence-in-kosovo/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T20:20:51+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.944341+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What the US gains by keeping a military presence in Kosovo",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "47db4dea92148ac66dc6ccdb150ba5579a4cb07bdf9437045400bc8e695e4239",
+    "title": "Saudi Arabia launches war against Houthis",
+    "link": "https://www.fdd.org/in_the_news/2026/10/02/saudi-arabia-launches-war-against-houthis/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T20:08:55+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.317538+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Saudi Arabia launches war against Houthis",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d86c0101d47fc5874e96046e0e29528f480c8c9d92df23dc8ccfe8019d60c1d1",
+    "title": "What is Oman’s relationship with Israel – if any?",
+    "link": "https://www.jta.org/2026/10/02/israel/what-is-omans-relationship-with-israel-if-any",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T19:35:31+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.547975+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What is Oman’s relationship with Israel – if any?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "18e79a3632ac9fcf4f246b1114b8c483be689386067bee38f9b2cba25d017368",
+    "title": "Revenge Is a Central Pillar of Iranian Foreign Policy",
+    "link": "https://www.fdd.org/analysis/2026/10/02/revenge-is-a-central-pillar-of-iranian-foreign-policy/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T19:25:56+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.517172+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Revenge Is a Central Pillar of Iranian Foreign Policy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "698b006f0f7fc0c757c7236b210f3a754f6f19a7d98251919b780319c758b9c5",
+    "title": "El-Sayed accused Israel of genocide before Gaza ground war began",
+    "link": "https://jewishinsider.com/2026/10/el-sayed-israel-genocide-before-gaza-war-began/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-02T19:11:23+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.961609+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "El-Sayed accused Israel of genocide before Gaza ground war began",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f8729e8e5caebee75ce0204ed2bbc2afb572db942dd9ff30df7122a102f6ea69",
+    "title": "Syria faces infrastructure sabotage, Islamic State activity amid utility shortages",
+    "link": "https://www.fdd.org/analysis/2026/10/02/syria-faces-infrastructure-sabotage-islamic-state-activity-amid-utility-shortages/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-02T19:10:18+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.634681+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Syria faces infrastructure sabotage, Islamic State activity amid utility shortages",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b888bee9a051b51e569ab9cb59c7b3c29b09acae7e18d313ff21ecac4141e622",
+    "title": "A great Jewish intellectual understood the Kafkaesque horror of Tennessee’s botched execution",
+    "link": "https://forward.com/opinion/853598/arthur-koestler-albert-camus-death-penalty-jewish-crista-pike-tennessee-botched-execution/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T19:05:55+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.751322+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "A great Jewish intellectual understood the Kafkaesque horror of Tennessee’s botched execution",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d0f89aa6b4c76ff61150c880b06f47d37883f87ab6f0be668bc8f23a72f2f50e",
+    "title": "Where Does Russia’s Violent Imperialism Come From?",
+    "link": "https://foreignpolicy.com/2026/10/02/russia-new-imperialism-book-review-budraitskis-matveev-putin-war-ukraine-authoritarianism-violence/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T19:00:54+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.448379+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Where Does Russia’s Violent Imperialism Come From?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9d7d9a65e964aa6bf2c3d08e2ce4cc87d70afa6c852d822b4c86ccde4e89a703",
+    "title": "A newsman recorded a protest at his Yom Kippur services. Outrage ensued.",
+    "link": "https://www.jta.org/2026/10/02/global/canadas-broadcaster-allegedly-suspended-a-jewish-journalist-for-recording-pro-palestinian-protesters-outside-yom-kippur-services",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-02T18:47:30+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.648599+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "A newsman recorded a protest at his Yom Kippur services. Outrage ensued.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0f86c4057a919df388a6955f8256a2ebc34659f3b30513084d8a74b3de3e6128",
+    "title": "‘East of Eden’ was my family Bible — until I read the real one.",
+    "link": "https://forward.com/forward-newsletters/looking-forward/853568/john-steinbeck-east-of-eden-elia-zoe-kazan-netflix-adaptation-bible/",
+    "source": "The Forward",
+    "published_iso": "2026-10-02T18:45:56+00:00",
+    "fetched_iso": "2026-10-03T08:38:25.855207+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘East of Eden’ was my family Bible — until I read the real one.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "676194eef369ee4a0ec920d5a163b10bd8e110e70c2f3a76508977da46186988",
+    "title": "The risks of the strategic petroleum reserve’s four-decade low",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-risks-of-the-strategic-petroleum-reserves-four-decade-low/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T18:30:30+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.106367+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The risks of the strategic petroleum reserve’s four-decade low",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ff732f6d9a329bc6a4244485c39152504e66877ae07778c44bb1483961fa0411",
+    "title": "The Illicit World of Sea Cucumbers",
+    "link": "https://foreignpolicy.com/2026/10/02/sea-cucumbers-illicit-trade-crime-china-mexico-japan/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T18:30:24+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.635335+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Illicit World of Sea Cucumbers",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8e0e9d61351ccecce90a13eddfd2964c63d551bbaca4176fc3f4dbae58dc8f96",
+    "title": "What in the World?",
+    "link": "https://foreignpolicy.com/2026/10/02/news-quiz-trump-zelensky-ukraine-venezuela-protest-morocco-prime-minister/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T18:24:13+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.754739+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What in the World?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f02aefb7021ee3d5452146979bbbf2fe7ebfc719960d554b1eca36f67377e3a3",
+    "title": "What could make AI self-regulation work?",
+    "link": "https://www.atlanticcouncil.org/dispatches/what-could-make-ai-self-regulation-work/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-02T18:07:46+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.230684+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What could make AI self-regulation work?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "146c68b6d01e75597059c16373ecb9d278a8bff8f9a206a8bfc2682daecd0f3d",
+    "title": "The Trauma Plot to Destroy America",
+    "link": "https://foreignpolicy.com/2026/10/02/traumatized-catherine-liu-united-states-capitalism-exploitation-class-inequality/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-02T18:00:31+00:00",
+    "fetched_iso": "2026-10-03T08:38:24.854255+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Trauma Plot to Destroy America",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "e1585fff216a6f4bee565a93e75c0988bfadbcd1484fabe76d7fbac41daa17e8",
     "title": "Israel’s long quest for defensible borders",
     "link": "https://www.fdd.org/in_the_news/quotes/2026/10/02/israels-long-quest-for-defensible-borders/",
@@ -37,6 +373,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Rogers calls El-Sayed ‘threat to our national security’ in new ad",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "77e5a571b48d37995dcb5150555ba651d78fa81a3e12b6a7bdde78f224b5cc84",
+    "title": "Joint Statement on the Anniversary of the Snapback of UN Restrictions on and Related to Iran",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-anniversary-of-the-snapback-of-un-restrictions-on-and-related-to-iran/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-02T17:29:38+00:00",
+    "fetched_iso": "2026-10-03T08:38:23.208977+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Joint Statement on the Anniversary of the Snapback of UN Restrictions on and Related to Iran",
     "implications": [
       "Analysis temporarily unavailable."
     ]
