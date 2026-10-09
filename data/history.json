@@ -1,5 +1,523 @@
 [
   {
+    "url_hash": "3c6b4f4d216c4cf576144c55801a8f546b64caa24dd1beba1cae1a343618f9b4",
+    "title": "Enabling NATO’s technological transformation",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/enabling-natos-technological-transformation/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-09T18:24:04+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.057226+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Enabling NATO’s technological transformation",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6c88c278df9643bbd454037726a8907270017d0c02a199aa58c6a5bed7b1c24c",
+    "title": "Rep. Lawler urges Treasury to reopen investigation into Swiss bank’s Nazi ties",
+    "link": "https://jewishinsider.com/2026/10/lawler-treasury-reopen-investigation-credit-suisse-nazi-ties/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T18:13:09+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.722856+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Rep. Lawler urges Treasury to reopen investigation into Swiss bank’s Nazi ties",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e6524c7a99bfc34a7d8a8005636f0fc288bcc58c9c7a4ba378a61ca775082e98",
+    "title": "Yiddish Modernism and the political tumult in the 1930s",
+    "link": "https://forward.com/yiddish/855011/jewish-modernism-and-the-political-tumult-in-the-1930s/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T18:08:25+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.374774+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Yiddish Modernism and the political tumult in the 1930s",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7b9c375bce728451e810fe1025c66044367b457944a69df69faeb0f169a7ccdd",
+    "title": "I never saw myself in Barbie. Would ‘Hanukkah Barbie’ have changed that?",
+    "link": "https://forward.com/forward-newsletters/looking-forward/854783/hanukkah-barbie-jewish-american-girl-doll/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T18:00:58+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.478268+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "I never saw myself in Barbie. Would ‘Hanukkah Barbie’ have changed that?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "14be7b47403bb7a2948b801f213e8bf28652087478d85398bdea4a1a6822e4c4",
+    "title": "What Life Was Like for a Jewish Artist in 1930s Berlin",
+    "link": "https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-li-music-against-night-rebecca-birrell-venus-vanishing/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T18:00:03+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.392079+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What Life Was Like for a Jewish Artist in 1930s Berlin",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a61312574fbb38717b2bfbf45364418c651dc94d214e27e9b1aeb49ca8ed6bf6",
+    "title": "Securing the United States Bulk-Power System",
+    "link": "https://www.fdd.org/analysis/securing-the-united-states-bulk-power-system/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T17:42:29+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.110662+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Securing the United States Bulk-Power System",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a617237c5f7d09ea52150bd8d89ad6e5695f10bd7eafdc5131bf3b52ad83cfc6",
+    "title": "What in the World?",
+    "link": "https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T17:15:31+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.517412+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What in the World?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "84605ceac62fc5bb39e90fbce4d5d86a795e6b3096bca5aa0fd2fde6426b5c36",
+    "title": "Anti-Israel protest impact on Jewish communities",
+    "link": "https://www.fdd.org/in_the_news/anti-israel-protest-impact-on-jewish-communities/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T17:13:39+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.229989+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Anti-Israel protest impact on Jewish communities",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "548b416245eab2e33f83a4a0b2dcdcf5585bb538c33abf0214dd93b780d96ebf",
+    "title": "Trump’s Iran war ahead of the midterms",
+    "link": "https://www.fdd.org/in_the_news/trumps-iran-war-ahead-of-the-midterms/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T17:06:38+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.353786+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump’s Iran war ahead of the midterms",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a8dc31ac8bf1cdf42c8f168ebde9f51ef3d4198d947b4818d0d06daf493bc47a",
+    "title": "Hezbollah’s Financial Lifeline Extends Beyond Iran’s Cash Transfers",
+    "link": "https://www.fdd.org/analysis/hezbollahs-financial-lifeline-extends-beyond-irans-cash-transfers/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T16:45:08+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.466728+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hezbollah’s Financial Lifeline Extends Beyond Iran’s Cash Transfers",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "cbcfa4603b4ca9bc7ebc9eb4ba4504ffb880db0c6051e870a2e9960643731c25",
+    "title": "Samin Nosrat, celebrity chef who signed BDS pledge,  shares stage with Israeli chefs",
+    "link": "https://www.jta.org/2026/10/09/united-states/samin-nosrat-celebrity-chef-who-signed-bds-pledge-shares-stage-with-israeli-chefs",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T16:07:06+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.939433+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Samin Nosrat, celebrity chef who signed BDS pledge,  shares stage with Israeli chefs",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "63fafd1240f0712ed70492c03491ac8d4f70b5d6703fa3917e5f278018b0e2ae",
+    "title": "Reconciliation Talks Deliver Concrete Progress for Venezuela’s Democratic Transition",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/reconciliation-talks-deliver-concrete-progress-for-venezuelas-democratic-transition/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T15:18:14+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.201788+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Reconciliation Talks Deliver Concrete Progress for Venezuela’s Democratic Transition",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6ae78f9bfb00a8b7ecbe6df6088aca8809c46ac4533a377dd5cdf4e2a446c908",
+    "title": "Secretary Rubio’s Meeting with Venezuela’s 2015 National Assembly President Dinorah Figuera",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-venezuelas-2015-national-assembly-president-dinorah-figuera/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T15:14:42+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.431131+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary Rubio’s Meeting with Venezuela’s 2015 National Assembly President Dinorah Figuera",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "25be67393e7a99e330cdef00d59cc69179af43f92f4a84736d3f9a5c2faac64c",
+    "title": "The Black-Jewish alliance isn’t nostalgia. We need it to defend democracy.",
+    "link": "https://www.jta.org/2026/10/09/ideas/the-black-jewish-alliance-isnt-nostalgia-we-need-it-to-defend-democracy",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T15:06:32+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.057775+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Black-Jewish alliance isn’t nostalgia. We need it to defend democracy.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e071f9ccd5de13067ae8af39e58e130e3786f7ef0fee4cb581252b6513f5ff58",
+    "title": "Secretary of State Marco Rubio and 2015 Venezuelan National Assembly President Dinorah Figuera Before Their Meeting",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-2015-venezuelan-national-assembly-president-dinorah-figuera-before-their-meeting/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T15:04:23+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.570684+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary of State Marco Rubio and 2015 Venezuelan National Assembly President Dinorah Figuera Before Their Meeting",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3ff5e223666ff85560fa4a20dd025e5f5554ac16957ba7ffb8db408cf4d00bca",
+    "title": "Fiji National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/fiji-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T15:02:53+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.707903+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Fiji National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ad4677796fb38264494b75743c372f0738c09937dd0e3f132b8a9bfea8aa6bc8",
+    "title": "Max Fried’s postseason woes continue — but there’s good news!",
+    "link": "https://www.jta.org/2026/10/09/sports/max-frieds-postseason-woes-continue-but-theres-good-news",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T15:00:00+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.170431+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Max Fried’s postseason woes continue — but there’s good news!",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "10a54e179d03ba7ebcb6739cc56f6f8f939f807034bc4759b91338ce96c41a30",
+    "title": "Your Daily Phil: Putting Israel-Diaspora ties on the election agenda",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-putting-israel-diaspora-ties-on-the-election-agenda/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-09T14:59:15+00:00",
+    "fetched_iso": "2026-10-09T18:34:05.113394+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Putting Israel-Diaspora ties on the election agenda",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6e2f091c2f5b0bbce629e0bbbefff645c639e339f992aef973388e4f40ad9b72",
+    "title": "How the world fell out of love with French debt",
+    "link": "https://www.atlanticcouncil.org/dispatches/how-the-world-fell-out-of-love-with-french-debt/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-09T14:50:53+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.159175+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How the world fell out of love with French debt",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6d2d2bc7fb46108d2d2d2d917dc7c8494841b899933b46e77c98d2d11de6f90e",
+    "title": "Imposing Sanctions on the International Criminal Court",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T14:47:33+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.840994+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Imposing Sanctions on the International Criminal Court",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7243ad7afdf2a4be6f842d19caabb8b25e757cb63c079aa96090fbf48cd5500f",
+    "title": "Imposing Sanctions on the International Criminal Court",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-09T14:39:56+00:00",
+    "fetched_iso": "2026-10-09T18:34:01.973869+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Imposing Sanctions on the International Criminal Court",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "cd7ad29a73f640e499e3d704b4aa74cb7656ad0ebc51ba0b006a3d23a73d94c0",
+    "title": "Syria increases criticism of Israeli actions, continues diplomatic outreach",
+    "link": "https://www.fdd.org/analysis/syria-increases-criticism-of-israeli-actions-continues-diplomatic-outreach/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T14:25:49+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.586687+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Syria increases criticism of Israeli actions, continues diplomatic outreach",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c141127886c0fe74e985c4e3def5f84c6a5501c90aa7ce52aad1aa55733785d3",
+    "title": "Hanukkah Barbie Is Here — And She Actually Got the Jewish Holiday Right",
+    "link": "https://www.jta.org/2026/10/09/ideas/hanukkah-barbie-is-here-and-she-actually-got-the-jewish-holiday-right",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T14:15:43+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.277646+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hanukkah Barbie Is Here — And She Actually Got the Jewish Holiday Right",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1dfe91c93e3591196d85590e74088a6c0dea191786e4fc42bf1094a01feb9212",
+    "title": "Islamic State-linked suspects detained or charged in 6 countries since late September",
+    "link": "https://www.fdd.org/analysis/islamic-state-linked-suspects-detained-or-charged-in-6-countries-since-late-september/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T13:24:08+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.704539+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Islamic State-linked suspects detained or charged in 6 countries since late September",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f3617546d0752cf5916073c4fae477ad5129249e384b053b4049dc483934ba6c",
+    "title": "Time for Europe To Stop Funding Islamist Networks",
+    "link": "https://www.fdd.org/analysis/time-for-europe-to-stop-funding-islamist-networks/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T13:19:58+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.828257+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Time for Europe To Stop Funding Islamist Networks",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e2b707919106bbbf0973ecb5ce01ce1eada46dfcd0d5f59931b57a4c8a8195ad",
+    "title": "This Israeli NGO gave itself 5 years — no more — to improve the Gaza border area’s education system",
+    "link": "https://ejewishphilanthropy.com/this-israeli-ngo-gave-itself-5-years-no-more-to-improve-the-gaza-border-areas-education-system/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-09T13:14:47+00:00",
+    "fetched_iso": "2026-10-09T18:34:05.211391+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "This Israeli NGO gave itself 5 years — no more — to improve the Gaza border area’s education system",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "bfc289f531b0b94d6416677faa75768731ee1f9812bcf2f49620655ecd906eb9",
+    "title": "Turkey: A Land of Stunning Coastlines and Jailed Dissidents",
+    "link": "https://www.fdd.org/analysis/turkey-a-land-of-stunning-coastlines-and-jailed-dissidents/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T12:58:37+00:00",
+    "fetched_iso": "2026-10-09T18:34:02.956405+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Turkey: A Land of Stunning Coastlines and Jailed Dissidents",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a8ac0b60daef71d6b62a9ebe3f4dc55d5b5e182bb0409415f39cd272be28b72d",
+    "title": "Putting the Israel-Diaspora relationship on the agenda in this month’s Israeli elections",
+    "link": "https://ejewishphilanthropy.com/putting-the-israel-diaspora-relationship-on-the-agenda-in-this-months-israeli-elections/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-09T12:57:55+00:00",
+    "fetched_iso": "2026-10-09T18:34:05.319746+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Putting the Israel-Diaspora relationship on the agenda in this month’s Israeli elections",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3d0a64995f7967a57cf394cc9f03b8770be649c9272930281c72c9963cade26d",
+    "title": "IsraAid’s Yasmeen Abu Fraiha aims to build bridges in the Middle East through medicine",
+    "link": "https://ejewishphilanthropy.com/israaids-yasmeen-abu-fraiha-aims-to-building-bridges-in-the-middle-east-through-medicine/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-09T12:55:50+00:00",
+    "fetched_iso": "2026-10-09T18:34:05.420286+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "IsraAid’s Yasmeen Abu Fraiha aims to build bridges in the Middle East through medicine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "aa4df2910d25ea00d8636381976b069df624fa3330af2636e15f5f693f5a4fbe",
+    "title": "Russia has rejected another Black Sea ceasefire. What next?",
+    "link": "https://www.atlanticcouncil.org/blogs/turkeysource/russia-rejects-another-black-sea-ceasefire-with-ukraine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-09T12:36:47+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.273399+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia has rejected another Black Sea ceasefire. What next?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "eac1106991e3ac2e685cb2e5876ef044b7628a95087e6cf26b5546cf5c7a11ce",
+    "title": "Brazil’s Far-Right Resurgence",
+    "link": "https://foreignpolicy.com/2026/10/09/brazil-election-far-right-bolsonaro-lula-crime-economy/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T12:00:24+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.627369+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Brazil’s Far-Right Resurgence",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9ac34f808da075120154889ce3bd5825e15de8b6ff1c4d81d2469feee2145386",
+    "title": "Fight night in Michigan",
+    "link": "https://jewishinsider.com/2026/10/daily-kickoff-fight-night-in-michigan/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T11:54:46+00:00",
+    "fetched_iso": "2026-10-09T18:34:03.820999+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Fight night in Michigan",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "18a37ee6b2bab4aaed5b787100909d2a9a4bf1caca34b297277fc5040beeffb8",
+    "title": "Minnesota man charged with ISIS-inspired plot on Jewish-owned Mall of America",
+    "link": "https://forward.com/fast-forward/854813/minnesota-man-charged-with-isis-inspired-plot-on-jewish-owned-mall-of-america/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T10:45:56+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.592883+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Minnesota man charged with ISIS-inspired plot on Jewish-owned Mall of America",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "da2045ec74607a4a5cb538752ac8c1309e2573b80fe9a243d8818694014f01a6",
+    "title": "Is Israel or Iran a bigger threat to the U.S.? Michigan’s Abdul El-Sayed won’t say",
+    "link": "https://forward.com/fast-forward/854849/is-israel-or-iran-a-bigger-threat-to-the-u-s-michigans-abdul-el-sayed-wont-say/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T10:34:46+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.718413+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Is Israel or Iran a bigger threat to the U.S.? Michigan’s Abdul El-Sayed won’t say",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "255156f812793752bf9981f466e90a2101896172faafa09f906566fabb8db15e",
+    "title": "Ossoff says IDF violated law of armed conflict in Gaza, but genocide is an issue for international courts",
+    "link": "https://forward.com/fast-forward/854855/ossoff-idf-gaza-genocide-election-debate/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T10:02:30+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.831663+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ossoff says IDF violated law of armed conflict in Gaza, but genocide is an issue for international courts",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f9598838de2a37d268a11e12174b24729bc42f686187f067b4e579df80a22148",
+    "title": "Aaron Sorkin’s follow-up to ‘The Social Network’ has a pretty good Yiddish joke — too bad about the rest of the movie",
+    "link": "https://forward.com/culture/film-tv/854816/the-social-reckoning-review-mark-zuckerberg-spatula-yiddish-aaron-sorkin/",
+    "source": "The Forward",
+    "published_iso": "2026-10-09T10:00:43+00:00",
+    "fetched_iso": "2026-10-09T18:34:04.935750+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Aaron Sorkin’s follow-up to ‘The Social Network’ has a pretty good Yiddish joke — too bad about the rest of the movie",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d0461c1064df487a57974f8fb6aee8715abb0825965ed0f6483fd6ba813c6c7d",
+    "title": "The overlooked faculty roots of the post-Oct. 7 campus crisis",
+    "link": "https://ejewishphilanthropy.com/the-overlooked-faculty-roots-of-the-post-oct-7-campus-crisis/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-09T09:44:00+00:00",
+    "fetched_iso": "2026-10-09T18:34:05.533716+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The overlooked faculty roots of the post-Oct. 7 campus crisis",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "f11a425b95026d21318da752b6a43192cb589558ce98a5138542ea1daeea1647",
     "title": "After Oct. 7, Jewish parents chose Jewish schools. Now we have to keep the door open.",
     "link": "https://ejewishphilanthropy.com/after-oct-7-jewish-parents-chose-jewish-schools-now-we-have-to-keep-the-door-open/",
@@ -9683,366 +10201,6 @@
     "category": "American Jewry & Civil Society",
     "importance_score": 4,
     "bluf": "Jewish languages meet in Birobidzhan",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "a86cb85cac4a7814615ba6ec45981cf9046e8ce06c3ab7a36b89e19998f85b00",
-    "title": "‘Furious’ Is an Angry Show for the World of Epstein and Trump",
-    "link": "https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T18:30:21+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745341+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘Furious’ Is an Angry Show for the World of Epstein and Trump",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "72f40f7b5911f007229716029f3005cfb6cb8358b0ceb92c6eb9ae2209522297",
-    "title": "What did (and didn’t) happen at the Trump-Xi summit",
-    "link": "https://www.atlanticcouncil.org/content-series/fastthinking/what-did-and-didnt-happen-at-the-trump-xi-summit/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-09-25T18:06:29+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745345+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What did (and didn’t) happen at the Trump-Xi summit",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "d8306e1a6df6fbed1fc9b34821cf24a0cd5548c2e04fa1d34daba6ca7ac1a9e6",
-    "title": "The Twilight of the Francis Fukuyama Era",
-    "link": "https://foreignpolicy.com/2026/09/25/the-twilight-of-the-francis-fukuyama-era/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T18:00:55+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745351+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Twilight of the Francis Fukuyama Era",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "1a18e8ffc7af4371cf22d9403a2b81f0b9df6bc550904a6fa8f47fbeef9a59f4",
-    "title": "Deputy Secretary of State Christopher Landau at a Trade Over Aid Deals Showcase",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/deputy-secretary-of-state-christopher-landau-at-a-trade-over-aid-deals-showcase/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-09-25T17:00:28+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745355+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Deputy Secretary of State Christopher Landau at a Trade Over Aid Deals Showcase",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "99f2ec0c733b970c9ef11c57fb356e3b59be4c82ff0a81f1c9b3abb2f06427a1",
-    "title": "I’m Jewish at a Christian high school. It’s taught me a lot about who I am.",
-    "link": "https://www.jta.org/2026/09/25/ideas/im-jewish-at-a-christian-high-school-its-taught-me-a-lot-about-who-i-am",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-25T17:00:00+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745358+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "I’m Jewish at a Christian high school. It’s taught me a lot about who I am.",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "897f195426fa15ce2888a1c2fe439a6551437f0af31efff36244f50da5b59f56",
-    "title": "Big Tech Is Destroying Democracy. Here’s How to Fight Back.",
-    "link": "https://foreignpolicy.com/2026/09/25/maria-ressa-big-tech-democracy-ai-autocracy/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T16:43:45+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745362+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Big Tech Is Destroying Democracy. Here’s How to Fight Back.",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "1060dbfaa62163927b642e2b678f7c27255394e3fb0572eed77bbaac7619802c",
-    "title": "A Jewish guide to the MLB playoffs",
-    "link": "https://www.jta.org/2026/09/25/sports/a-jewish-guide-to-the-mlb-playoffs",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-25T16:13:30+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745366+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "A Jewish guide to the MLB playoffs",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "390f4901d798b1a7539daf55e8f36cdae6c0da612f4fd2827008dd76243b9095",
-    "title": "End of Cuban regime would “be a great thing” for Western Hemisphere",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/end-of-cuban-regime-would-be-a-great-thing-for-western-hemisphere/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T16:00:20+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745369+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "End of Cuban regime would “be a great thing” for Western Hemisphere",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "c396dc18fac1451df08cedb4c92231c559cb39ca4a2074b60e8c9e4a5a4b009a",
-    "title": "The UN is still obsessed with Israel",
-    "link": "https://www.fdd.org/analysis/2026/09/25/the-un-is-still-obsessed-with-israel/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T15:58:14+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745375+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The UN is still obsessed with Israel",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "98311ac8fef590df0ada8649a8e324674086c9b6975dbae769233b7eac17bb47",
-    "title": "Gantz writes in JTA: We need to take seriously the erosion of US support for Israel",
-    "link": "https://www.jta.org/2026/09/25/ideas/gantz-israel-needs-a-broad-moderate-zionist-government",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-25T15:52:20+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745379+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "Gantz writes in JTA: We need to take seriously the erosion of US support for Israel",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "765aafbf47dca01131565688477547b2cc4d1c2c5e49a295070dc8d5ee495493",
-    "title": "Your Daily Phil: The Stella D’oro Effect: Can a cookie save Sunkist Fruit Gems?",
-    "link": "https://ejewishphilanthropy.com/your-daily-phil-the-stella-doro-effect-can-a-cookie-save-sunkist-fruit-gems/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-25T15:22:17+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745385+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "Your Daily Phil: The Stella D’oro Effect: Can a cookie save Sunkist Fruit Gems?",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "0d8daefb52935d6cdcf2e5f50c1a3c56c4c6f05fc989d1de030e33e08e1f1cc0",
-    "title": "Gulf States Are Hedging and Suffering",
-    "link": "https://foreignpolicy.com/2026/09/25/gulf-states-iran-trump-oil-energy-hormuz/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T15:18:51+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745389+00:00",
-    "category": "Strategic & Defense",
-    "importance_score": 4,
-    "bluf": "Gulf States Are Hedging and Suffering",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "dc95cd1b7c12c8b34a198dca007a75e1c7f93c414444d2861589c1eb72c432b9",
-    "title": "The Yeshiva issue that won’t go away",
-    "link": "https://forward.com/opinion/852230/the-yeshiva-issue-that-wont-go-away/",
-    "source": "The Forward",
-    "published_iso": "2026-09-25T15:12:58+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745393+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "The Yeshiva issue that won’t go away",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "a14e4e8315f46254a0db33d05a71fc918a47cd8d6af9bac835da79c0d1497cd8",
-    "title": "U.S.-China talks wrap up",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/u-s-china-talks-wrap-up/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T14:34:24+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745397+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "U.S.-China talks wrap up",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "4b0c627dff34e9082c045209a6327f45354f4c1a450b1ee31c7f33f8549ba90f",
-    "title": "Trump-Xi summit wraps amid unresolved tensions",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/trump-xi-summit-wraps-amid-unresolved-tensions/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T14:26:36+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745402+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump-Xi summit wraps amid unresolved tensions",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "684be4f9934eacc110e7777c0336095f1272877813df73eb021386572e6d7339",
-    "title": "Effectiveness of sanctions against Iran",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/effectiveness-of-sanctions-against-iran/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T14:19:05+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745406+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 4,
-    "bluf": "Effectiveness of sanctions against Iran",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "e806c0a3325aca1aad2b4bb4dbd69e6895a7b54f22fdc69f5ff68adb92f98c62",
-    "title": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks",
-    "link": "https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T14:03:14+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745410+00:00",
-    "category": "Capitol Hill & Legislation",
-    "importance_score": 3,
-    "bluf": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "1ec968cb67d6aa6f2428c925bbecbdbd4d8080050f7765191e7910528e0ab45e",
-    "title": "Iraq agrees to Turkish base deal as militia disarmament timeline debated",
-    "link": "https://www.fdd.org/analysis/2026/09/25/iraq-agrees-to-turkish-base-deal-as-militia-disarmament-timeline-debated/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T13:29:57+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745415+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iraq agrees to Turkish base deal as militia disarmament timeline debated",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "1aa42f21f19134766537eff17f8a59973386ae467b0d9bf5151f630e1ed912cb",
-    "title": "The Israeli tradition of (not) disqualifying Arab parties and the fight over judicial authority",
-    "link": "https://ejewishphilanthropy.com/the-israeli-tradition-of-not-disqualifying-arab-parties-and-the-fight-over-judicial-authority/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-25T12:40:19+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745419+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "The Israeli tradition of (not) disqualifying Arab parties and the fight over judicial authority",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "6bea25f9c54bbdd2808b828ee8e1328266ca08089051f016270d9c5e0c8797f0",
-    "title": "Islamic State suspects extradited or arrested in Lebanon, Canada, Australia, and the US",
-    "link": "https://www.fdd.org/analysis/2026/09/25/islamic-state-suspects-extradited-or-arrested-in-lebanon-canada-australia-and-the-us/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T12:34:47+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745423+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Islamic State suspects extradited or arrested in Lebanon, Canada, Australia, and the US",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "7e3627e1e9a8c5137b99ca6182aea70d154d85cd35dcbe74288680b5e9f81259",
-    "title": "Investor Leon Black can’t give his money because of Epstein ties, biographer says",
-    "link": "https://ejewishphilanthropy.com/investor-leon-black-cant-give-his-money-because-of-epstein-ties-biographer-says/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-25T12:33:33+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745427+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "Investor Leon Black can’t give his money because of Epstein ties, biographer says",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "2d5e16b3703867bc5a0d6dbb00a9f3c3c62bcd9231189697462059d63b24c733",
-    "title": "What Arab Israelis Really Think About Israel’s Election",
-    "link": "https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T12:19:43+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745431+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What Arab Israelis Really Think About Israel’s Election",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "a149cdebdf151bba143af656efd9bdbe6a43f929f7eaf356887448874dbc3e14",
-    "title": "Venezuela’s Acting Leader Makes Her U.N. Debut",
-    "link": "https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro-trump-elections/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T12:00:01+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745434+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Venezuela’s Acting Leader Makes Her U.N. Debut",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "0817fb3869fb0d364fdf688c9bc2a0a816b2e99a1ac6b9ba9ec4a17250653a0a",
-    "title": "Save the Fruit Gems",
-    "link": "https://ejewishphilanthropy.com/save-the-fruit-gems/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-25T12:00:00+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745440+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "Save the Fruit Gems",
     "implications": [
       "Tracked via automated intelligence rule-engine.",
       "Relevant to ongoing US-Israel policy monitoring."
