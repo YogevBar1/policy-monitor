@@ -1,5 +1,33 @@
 [
   {
+    "url_hash": "016070197770ddf89e5585f1d181a21fd53d07f62366f4ba1db199c213e9db9f",
+    "title": "Secretary Rubio’s Call with Japanese Foreign Minister Motegi",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-10T17:17:59+00:00",
+    "fetched_iso": "2026-10-10T17:30:42.425056+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary Rubio’s Call with Japanese Foreign Minister Motegi",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8daf8725bf7913f931b0be439e7d3c0e3903505cba71235341c5ff8ccdd30535",
+    "title": "Brooklyn’s new ‘lard bagel’ is not kosher. But it is delicious.",
+    "link": "https://forward.com/culture/854936/caputo-bagels-park-slope-lard/",
+    "source": "The Forward",
+    "published_iso": "2026-10-10T14:00:26+00:00",
+    "fetched_iso": "2026-10-10T17:30:42.569811+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Brooklyn’s new ‘lard bagel’ is not kosher. But it is delicious.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "6a9eabdb425b69bb0a97a54fd29653fb5e9be09c07def3526ed98d20d7f1bd2b",
     "title": "Earthquake in Panama",
     "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/",
@@ -10301,36 +10329,6 @@
     "bluf": "Turkmenistan Independence Day",
     "implications": [
       "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5597577c66fc17db7d2e11b558c0698041c26737f82bf722e697ad03a91ec237",
-    "title": "NY Jewish Democrats defend Mamdani after Netanyahu calls him a Hamas supporter",
-    "link": "https://forward.com/fast-forward/852344/ny-jewish-democrats-defend-mamdani-after-netanyahu-calls-him-a-hamas-supporter/",
-    "source": "The Forward",
-    "published_iso": "2026-09-26T11:44:59+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745233+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "NY Jewish Democrats defend Mamdani after Netanyahu calls him a Hamas supporter",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "1dfc02da8e290710a0e7e01f723f820293922d5a9f99ecf22895bb099b3b4590",
-    "title": "Somaliland president seeks future security cooperation with U.S., Israel - Hiiraan Online",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1ZfLWVHMkFCU293WkIxWDNjdm92MnUwcTE0RHVKMXMxUFJWRkZCWVR0aThfcTFYWUUzRDZJcXgtQ1lWeld0M2h2MDg0d1FCdmtIbkJEOWNxQ25VMjhwMktrU1FuUVlWZno0bEJ1TFl5bjZqWEFDdkRqUXc3aU1Sem1LREgtU3pxMU1obmZySldpa004VkJVSC0zMVJrWW1meUFGTkFyVGs4NmZPYXRacERkY25QVVB2N3JKWFdWZjl2Zw?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-09-26T11:32:19+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745271+00:00",
-    "category": "Strategic & Defense",
-    "importance_score": 3,
-    "bluf": "Somaliland president seeks future security cooperation with U.S., Israel - Hiiraan Online",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
     ]
   }
 ]
