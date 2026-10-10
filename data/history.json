@@ -1,5 +1,299 @@
 [
   {
+    "url_hash": "6a9eabdb425b69bb0a97a54fd29653fb5e9be09c07def3526ed98d20d7f1bd2b",
+    "title": "Earthquake in Panama",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-10T00:33:20+00:00",
+    "fetched_iso": "2026-10-10T09:09:33.866941+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Earthquake in Panama",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e3b2ad6a3bd8680bef059b3d27ec950c3a8c9439e2cb7454468414fccb72e479",
+    "title": "Hochul will opt New York into education tax credit that will help fund Jewish education",
+    "link": "https://jewishinsider.com/2026/10/hochul-will-opt-new-york-into-federal-scholarship-tax-credit-program-that-will-help-fund-jewish-education/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T23:09:52+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.521161+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hochul will opt New York into education tax credit that will help fund Jewish education",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2a7d9961da3e39b401d3d9ee321301f922caa3712f87f4e2636a57c26024c473",
+    "title": "The US just sanctioned the International Criminal Court. What’s next?",
+    "link": "https://www.atlanticcouncil.org/dispatches/the-us-just-sanctioned-the-international-criminal-court-whats-next/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-09T22:26:36+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.801905+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The US just sanctioned the International Criminal Court. What’s next?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "18933b07d61fcbe3163c4984535bb6197e11391235288abc0bdde96167e15ba9",
+    "title": "Israelis for Peace responds after being protested",
+    "link": "https://www.jta.org/2026/10/09/ny/israelis-for-peace-responds-after-being-protested",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T22:23:45+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.907803+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israelis for Peace responds after being protested",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "06e0656c035ef4d61ef3786808194ae4cb31b8ab003614cc7568036c1099983b",
+    "title": "Mamdani faces growing pressure from left flank over Israel and NYPD Commissioner Tisch",
+    "link": "https://www.jta.org/2026/10/09/ny/mamdani-faces-growing-pressure-from-left-flank-over-israel-and-nypd-commissioner-tisch",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-09T21:56:36+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.968037+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mamdani faces growing pressure from left flank over Israel and NYPD Commissioner Tisch",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b4888f54d07c535aac514eb961ef0dc65afe9d9affb664f007e3cec802c2ff06",
+    "title": "AIPAC’s super PAC wades into Michigan Senate race",
+    "link": "https://jewishinsider.com/2026/10/united-democracy-project-aipac-michigan-senate-el-sayed-rogers/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T21:26:40+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.609305+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AIPAC’s super PAC wades into Michigan Senate race",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c1828ad52ddc489ec5770aeb8c8c9bff04cf53d5c0148d5fa7451f41d25075b2",
+    "title": "The war and the new energy narrative: How minerals redefine the Middle East’s strategic position",
+    "link": "https://www.atlanticcouncil.org/blogs/energysource/the-war-and-the-new-energy-narrative-how-minerals-redefine-the-middle-easts-strategic-position/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-09T21:04:05+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.925819+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The war and the new energy narrative: How minerals redefine the Middle East’s strategic position",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "45f6d79b9591ec7bb63401aa104e14fb1e47e895c43d4a68b8faaa9fd30e0642",
+    "title": "Iranian Airlines Expand Trips to Iraq Despite U.S. Sanctions",
+    "link": "https://www.fdd.org/analysis/iranian-airlines-expand-trips-to-iraq-despite-u-s-sanctions/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T21:00:06+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.137622+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iranian Airlines Expand Trips to Iraq Despite U.S. Sanctions",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "453611b056687faa822b6c742c5ba15ff37a06ab5f05ce419b0ff2e081102a61",
+    "title": "Nobel Peace Prize Goes to Former ICC Judge",
+    "link": "https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T20:51:18+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.996785+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Nobel Peace Prize Goes to Former ICC Judge",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a83eb0d336aaa10407ca33188c2259abf50e4cd978918a8331f097f667417e8c",
+    "title": "Hezbollah’s New Leader Naim Qassem Is No Hassan Nasrallah",
+    "link": "https://www.fdd.org/analysis/hezbollahs-new-leader-naim-qassem-is-no-hassan-nasrallah/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T20:49:07+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.253413+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hezbollah’s New Leader Naim Qassem Is No Hassan Nasrallah",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ca9ec1e99187555e26cd6ab0fa03d1ef29c65ab03cd9fd71ee895caa867fd111",
+    "title": "Trump pauses Iran strike before midterms: what happens next?",
+    "link": "https://www.fdd.org/in_the_news/trump-pauses-iran-strike-before-midterms-what-happens-next/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T20:39:43+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.335699+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump pauses Iran strike before midterms: what happens next?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6aa67a0f3f77c09d274b8b5d1e609a79c106591b1dbb60e498763defdc4c2433",
+    "title": "Can the U.S. stop AI hackers?",
+    "link": "https://www.fdd.org/in_the_news/can-the-u-s-stop-ai-hackers/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T20:04:56+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.435910+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Can the U.S. stop AI hackers?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "759f6d7e1603012170edfc8cdd8d58f4a360f3bd14f9f6dc0fd8a9600b69369d",
+    "title": "The Global Diesel Crisis, Explained",
+    "link": "https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T19:21:33+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.084446+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Global Diesel Crisis, Explained",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "34df0ac9b7ff0aa08f96abf4caa39ebea9732068468b4617bb169e1f346cb46f",
+    "title": "Insurgent attacks surge in southeastern Iran",
+    "link": "https://www.fdd.org/analysis/insurgent-attacks-surge-in-southeastern-iran/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T19:14:57+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.518193+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Insurgent attacks surge in southeastern Iran",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "72ee7a68d1eb0714279417eb9d3068da702cdbe23a2b669756295eb08701007e",
+    "title": "Somalia claims to have killed another senior Shabaab leader",
+    "link": "https://www.fdd.org/analysis/somalia-claims-to-have-killed-another-senior-shabaab-leader/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T19:09:27+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.620246+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Somalia claims to have killed another senior Shabaab leader",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "01e6e255d6443faf52038b4c4d11afac47484a33b25764640304ea5c00b7d899",
+    "title": "Arnold Toynbee’s Chinese Century",
+    "link": "https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengler/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T19:00:50+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.167149+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Arnold Toynbee’s Chinese Century",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "19c0e8d5549480aaf17d1c026dd7943bf4d96292cc64580c4a15ade87b9aba0b",
+    "title": "Russian Sabotage in Europe Is No Longer ‘Symbolic’",
+    "link": "https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T18:51:28+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.271367+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russian Sabotage in Europe Is No Longer ‘Symbolic’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "870b1907fc06e1b3e796a540ee48f22d9a83008f0d93410ab48bb122992178ab",
+    "title": "AOC launches campaign blitz for El-Sayed across Michigan",
+    "link": "https://jewishinsider.com/2026/10/ocasio-cortez-el-sayed-campaign-blitz-michigan/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T18:47:12+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.708086+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AOC launches campaign blitz for El-Sayed across Michigan",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b7df863f42771022be45cf9294968aad0e69f1d97e6818678a501b2154f27d33",
+    "title": "The United States Is Not Ready for the Arctic Age",
+    "link": "https://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T18:40:37+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.329710+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The United States Is Not Ready for the Arctic Age",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ef97824d15d68863938692c28f6e6a1aa67d9050b3042779e3bc63493052992f",
+    "title": "Ossoff defers to ICC on Israel genocide accusations, but says IDF violated int’l law",
+    "link": "https://jewishinsider.com/2026/10/ossoff-icc-israel-genocide-international-law-collins-debate/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-09T18:37:34+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.788406+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ossoff defers to ICC on Israel genocide accusations, but says IDF violated int’l law",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "04db39f9ada92740993fbad8ebb29662e7be17b1fba578e5bba08eb13b59bdf6",
+    "title": "Confronting Threats and Building Consensus",
+    "link": "https://www.fdd.org/podcasts/foreign-podicy/confronting-threats-and-building-consensus/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-09T18:36:14+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.699072+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Confronting Threats and Building Consensus",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "3c6b4f4d216c4cf576144c55801a8f546b64caa24dd1beba1cae1a343618f9b4",
     "title": "Enabling NATO’s technological transformation",
     "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/enabling-natos-technological-transformation/",
@@ -9,6 +303,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Enabling NATO’s technological transformation",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "53d421c970da246e4f31dcd79022a2dc84668c5b40aaef95dbf360a4659643eb",
+    "title": "How Italy Spawned the Western Far Right",
+    "link": "https://foreignpolicy.com/2026/10/09/italy-far-right-book-review-nyt-rome-correspondent/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-09T18:20:38+00:00",
+    "fetched_iso": "2026-10-10T09:09:35.456224+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How Italy Spawned the Western Far Right",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -513,6 +821,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "The overlooked faculty roots of the post-Oct. 7 campus crisis",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b836510e931c884f244cf55337ce60247514a0076cdcc4739900d10c9252f380",
+    "title": "Tomorrow’s Leaders Program 2027-2028 (Deadline: November 18, 2026)",
+    "link": "https://il.usembassy.gov/tomorrows-leaders-program-2027-2028-deadline-november-18-2026/",
+    "source": "US Embassy Jerusalem",
+    "published_iso": "2026-10-09T09:42:01+00:00",
+    "fetched_iso": "2026-10-10T09:09:34.052725+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tomorrow’s Leaders Program 2027-2028 (Deadline: November 18, 2026)",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -10006,201 +10328,6 @@
     "category": "Strategic & Defense",
     "importance_score": 3,
     "bluf": "Somaliland president seeks future security cooperation with U.S., Israel - Hiiraan Online",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "36d04066370036ffda94d34b3ac30f79f7ac62ec9462a86b9f2fffc6dd4d6748",
-    "title": "‘Nobody Wants This’ star Adam Brody on Gaza: ‘Put me down as thinking it’s a genocide’",
-    "link": "https://forward.com/news/852368/adam-brody-gaza-genocide-interview/",
-    "source": "The Forward",
-    "published_iso": "2026-09-26T01:36:54+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745279+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "‘Nobody Wants This’ star Adam Brody on Gaza: ‘Put me down as thinking it’s a genocide’",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "da39df305bc5dfee05d31ccf33feb96b3af73eb72c1c34d854d2e28ad68a01fa",
-    "title": "Mamdani hits back at Netanyahu for ‘baseless lies’",
-    "link": "https://www.jta.org/2026/09/25/ny/mamdani-hits-back-at-netanyahu-for-baseless-lies",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-26T00:34:58+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745283+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "Mamdani hits back at Netanyahu for ‘baseless lies’",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "7a512be6869275d1ae230f6493e3a31f7c279afe00b16a904a7df5fae6e8583a",
-    "title": "Dispatch from New York: Latin America has opened a new chapter with Washington",
-    "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-new-york-latin-america-has-opened-a-new-chapter-with-washington/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-09-25T22:16:35+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745290+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Dispatch from New York: Latin America has opened a new chapter with Washington",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "02766f8db5fb4dc1213ddd8ce1c7ac348f1c48b7fff83f4d27cdd14954a561a7",
-    "title": "NY Jewish Democrats defend Mamdani after Netanyahu calls him a Hamas supporter",
-    "link": "https://www.jta.org/2026/09/25/ny/ny-jewish-democrats-defend-mamdani-after-netanyahu-calls-him-a-hamas-supporter",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-25T21:13:31+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745295+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "NY Jewish Democrats defend Mamdani after Netanyahu calls him a Hamas supporter",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "38946449cf2811746c8d8c9651c1d5f3de221f802be1e78e3311242df77cbf1c",
-    "title": "Why Mamdani remains focused on Israel as NYC mayor",
-    "link": "https://forward.com/opinion/852317/mamdani-israel-focus-coalition/",
-    "source": "The Forward",
-    "published_iso": "2026-09-25T21:11:53+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745299+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "Why Mamdani remains focused on Israel as NYC mayor",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "b304fa60e9544ab717ee4be04b2593a9c1dbce25f34f01e1c4248001cddf4db4",
-    "title": "On Syria and Lebanon",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/on-syria-and-lebanon/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T20:53:51+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745305+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "On Syria and Lebanon",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "20492f262f53f5d656fe1584f2ab7882a81032b6ba682345e5872b12fc1763a6",
-    "title": "NUFDI’s Iran Conference 2026",
-    "link": "https://www.fdd.org/in_the_news/2026/09/25/nufdis-iran-conference-2026/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T20:46:32+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745311+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "NUFDI’s Iran Conference 2026",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "4496296afc3c98cab8c5b5f06d1f52cd0dcb14a6f30cb9f621ec3fe8aac40f85",
-    "title": "Ethiopia Returns to Civil War",
-    "link": "https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T20:33:44+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745318+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 4,
-    "bluf": "Ethiopia Returns to Civil War",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "4598c274800e301bf0fa2034a45e54ec9f206e84dbccef0c8da63dc583021556",
-    "title": "Weak Sanctions Enforcement Is Fueling China’s ‘Polar Silk Road’",
-    "link": "https://www.fdd.org/analysis/2026/09/25/weak-sanctions-enforcement-is-fueling-chinas-polar-silk-road/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-25T19:17:37+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745322+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 4,
-    "bluf": "Weak Sanctions Enforcement Is Fueling China’s ‘Polar Silk Road’",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "837b5eb978ba4470a09766ab8d02212477affac2d6d037c4dfb2e4ab45a547d9",
-    "title": "New voices in Yiddish: A prose and poetry contest",
-    "link": "https://forward.com/yiddish/852287/new-voices-in-yiddish-a-prose-and-poetry-contest/",
-    "source": "The Forward",
-    "published_iso": "2026-09-25T19:10:20+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745326+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "New voices in Yiddish: A prose and poetry contest",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "a666debb3d3f0b0d50f136ff4ebb6108d9c5a391b87ec5a4471117dd37edd887",
-    "title": "6 Russian Words for a Country Sliding Into Authoritarianism",
-    "link": "https://foreignpolicy.com/2026/09/25/russia-putin-authoritarianism-language-vocabulary/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-25T19:05:40+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745330+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "6 Russian Words for a Country Sliding Into Authoritarianism",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "a29316cb21a3db505635c0e8c9f678cf351fb001b3a6533ccf9b46f391c0af29",
-    "title": "In Memoriam: Mourning the death of Sunkist Fruit Gems",
-    "link": "https://www.jta.org/2026/09/25/ideas/in-memoriam-mourning-the-death-of-sunkist-fruit-gems",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-25T18:40:26+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745334+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 3,
-    "bluf": "In Memoriam: Mourning the death of Sunkist Fruit Gems",
-    "implications": [
-      "Tracked via automated intelligence rule-engine.",
-      "Relevant to ongoing US-Israel policy monitoring."
-    ]
-  },
-  {
-    "url_hash": "e836994e31694e624ec1b8e99fe4defac341e54b7ba5ce128aa8bfc83b2f04d7",
-    "title": "Jewish languages meet in Birobidzhan",
-    "link": "https://forward.com/yiddish/852251/jewish-languages-meet-in-birobidzhan/",
-    "source": "The Forward",
-    "published_iso": "2026-09-25T18:37:02+00:00",
-    "fetched_iso": "2026-09-28T14:17:57.745337+00:00",
-    "category": "American Jewry & Civil Society",
-    "importance_score": 4,
-    "bluf": "Jewish languages meet in Birobidzhan",
     "implications": [
       "Tracked via automated intelligence rule-engine.",
       "Relevant to ongoing US-Israel policy monitoring."
