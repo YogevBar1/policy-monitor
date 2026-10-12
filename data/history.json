@@ -1,5 +1,467 @@
 [
   {
+    "url_hash": "ada48a0f15fb54eb3d7475a8c802425b237fb252ee421f1e06953a9bbfcb7f5e",
+    "title": "Taliban-Pakistan border clashes continue after Moscow talks end without agreement",
+    "link": "https://www.fdd.org/analysis/taliban-pakistan-border-clashes-continue-after-moscow-talks-end-without-agreement/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-12T21:19:55+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.015365+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Taliban-Pakistan border clashes continue after Moscow talks end without agreement",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fccfeb0789f38467df2f92a88b18445876d71b4e039e81d582c9db60ea7e059f",
+    "title": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+    "link": "https://forward.com/fast-forward/855275/recorded-anti-jewish-hate-crimes-rise-10-in-england-and-wales/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T21:11:13+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.363237+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "710b13a28166181187be1ca25fa9d0bd111419a0ddee23455555bfaf66ad7d2f",
+    "title": "Jewish leaders press Miliband on U.K. antisemitism",
+    "link": "https://jewishinsider.com/2026/10/jewish-leaders-press-miliband-on-u-k-antisemitism/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-12T21:04:40+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.512282+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jewish leaders press Miliband on U.K. antisemitism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f5722cdaf015be610bf7c8ef7e1b4423896fe3f4e5e1dde41a3b964afdd01e99",
+    "title": "Hasan Piker criticizes ‘opportunists’ who accused Mamdani of genocide",
+    "link": "https://forward.com/fast-forward/855314/hasan-piker-criticizes-opportunists-who-accused-mamdani-of-genocide/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T20:35:36+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.450780+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hasan Piker criticizes ‘opportunists’ who accused Mamdani of genocide",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c81f3678b2c95b6c7b43e8f0b4b93d58d8f1cf1f3ccf6f2bd06a982d907c9cb3",
+    "title": "In Israel, boy killed, hikers injured, after suspected Hezbollah cluster bomb detonates",
+    "link": "https://forward.com/fast-forward/855320/in-israel-boy-killed-hikers-injured-after-suspected-hezbollah-cluster-bomb-detonates/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T20:30:08+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.537112+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "In Israel, boy killed, hikers injured, after suspected Hezbollah cluster bomb detonates",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b50fcef691456a0263438e34b8726ed697434f0a370e81ae1ef5eda18ed3d020",
+    "title": "Boy killed, hikers injured, after coming upon suspected Hezbollah cluster bomb detonates",
+    "link": "https://www.jta.org/2026/10/12/israel/boy-killed-hikers-injured-after-suspected-hezbollah-cluster-bomb-detonates",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-12T19:45:56+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.988316+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Boy killed, hikers injured, after coming upon suspected Hezbollah cluster bomb detonates",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "32f46f73a166d0a8631538b7b0a9c1de5e11461e7dcb97dc1acc85185f5d2ce5",
+    "title": "Hasan Piker criticizes ‘opportunists’ who accused Mamdani of genocide",
+    "link": "https://www.jta.org/2026/10/12/ny/hasan-piker-criticizes-opportunists-who-accused-mamdani-of-genocide",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-12T19:38:23+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.083095+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Hasan Piker criticizes ‘opportunists’ who accused Mamdani of genocide",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "587b4792b35dbbb4757cdd54f5505a85137e27891a44a259922963e74ad3d1d6",
+    "title": "These legendary magicians made their Jewish identities — poof! — disappear",
+    "link": "https://forward.com/culture/855200/abradcabra-jewish-museum-amsterdam-exhibit-houdini-bamberg-okito-fu-manchu/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T19:28:54+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.625748+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "These legendary magicians made their Jewish identities — poof! — disappear",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f737b14bff494a3fc909b0779fa35a98f0f6c448c03b21cc61d6f423fb8dde72",
+    "title": "Secretary of State Rubio’s Call with UK Foreign Secretary Miliband",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-rubios-call-with-uk-foreign-secretary-miliband/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-12T19:26:49+00:00",
+    "fetched_iso": "2026-10-12T21:26:57.349795+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary of State Rubio’s Call with UK Foreign Secretary Miliband",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "23dcaff87647c33bc6af2733ec260fcf94dbdcae25941ac5cb2a7b20767c6d6d",
+    "title": "Israeli, Lebanese leaders expressed interest in Michigan Senate race, Sen. Lankford says",
+    "link": "https://jewishinsider.com/2026/10/israeli-lebanese-leaders-interest-michigan-senate-race-lankford-hezbollah/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-12T19:03:11+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.614428+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israeli, Lebanese leaders expressed interest in Michigan Senate race, Sen. Lankford says",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "05c410436ca601253f5b26844ef00d34fa819ec865ccb9ab02a1130a534bc4a7",
+    "title": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+    "link": "https://www.jta.org/2026/10/12/global/recorded-anti-jewish-hate-crimes-rise-10-in-england-and-wales",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-12T18:48:27+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.172652+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Recorded anti-Jewish hate crimes rise 10% in England and Wales",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "dcdd2e8728e5807ebfd3975c06fecbcf2394d53ecae0f7f29339750cf2481d00",
+    "title": "A poet’s reaction to this summer’s terrorist attack in Berlin",
+    "link": "https://forward.com/yiddish/855239/a-poets-reaction-to-this-summers-terrorist-attack-in-berlin/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T18:32:19+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.715656+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "A poet’s reaction to this summer’s terrorist attack in Berlin",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "21715038a651d36ce02db7eed5a9180e4ff2dd112a91fa0a37d7fd585ffd9e9f",
+    "title": "Second U.S.-Japan Free and Open Indo-Pacific (FOIP) Dialogue",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/second-u-s-japan-free-and-open-indo-pacific-foip-dialogue/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-12T18:02:29+00:00",
+    "fetched_iso": "2026-10-12T21:26:57.564098+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Second U.S.-Japan Free and Open Indo-Pacific (FOIP) Dialogue",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "657abe403a8f49cac0a8c8ff72b0167a69f68bac28959d258aec412dd3347fb0",
+    "title": "Joint Statement on the United Kingdom’s Attribution of Iran’s Involvement in Attempted Terrorist Attack at RAF Fairford",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-united-kingdoms-attribution-of-irans-involvement-in-attempted-terrorist-attack-at-raf-fairford/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-12T17:07:08+00:00",
+    "fetched_iso": "2026-10-12T21:26:57.676861+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Joint Statement on the United Kingdom’s Attribution of Iran’s Involvement in Attempted Terrorist Attack at RAF Fairford",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d89bbd080b8747b9a211c95126b91d59d94c1a5ee19d4547417c76de10e0e7f1",
+    "title": "Miliband agrees to host international antisemitism meeting at urging of J7 Task Force",
+    "link": "https://jewishinsider.com/2026/10/miliband-antisemitism-meeting-j7-task-force-communal-concerns/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-12T17:03:01+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.709633+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Miliband agrees to host international antisemitism meeting at urging of J7 Task Force",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "869cc1942fa22a21f18b046575319cc8892ced135b7a9dc34783fe4eb6a1c692",
+    "title": "These Bundist pioneers were heroes in their time. Would they be in ours?",
+    "link": "https://forward.com/opinion/854021/abrasha-blum-luba-bielecka-bund-poland/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T16:06:08+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.807984+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "These Bundist pioneers were heroes in their time. Would they be in ours?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6bc3b48d6ca3eeef8544fed276ba1ea291897735eceab4c71506334e9f1a4ed8",
+    "title": "Your Daily Phil: Ziegler rabbinical school stays Conservative, but with revamped focus",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-ziegler-rabbinical-school-stays-conservative-but-with-revamped-focus/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T14:27:39+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.078929+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Ziegler rabbinical school stays Conservative, but with revamped focus",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "bfc9e1721c64abd8635f66b8cd0b7bd859c8c45169493e59270d663e181b0261",
+    "title": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
+    "link": "https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-12T13:09:36+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.111504+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Congress Can Do More to Curb Kushner’s Conflicts of Interest",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0a1e707c38683eac1f7a43b19f9567ddb8db63f83e93fbfcc0c2908147487f1d",
+    "title": "Every decision is a values decision",
+    "link": "https://ejewishphilanthropy.com/every-decision-is-a-values-decision/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T13:00:00+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.170567+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Every decision is a values decision",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d4cc34283a97f64356e554314586e41e25cf394b594359686fd6790261c1bbe8",
+    "title": "Spain National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/spain-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-12T12:46:17+00:00",
+    "fetched_iso": "2026-10-12T21:26:57.788219+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Spain National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "93ca71119e320e2c8303176cfb702171628ffefcd15da5cdc091f936abf0d74e",
+    "title": "Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts",
+    "link": "https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-12T12:45:24+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.205588+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "217f5733ddd0a8f459187b3bd257ddb24cb2e78cec4975e2e7ca389cce421f17",
+    "title": "Equatorial Guinea National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/equatorial-guinea-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-12T12:08:00+00:00",
+    "fetched_iso": "2026-10-12T21:26:57.905768+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Equatorial Guinea National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3639daaffdfac1c0b7983e3739105c08969478dc14dcf39800c125cea845fa1b",
+    "title": "Seattle’s Jewish future will be decided in the classroom",
+    "link": "https://ejewishphilanthropy.com/seattles-jewish-future-will-be-decided-in-the-classroom/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T12:00:00+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.258824+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Seattle’s Jewish future will be decided in the classroom",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "44786b9aa9d4c2361f71451dd33a312aef7bbb7434a1a7b0106aeb6a1e830026",
+    "title": "Anonymous foundation helps endow permanent role at West Chester University Hillel",
+    "link": "https://ejewishphilanthropy.com/anonymous-foundation-helps-endow-permanent-role-at-west-chester-university-hillel/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T11:36:23+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.345916+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Anonymous foundation helps endow permanent role at West Chester University Hillel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9118be58666c0de79e8f5622472aa2be57517fe548d2a3649381eba42259e442",
+    "title": "AIPAC couldn’t stop Michigan’s El-Sayed in the primary. Now it’s trying again.",
+    "link": "https://forward.com/news/855170/aipac-couldnt-stop-michigans-el-sayed-in-the-primary-now-its-trying-again/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T11:15:03+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.894705+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AIPAC couldn’t stop Michigan’s El-Sayed in the primary. Now it’s trying again.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "df85ce641ab379aea248e2d1b2c7f5fad04433e53a068b7120be81580177b396",
+    "title": "MBS’ sand trap",
+    "link": "https://jewishinsider.com/2026/10/mbs-sand-trap/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-12T11:12:58+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.800034+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "MBS’ sand trap",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ef75014b4c0224ebe14b65f675c4aa7bc318519a4e107d2bc396881b5be24387",
+    "title": "Can Brussels Budget Like a Superpower?",
+    "link": "https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-12T11:00:04+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.312038+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Can Brussels Budget Like a Superpower?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f26b076541ca5c12667f1311c45789e929d168c4a89b39ca6f3397365359bafd",
+    "title": "MBS bet Saudi Arabia’s future on economic transformation. The Houthis are testing that wager",
+    "link": "https://jewishinsider.com/2026/10/saudi-arabia-houthis-yemen-attacks-mbs-economy/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-12T10:15:43+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.886383+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "MBS bet Saudi Arabia’s future on economic transformation. The Houthis are testing that wager",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3bd696d68e689f029a917fd814bdae14f5fa597f5df895c4eef485dc28ff7d94",
+    "title": "In Israel’s election, Netanyahu faces a reckoning over Oct. 7 failure",
+    "link": "https://forward.com/opinion/855149/israel-election-netanyahu-reckoning-oct-7-failure/",
+    "source": "The Forward",
+    "published_iso": "2026-10-12T10:03:09+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.983811+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "In Israel’s election, Netanyahu faces a reckoning over Oct. 7 failure",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "edc20e7e178a426b165a463ccacb8313fd86ef0cf554a711b47599feb733f397",
+    "title": "The Real Footprint of Trump’s Data Center Boom",
+    "link": "https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-12T10:00:29+00:00",
+    "fetched_iso": "2026-10-12T21:26:58.407526+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Real Footprint of Trump’s Data Center Boom",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f433deb1f761961a79319a1f045f4d04f93fd4984cf65edd15d8db980861bc6e",
+    "title": "On Columbus Day, remember Abraham Zacuto, the Jewish astronomer history forgot",
+    "link": "https://www.jta.org/2026/10/12/ideas/on-columbus-day-remember-abraham-zacuto-the-jewish-astronomer-history-forgot",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-12T10:00:00+00:00",
+    "fetched_iso": "2026-10-12T21:26:59.266386+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "On Columbus Day, remember Abraham Zacuto, the Jewish astronomer history forgot",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4c8c7a101bbd1ca7fca9012347bf2b6d98c4cf1c32c70f98cca3f4ee478f8276",
+    "title": "We didn’t need Reggio Emilia to teach us how to see children",
+    "link": "https://ejewishphilanthropy.com/we-didnt-need-reggio-emilia-to-teach-us-how-to-see-children/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T10:00:00+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.444859+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "We didn’t need Reggio Emilia to teach us how to see children",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "320949d4c3b4e8872212eaa3a725dd871e673110bf70361ef2a80af98198cc3d",
+    "title": "Ziegler announces seminary will remain Conservative, add focus on finance, technology",
+    "link": "https://ejewishphilanthropy.com/ziegler-announces-seminary-will-remain-conservative-add-focus-on-finance-technology/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-12T09:59:28+00:00",
+    "fetched_iso": "2026-10-12T21:27:00.537834+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ziegler announces seminary will remain Conservative, add focus on finance, technology",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "5e39c2197488be42acab8d43feedd2380ff7f80dcb7e1c4674aa5d783f1f47f1",
     "title": "From Xinjiang to the Front Lines of Syria",
     "link": "https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/",
@@ -9865,594 +10327,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "For better or for worse, NATO’s future could define Trump’s foreign policy legacy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b31d58ba677527262d4edb133de74db99e0cfeb1c0f8c079152288c731a83bcc",
-    "title": "Why is Karl Rove supporting a progressive Jewish candidate in Texas?",
-    "link": "https://www.jta.org/2026/09/28/politics/why-is-karl-rove-supporting-a-progressive-jewish-candidate-in-texas",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T21:24:58+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.859440+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Why is Karl Rove supporting a progressive Jewish candidate in Texas?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8cfa0797a487ad64f63294275c0d5e1449febd2a15a13a9b333f9721e79914ff",
-    "title": "Fighting between Pakistan and the Taliban persists into second week",
-    "link": "https://www.fdd.org/analysis/2026/09/28/fighting-between-pakistan-and-the-taliban-persists-into-second-week/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T21:14:58+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.011197+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Fighting between Pakistan and the Taliban persists into second week",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "335da4b78ffbbb864c49b719d8dfa23541b7d0c10d9128dd7fdf2314c1800513",
-    "title": "Irish national soccer team won’t shake hands with Israel after win",
-    "link": "https://www.jta.org/2026/09/28/sports/irish-national-soccer-team-wont-shake-hands-with-israel-after-win",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T21:12:41+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.942535+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Irish national soccer team won’t shake hands with Israel after win",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ada40249d6a4afef66279f59264ae65ea87a6cf5215bcce141244ddaad47f09d",
-    "title": "Ex-Gov. Paterson says Jessica Tisch could run for mayor",
-    "link": "https://www.jta.org/2026/09/28/ny/ex-gov-paterson-says-jessica-tisch-could-run-for-mayor",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T21:10:01+00:00",
-    "fetched_iso": "2026-09-29T09:10:32.018838+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Ex-Gov. Paterson says Jessica Tisch could run for mayor",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "00907ada062cde445fd5a89b7c8553a9feb3ff9003ae9f744dbb3620df3c51f0",
-    "title": "UAE puts Bibi visit on front page",
-    "link": "https://jewishinsider.com/2026/09/uae-puts-bibi-visit-on-front-page/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-09-28T20:58:49+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.715248+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "UAE puts Bibi visit on front page",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8bacd350fdf48cf878049589ea94d02eecd2807950b65cb857037ccccb945b51",
-    "title": "What Xi Actually Thinks of Trump",
-    "link": "https://foreignpolicy.com/2026/09/28/xi-trump-summit-washington-us-china/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-28T20:40:22+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.350774+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What Xi Actually Thinks of Trump",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d73abf165e446e2936e635b2b609f3ee2fc2b105900158edda91a76e710d7535",
-    "title": "Secretary Rubio’s Meeting with Lebanese Prime Minister Salam",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-lebanese-prime-minister-salam/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-09-28T20:37:51+00:00",
-    "fetched_iso": "2026-09-29T09:10:30.934319+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Secretary Rubio’s Meeting with Lebanese Prime Minister Salam",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f1d2c5d899de84ced4d9f10f8786933c15bf0af4a434d807dfc583eae3c94f85",
-    "title": "The U.S. and China Agree to Slash Tariffs",
-    "link": "https://foreignpolicy.com/2026/09/28/us-china-tariffs-soybeans-trade-war-truce-taiwan-selling-weapons/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-28T20:07:18+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.427825+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The U.S. and China Agree to Slash Tariffs",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "670b60a50b658604c36334973114eeea7ba4b170a00b1d62cf72dfef7237fbad",
-    "title": "From one Australian deli, he built a shopping empire. His parents taught him what to do with its riches.",
-    "link": "https://forward.com/culture/film-tv/852512/from-one-australian-deli-he-built-a-shopping-empire-his-parents-taught-him-what-to-do-with-its-riches/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T20:01:59+00:00",
-    "fetched_iso": "2026-09-29T09:10:32.302651+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "From one Australian deli, he built a shopping empire. His parents taught him what to do with its riches.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "210a4a04e35c8d5ce34e560fe9bb5994074af8353990cf2aa8e2f53f260bb4eb",
-    "title": "What’s behind the Algeria-UAE rupture",
-    "link": "https://www.atlanticcouncil.org/blogs/menasource/whats-behind-the-algeria-uae-rupture/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-09-28T19:54:42+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.182427+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What’s behind the Algeria-UAE rupture",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "798655f1447cbc6fdb4bff628d31fafa4a693e01a711614468cc5096b29e8cdb",
-    "title": "How Trump Is Sparking a Slovenian Website Boom",
-    "link": "https://foreignpolicy.com/2026/09/28/trump-super-intelligence-unga-slovenia-web-domain-demand/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-28T19:41:11+00:00",
-    "fetched_iso": "2026-09-29T09:10:31.500750+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "How Trump Is Sparking a Slovenian Website Boom",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "52dc224d8722235a9736df685b6c8150aec3f9234e33c02bb5f07f786f9d6624",
-    "title": "Montgomery County. Md., rabbis accuse school district of failing to address antisemitism surge",
-    "link": "https://jewishinsider.com/2026/09/montgomery-county-maryland-clergy-antisemitism-public-schools/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-09-28T19:33:30+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.972988+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Montgomery County. Md., rabbis accuse school district of failing to address antisemitism surge",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "10150f944d17725195a6efadff64f0dc164af057072960cf67a2ac4b4e570146",
-    "title": "President Trump expects more Iran talks this week",
-    "link": "https://www.fdd.org/in_the_news/2026/09/28/president-trump-expects-more-iran-talks-this-week/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T19:17:30+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.461103+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "President Trump expects more Iran talks this week",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e5554e768c31ef3d78e65ffe89602de23515fb63431c0047d56ceac9a7e37138",
-    "title": "Iran says Trump must choose between war or diplomacy",
-    "link": "https://www.fdd.org/in_the_news/2026/09/28/iran-says-trump-must-choose-between-war-or-diplomacy/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T18:44:27+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.539531+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iran says Trump must choose between war or diplomacy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1dd156bfaeed19cbec2e5863b52ae55b54feeb705e1b4b6c7cf2d453bbb4b1b3",
-    "title": "Visa Restrictions for Foreign Nationals Undermining Democratically-Elected Governments in Western Hemisphere Countries",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/visa-restrictions-for-foreign-nationals-undermining-democratically-elected-governments-in-western-hemisphere-countries/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-09-28T18:43:47+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.179759+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Visa Restrictions for Foreign Nationals Undermining Democratically-Elected Governments in Western Hemisphere Countries",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2dc295ac6d8ee656bdaa797b82118716c0bef84060607ca834496538973652ec",
-    "title": "Sanctioned Iranian Airlines Keep Flying to Turkey",
-    "link": "https://www.fdd.org/analysis/2026/09/28/sanctioned-iranian-airlines-keep-flying-to-turkey/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T18:21:43+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.628886+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Sanctioned Iranian Airlines Keep Flying to Turkey",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c9ac62eb1817fc9cbbe7b22a3bce16fb998cdf7da171328838fa4d5288265c96",
-    "title": "They settled in a city where 200,000 Jews thrived. After Kristallnacht, her family fled and she stayed behind.",
-    "link": "https://forward.com/culture/books/852473/city-wthout-jews-douglas-smith-wwii-vienna-holocaust-kristallnacht-mignon-langnas/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T17:45:42+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.238167+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "They settled in a city where 200,000 Jews thrived. After Kristallnacht, her family fled and she stayed behind.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "342161ae13e8a2106a57a5e93bfa7b18fa793f374aa234191106aa98b14bfd28",
-    "title": "Could a convert’s kid play Jewish geography?",
-    "link": "https://forward.com/forward-newsletters/looking-forward/852485/could-a-converts-kid-play-jewish-geography/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T17:00:58+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.332025+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Could a convert’s kid play Jewish geography?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "95cd38c38a5e920357392ae5e391831b1db6882130db27d2499d6f178f7f540c",
-    "title": "Herzog speaks with Jerusalem Reform synagogue leaders, personally checks in with police",
-    "link": "https://forward.com/fast-forward/852470/herzog-speaks-with-jerusalem-reform-synagogue-leaders-personally-checks-in-with-police/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T16:48:01+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.409184+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Herzog speaks with Jerusalem Reform synagogue leaders, personally checks in with police",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "14be7593180402b29b8bc0d3071bb72832b7adea09d96cf6c851ee60372324ae",
-    "title": "Technology and the Global South: A US strategy for competitiveness",
-    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/technology-and-the-global-south-a-us-strategy-for-competitiveness/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-09-28T16:30:00+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.728359+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Technology and the Global South: A US strategy for competitiveness",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9cb93bbbd66f3931530e8bb589b8121c57267551e751ed3ec27633c1af833476",
-    "title": "Bipartisan Federal Report Calls for Stronger, More Transparent Response to Campus Antisemitism - PR Newswire",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEl2YjRFWkloVEQ5NmtKY3ZLRVBUQ2xOR0hDUVZzZGYtZ1Y5aGxDYVJZYkhLdDFZSjlXc3VQdkVwTEVLQVVqU0JFVzVIV2tzdm96QTJkOHN0RlJYRFV3cW9DY3lrSjBmbDRsOHBfemE0cnNlRDI4ZmVTSzV4amxPOEZZOHRkOWRwQWFtSnRUNHk4M0g4TmxISDdSVkxENDJiQ1o5aUFUTGF0VFF5b1RubWxBVDVTNW9LclNIREI5b0NJNHhpakVTdXlzZTNvOTZ5bE55WHhwWFZwNFlvZHdyR2NnTQ?oc=5",
-    "source": "Google News - US Antisemitism & Campus Affairs",
-    "published_iso": "2026-09-28T16:30:00+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.581852+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Bipartisan Federal Report Calls for Stronger, More Transparent Response to Campus Antisemitism - PR Newswire",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "239d1491e96090926655abbd0344f897cd398e46efe96d5377e9169d1b8fb05c",
-    "title": "State Department postpones Oct. 7 memorial event",
-    "link": "https://jewishinsider.com/2026/09/state-department-postpones-oct-7-memorial-event/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-09-28T16:24:39+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.076029+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "State Department postpones Oct. 7 memorial event",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "6e0a35e1e3a55e9bd330e639fba0446ca78536f0a7dc0950aacba0b9209e66d8",
-    "title": "New Visa Restriction Policy to Promptly Resolve International Parental Child Abduction Cases",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/new-visa-restriction-policy-to-promptly-resolve-international-parental-child-abduction-cases/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-09-28T16:20:57+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.374984+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "New Visa Restriction Policy to Promptly Resolve International Parental Child Abduction Cases",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0a41c8ed5a82c40421f69c3fc2169a3250a3df074d1f950183acd4bdef346cd4",
-    "title": "Herzog speaks with Jerusalem Reform synagogue leaders, personally checks in with police",
-    "link": "https://www.jta.org/2026/09/28/israel/herzog-speaks-with-jerusalem-reform-synagogue-leaders-personally-checks-in-with-police",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T15:46:51+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.160163+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Herzog speaks with Jerusalem Reform synagogue leaders, personally checks in with police",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "65bf5ea363c88653192fa00e343ee1f2e75c0e82b62be9aec5935587f2a8affc",
-    "title": "Alliance Leash: The Iran War and America’s Right to Say No - Foreign Policy in Focus",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNnZvTkZhZS01cjBoR0x5QTZjaDMwTk8wS2F6WWVMdl9DNlVDZ0FOb1BNenlZSG4tb1VMVHJfbEhjRnRxY3ZUZEVrR3p6RmY5VUpUcVpqeDJLTERhNTVlVmhHNTJWX3NSRWM3a1d0Y1hYX2J6ZzVVVmM5VmpGeEE?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-09-28T15:36:22+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.683740+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Alliance Leash: The Iran War and America’s Right to Say No - Foreign Policy in Focus",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a04a00753450603f064d6d9963c862d38638506cdef7476db36cd6ca2345afea",
-    "title": "The IMF’s big test in Bangkok",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/the-imfs-big-test-in-bangkok/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-09-28T14:56:30+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.808830+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The IMF’s big test in Bangkok",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9c0a623277add8b9de6fc7c9ed38b6c03385e04c237a95c3e1b4b4efbcf24a5f",
-    "title": "Your Daily Phil: Sunup on Sunkist: After eJP report, Fruit Gems are back",
-    "link": "https://ejewishphilanthropy.com/your-daily-phil-sunup-on-sunkist-after-ejp-report-fruit-gems-are-back/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-28T14:42:49+00:00",
-    "fetched_iso": "2026-09-28T19:53:08.490898+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Your Daily Phil: Sunup on Sunkist: After eJP report, Fruit Gems are back",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "13605cbab01d8a303d4eac5dd2a14966644f6382b52b75b6cb6b505f69b791a4",
-    "title": "Brazil Has No Answers for Its China Problem",
-    "link": "https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-28T14:25:17+00:00",
-    "fetched_iso": "2026-09-28T19:53:07.889799+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Brazil Has No Answers for Its China Problem",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a53c25a57617e74810954d9ea2693c2e279acb4af5dbbaf12a024835d3e046ed",
-    "title": "Putin claims a landslide, but he can’t hide the smoke over Moscow",
-    "link": "https://www.fdd.org/analysis/2026/09/28/putin-claims-a-landslide-but-he-cant-hide-the-smoke-over-moscow/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T14:08:48+00:00",
-    "fetched_iso": "2026-09-28T14:18:06.734422+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Putin claims a landslide, but he can’t hide the smoke over Moscow",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a56de2faed5667aad4bf09aad5fc4d6c14880a6ce9cb3caa579b58cbfa67ab2b",
-    "title": "Iran ready for talks or “apocalyptic war”",
-    "link": "https://www.fdd.org/in_the_news/2026/09/28/iran-ready-for-talks-or-apocalyptic-war/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T13:58:16+00:00",
-    "fetched_iso": "2026-09-28T14:18:06.851616+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iran ready for talks or “apocalyptic war”",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "19ee34642388a73c0abf174de037bf3a6bd90b3dd2e7d0e38dd6af2aa45d0ca0",
-    "title": "Is the Iran-sanctions playbook coming for Israel?",
-    "link": "https://www.fdd.org/in_the_news/2026/09/28/is-the-iran-sanctions-playbook-coming-for-israel/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T13:55:49+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.052152+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Is the Iran-sanctions playbook coming for Israel?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c4c100b082195217889beab904be35a0e815dec89d549a0441f45bfd1e7e8e3d",
-    "title": "Jewish star Adam Brody calls Israeli actions in Gaza ‘genocide’",
-    "link": "https://www.jta.org/2026/09/28/united-states/jewish-star-adam-brody-calls-israeli-actions-in-gaza-genocide",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T13:47:04+00:00",
-    "fetched_iso": "2026-09-28T14:18:08.235899+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Jewish star Adam Brody calls Israeli actions in Gaza ‘genocide’",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a09ff391e2d80d617f83aa942e6f9993168562215459b4bf5a44fc277420535e",
-    "title": "Trump’s ‘Greater North America’ Is Fascist Geopolitics",
-    "link": "https://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-09-28T13:23:11+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.338529+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump’s ‘Greater North America’ Is Fascist Geopolitics",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5c6442cc61be8995431ffbbf20265a82a4c9413a863a8da78ac323774b562dcb",
-    "title": "Leaked Roadmap Shows How Moscow Is Institutionalizing Ties With Iran",
-    "link": "https://www.fdd.org/analysis/2026/09/28/leaked-roadmap-shows-how-moscow-is-institutionalizing-ties-with-iran/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T13:22:46+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.153257+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Leaked Roadmap Shows How Moscow Is Institutionalizing Ties With Iran",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1a02910042aeb92cabb5a7bb6d591447e1adc7448faa00fdb32a80dbfe5c3654",
-    "title": "A beloved candy does what almost nothing else can: Bring the Jewish community together",
-    "link": "https://ejewishphilanthropy.com/a-beloved-candy-does-what-almost-nothing-else-can-bring-the-jewish-community-together/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-09-28T12:04:00+00:00",
-    "fetched_iso": "2026-09-28T14:18:08.840425+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A beloved candy does what almost nothing else can: Bring the Jewish community together",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c37754ec5fa2f175152e5176e77503c9b56c218daae5139338dd3effea992843",
-    "title": "Terror and crumpets",
-    "link": "https://jewishinsider.com/2026/09/terror-and-crumpets/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-09-28T11:23:01+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.741834+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Terror and crumpets",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e207ac8254ca458973c653197019f284b08e6699ad73a559bebee6320ac904a3",
-    "title": "Fulbright Visiting Scholar Program 2027-28 (Deadline: December 21, 2026)",
-    "link": "https://il.usembassy.gov/fulbright-visiting-scholar-program-deadline-december-21-2026/",
-    "source": "US Embassy Jerusalem",
-    "published_iso": "2026-09-28T11:17:46+00:00",
-    "fetched_iso": "2026-09-28T14:18:06.637450+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Fulbright Visiting Scholar Program 2027-28 (Deadline: December 21, 2026)",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4c183251dc22851f7a4d926c6f7deda7e8a6c33b8dbe88924cc65c35fe8aae9f",
-    "title": "Jewish establishment heavy hitters are joining J Street in a sign of the changing times",
-    "link": "https://forward.com/fast-forward/852428/jewish-establishment-heavy-hitters-are-joining-j-street-in-a-sign-of-the-changing-times/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T11:08:41+00:00",
-    "fetched_iso": "2026-09-28T14:18:08.573653+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Jewish establishment heavy hitters are joining J Street in a sign of the changing times",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "cabdd6057280a4dd6a0e285765b156d93d44210b563fd45310613d9455eeaa82",
-    "title": "The U.K.’s new government faces its first big security test",
-    "link": "https://jewishinsider.com/2026/09/the-u-k-s-new-government-faces-its-first-big-security-test/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-09-28T10:41:12+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.830110+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The U.K.’s new government faces its first big security test",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f0290b5827650637c050e66adf842f72ba4771c2266c11724238fb02a53d55d3",
-    "title": "They led protests against Netanyahu. Can they turn outrage into political power?",
-    "link": "https://forward.com/news/852431/israel-protest-leaders-election-netanyahu-democrats/",
-    "source": "The Forward",
-    "published_iso": "2026-09-28T10:33:48+00:00",
-    "fetched_iso": "2026-09-28T14:18:08.666884+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "They led protests against Netanyahu. Can they turn outrage into political power?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "468ce540f31164676601370e37bcdda4fa67cdb317ca04442235218d41e99ccf",
-    "title": "Strengthening NATO Through Military Mobility and Critical Infrastructure Cybersecurity",
-    "link": "https://www.fdd.org/analysis/2026/09/28/strengthening-nato-through-military-mobility-and-critical-infrastructure-cybersecurity/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-09-28T10:00:00+00:00",
-    "fetched_iso": "2026-09-28T14:18:07.247755+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Strengthening NATO Through Military Mobility and Critical Infrastructure Cybersecurity",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "af48ff6cf502f616ac57718451cac2081fb92cb86415471939d7e9ba64971e82",
-    "title": "Figures who once defined Jewish establishment line up behind J Street",
-    "link": "https://www.jta.org/2026/09/28/politics/jewish-establishment-heavy-hitters-are-joining-j-street-in-a-sign-of-the-changing-times",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-09-28T10:00:00+00:00",
-    "fetched_iso": "2026-09-28T14:18:08.391677+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Figures who once defined Jewish establishment line up behind J Street",
     "implications": [
       "Analysis temporarily unavailable."
     ]
