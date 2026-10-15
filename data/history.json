@@ -1,5 +1,411 @@
 [
   {
+    "url_hash": "b74d16cefb1279de750e3e54f610e3321ea5f86a83dfb4055eed8f1b984dc1fb",
+    "title": "Sporadic Weapons Seizures Won’t Stop Hezbollah’s Rearmament",
+    "link": "https://www.fdd.org/analysis/sporadic-weapons-seizures-wont-stop-hezbollahs-rearmament/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T20:01:51+00:00",
+    "fetched_iso": "2026-10-15T20:06:21.595984+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sporadic Weapons Seizures Won’t Stop Hezbollah’s Rearmament",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fdb5301d78663a029ab8cf1c9c47c78433b39c414013f2466f068ff0b86c6d54",
+    "title": "Russia’s Starlink substitute poses a security threat far beyond Ukraine",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/russias-starlink-substitute-poses-a-security-threat-far-beyond-ukraine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T19:53:34+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.314966+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia’s Starlink substitute poses a security threat far beyond Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a186d94201f600d98187002936c4aa0c081ddd15432aaa1887a951152c717812",
+    "title": "How torture charges in the Maduro case could close a gap in international justice",
+    "link": "https://www.atlanticcouncil.org/dispatches/how-torture-charges-in-the-maduro-case-could-close-a-gap-in-international-justice/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T19:18:58+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.423295+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How torture charges in the Maduro case could close a gap in international justice",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e66254e4babd14ad8b157518c0d6c7b8b9d5740316e9368570d5a771feddd0f1",
+    "title": "Senate expected to vote on Saudi nuclear deal before end of year",
+    "link": "https://jewishinsider.com/2026/10/senate-vote-saudi-nuclear-deal-end-of-year/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-15T19:00:00+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.431677+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Senate expected to vote on Saudi nuclear deal before end of year",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d337b7d2cddd4ab5d4223cde3a790427c814078849dd78e2f0ffb96ebd38012e",
+    "title": "Ukraine reports more battlefield gains as Putin’s invasion loses momentum",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-reports-more-battlefield-gains-as-putins-invasion-loses-momentum/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T18:46:44+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.540409+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ukraine reports more battlefield gains as Putin’s invasion loses momentum",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2b8ae6bc4d931511f32e21e10a1236dcd952cb99627197fe539ee6b587bba15e",
+    "title": "Irish Jewish leader ‘shocked’ after hotel cancels over 70 rooms for antisemitism conference",
+    "link": "https://www.jta.org/2026/10/15/global/irish-jewish-leader-shocked-after-hotel-cancels-over-70-rooms-for-antisemitism-conference",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-15T18:32:53+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.876122+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Irish Jewish leader ‘shocked’ after hotel cancels over 70 rooms for antisemitism conference",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "319a8b1f9bdf7db298d5b5312c6101eed5de7707403456eaa64717c30b114bea",
+    "title": "How Brandeis University is reimagining the liberal arts for a new generation",
+    "link": "https://www.jta.org/2026/10/15/united-states/how-brandeis-university-is-reimagining-the-liberal-arts-for-a-new-generation",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-15T18:17:44+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.980108+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How Brandeis University is reimagining the liberal arts for a new generation",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ac899679078f3c640bb666c71b041aa0ea3d900ae447435d77a37aa294a674cc",
+    "title": "Holocaust memory compels us to reject false genocide claims — and face Gaza’s agony",
+    "link": "https://www.jta.org/2026/10/15/ideas/holocaust-memory-compels-us-to-reject-false-genocide-claims-and-face-gazas-agony",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-15T17:51:42+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.094562+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Holocaust memory compels us to reject false genocide claims — and face Gaza’s agony",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "53f48777b1c3230028db12c0cf3f802885a260e5c33fab5a467a99369c05c33d",
+    "title": "How Syria can avoid the trap of ethno-sectarianism",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/how-syria-can-avoid-the-trap-of-ethno-sectarianism/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T17:49:48+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.668525+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How Syria can avoid the trap of ethno-sectarianism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ec29c594e405b781e91f2c39aa9470ccaf470a570b3a0da75555e55b80bde187",
+    "title": "USAID’s Destruction Left Nepal Dangerously Exposed",
+    "link": "https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-15T17:47:38+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.994696+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "USAID’s Destruction Left Nepal Dangerously Exposed",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "52fc4f04b64330ef9d1a1e89bc0d60099f8cc9ec7165fd79f8bb345edf2941b6",
+    "title": "El-Sayed dismisses half-sister’s comments about family’s Muslim Brotherhood ties as ‘hearsay’",
+    "link": "https://jewishinsider.com/2026/10/el-sayed-sister-muslim-brotherhood-ties-hearsay/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-15T17:21:13+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.537452+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "El-Sayed dismisses half-sister’s comments about family’s Muslim Brotherhood ties as ‘hearsay’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "04716e6bb9afd5fdb1d51aeef1cb76b1975dba3f4352d24997e2344e33eed42e",
+    "title": "Repair the World marks 1 million acts of Jewish service",
+    "link": "https://ejewishphilanthropy.com/repair-the-world-marks-1-million-acts-of-jewish-service/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-15T17:10:47+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.798762+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Repair the World marks 1 million acts of Jewish service",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d7ff208a1fe746bf6c305e635c7ef3fdebfda955b99b82dc156cff04b7548ad9",
+    "title": "Germany couldn’t stop Hitler’s election tactics; can America stop Trump’s?",
+    "link": "https://forward.com/opinion/856043/midterm-elections-germany-america-trump-hitler-intimidation/",
+    "source": "The Forward",
+    "published_iso": "2026-10-15T16:48:23+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.424022+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Germany couldn’t stop Hitler’s election tactics; can America stop Trump’s?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c587e04e3cacf0681768884a98d3031249df5f73dc685ffb7dbccc2971dcaebd",
+    "title": "Toplines: Twenty-five years after anthrax, the US still is not prepared for a biological attack",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/toplines-twenty-five-years-after-anthrax-the-us-still-is-not-prepared-for-a-biological-attack/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T16:40:40+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.765562+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Toplines: Twenty-five years after anthrax, the US still is not prepared for a biological attack",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f50b5a4fe8c2eb61981a733486fe6046c54943140d1bebe557c5ab10ddd7553e",
+    "title": "Obama scrutinizes Israel’s founding, says Palestinians want their ‘land back’",
+    "link": "https://jewishinsider.com/2026/10/barack-obama-israel-founding-palestinians-land-back-ireland-speech/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-15T16:21:56+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.626742+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Obama scrutinizes Israel’s founding, says Palestinians want their ‘land back’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5cb96a1b31f2fe01eca571c66663c314daab77cd827e7ce3377b5dfc1700803e",
+    "title": "Talarico accuses Netanyahu of imposing ‘collective punishment’ in Oct. 7 response",
+    "link": "https://jewishinsider.com/2026/10/james-talarico-israel-collective-punishment-oct-7-cnn-town-hall/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-15T16:10:17+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.759780+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Talarico accuses Netanyahu of imposing ‘collective punishment’ in Oct. 7 response",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "820b0cc17824a289d93975e2fac6b748055382221c5a2035187296824a5052cf",
+    "title": "Ukraine Starshield restrictions",
+    "link": "https://www.fdd.org/in_the_news/ukraine-starshield-restrictions/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T15:52:24+00:00",
+    "fetched_iso": "2026-10-15T20:06:21.774056+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ukraine Starshield restrictions",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a421fc495c2a68c2d46a50e49cc329ca7a42c2ff3ae3d513ed682ecb25988c1d",
+    "title": "Zelenskyy feels ‘betrayed’ by Trump",
+    "link": "https://www.fdd.org/in_the_news/zelenskyy-feels-betrayed-by-trump/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T15:39:25+00:00",
+    "fetched_iso": "2026-10-15T20:06:21.881218+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Zelenskyy feels ‘betrayed’ by Trump",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "76f756a60b65079cf9dce1bb0ff5b324baccacd4bff14f85561271c4465268e0",
+    "title": "Algeria’s New Bid for Regional Influence",
+    "link": "https://foreignpolicy.com/2026/10/15/algeria-foreign-policy-uae-break-united-states-western-sahara-dispute-morocco-tebboune/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-15T15:38:09+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.095866+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Algeria’s New Bid for Regional Influence",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d6aa6b4b33dd56992e1c732bc4fa4ccda0ef1581129504866491fb0c5126bc6b",
+    "title": "Considering a Jewish school for your child? Don’t miss these NYC-area open houses.",
+    "link": "https://www.jta.org/2026/10/15/ny/considering-a-jewish-school-for-your-child-dont-miss-these-nyc-area-open-houses",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-15T15:02:50+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.208554+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Considering a Jewish school for your child? Don’t miss these NYC-area open houses.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3ccb738e75320467b7f61074bf21d83603df07bf81376e960f517c1438990df5",
+    "title": "2 vessels struck in the Strait of Hormuz, as U.S. weighs “mother of all bombs” against Iran",
+    "link": "https://www.fdd.org/in_the_news/2-vessels-struck-in-the-strait-of-hormuz-as-u-s-weighs-mother-of-all-bombs-against-iran/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T14:58:46+00:00",
+    "fetched_iso": "2026-10-15T20:06:21.995610+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "2 vessels struck in the Strait of Hormuz, as U.S. weighs “mother of all bombs” against Iran",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "441adcaf3802db2ce5a08187fea14960e862ec6edbacca51e13f5836cb4089ad",
+    "title": "ECB President Christine Lagarde on the digital euro and Europe’s financial future",
+    "link": "https://www.atlanticcouncil.org/commentary/podcast/ecb-president-christine-lagarde-on-the-digital-euro-and-europes-financial-future/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-15T14:56:59+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.889151+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "ECB President Christine Lagarde on the digital euro and Europe’s financial future",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "13f84d759a72ca911061a3dd9c0ada0a689adb7752eacfd5d649c5baa987929c",
+    "title": "Sally Rooney’s publisher stops selling her books in Britain, citing ban on pro-Palestinian group she backs",
+    "link": "https://forward.com/fast-forward/856019/sally-rooneys-publisher-stops-selling-her-books-in-britain-citing-ban-on-pro-palestinian-group-she-backs/",
+    "source": "The Forward",
+    "published_iso": "2026-10-15T14:56:42+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.564353+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sally Rooney’s publisher stops selling her books in Britain, citing ban on pro-Palestinian group she backs",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "802763a694c53594c822566813ac73783c97d6c0667bd0498e4b99af01c8bf75",
+    "title": "Trump cheered in video address to Michigan synagogue",
+    "link": "https://forward.com/fast-forward/856007/trump-cheered-in-video-address-to-michigan-synagogue/",
+    "source": "The Forward",
+    "published_iso": "2026-10-15T14:54:05+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.657403+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump cheered in video address to Michigan synagogue",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f5b06083845b43d08822db2915be45124230b7da322229143b9987d8bcb3628f",
+    "title": "Why Spain Is Standing Up to Trump",
+    "link": "https://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-15T14:52:42+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.230097+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why Spain Is Standing Up to Trump",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "89aff4e79bd24cca58044753a3cc417e79e50c72208639da3728595eca3792ee",
+    "title": "The Next War of Attrition is in Yemen",
+    "link": "https://www.fdd.org/analysis/the-next-war-of-attrition-is-in-yemen/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T14:31:28+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.096320+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Next War of Attrition is in Yemen",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "28f2437f29fcdfeda52204f4f68eccac62f0268346dcd8e8a2c45dc03cc48660",
+    "title": "Your Daily Phil: Israeli candidates duke it out over Diaspora affairs",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-israeli-candidates-duke-it-out-over-diaspora-affairs/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-15T14:02:18+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.893947+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Israeli candidates duke it out over Diaspora affairs",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f2f23a5f5107087bbc38e76eaa4f14abe63b4dc3c7a9f16c19b0ce59240278f3",
+    "title": "Sally Rooney’s publisher stops selling her books in Britain, citing ban on pro-Palestinian group she backs",
+    "link": "https://www.jta.org/2026/10/15/global/sally-rooneys-publisher-stops-selling-her-books-in-britain-citing-ban-on-pro-palestinian-group-she-backs",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-15T13:56:08+00:00",
+    "fetched_iso": "2026-10-15T20:06:24.316439+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Sally Rooney’s publisher stops selling her books in Britain, citing ban on pro-Palestinian group she backs",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "dc2d03bf37b31a615969c62c83875ea1bbeedd3fe917e977a3831689e910277c",
+    "title": "Washington’s Counter-Mine Wakeup Call",
+    "link": "https://www.fdd.org/analysis/washingtons-counter-mine-wakeup-call/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-15T13:50:26+00:00",
+    "fetched_iso": "2026-10-15T20:06:22.213936+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Washington’s Counter-Mine Wakeup Call",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "c3cae0b4afd246620d761301a021ede67fbc1ef16dab715e1486ea5a69471f49",
     "title": "Huckabee met secretly with Netanyahu’s top rival, Gadi Eisenkot",
     "link": "https://jewishinsider.com/2026/10/huckabee-met-secretly-with-netanyahus-top-rival-gadi-eisenkot/",
@@ -261,6 +667,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "India’s Democratic Reckoning",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "798a29f812e31e4253bdb71c6362ae7820f84bd566b35f4a6c7b54f4845576cb",
+    "title": "A Democratic Reckoning in India",
+    "link": "https://www.foreignaffairs.com/india/democratic-reckoning-india",
+    "source": "Foreign Affairs Magazine",
+    "published_iso": "2026-10-15T08:00:00+00:00",
+    "fetched_iso": "2026-10-15T20:06:23.334602+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "A Democratic Reckoning in India",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -9543,426 +9963,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Modi Faces Protest Threat Over Election Commission Scandal",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "19c783bfd1ca746cf0337641604e2f78abadffb6b4b51d7ef114bea37353823d",
-    "title": "Montgomery County schools superintendent admits missteps on antisemitism, pledges action",
-    "link": "https://jewishinsider.com/2026/10/montgomery-county-public-schools-superintendent-admits-missteps-antisemitism/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-01T18:33:23+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.961454+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Montgomery County schools superintendent admits missteps on antisemitism, pledges action",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "383ac1b7ee3cbe888cf8e0d1cc874fff68631c6800f6ca4550071c36d32bf198",
-    "title": "Rabbi who coached Adam Brody for ‘Nobody Wants This’ calls him ‘ignorant Jew’ over Gaza ‘genocide’ comments",
-    "link": "https://forward.com/fast-forward/853226/rabbi-who-coached-adam-brody-for-nobody-wants-this-calls-him-ignorant-jew-over-gaza-genocide-comments/",
-    "source": "The Forward",
-    "published_iso": "2026-10-01T18:30:38+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.394164+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Rabbi who coached Adam Brody for ‘Nobody Wants This’ calls him ‘ignorant Jew’ over Gaza ‘genocide’ comments",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1e11eb2fee93913025c0899da3cb4a823125ab7fa5bbf787ff49b5f2e263f77f",
-    "title": "Can Mexico thread the needle between Washington and Beijing?",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/can-mexico-thread-the-needle-between-washington-and-beijing/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-01T18:23:35+00:00",
-    "fetched_iso": "2026-10-01T18:36:49.570405+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Can Mexico thread the needle between Washington and Beijing?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0da5599b04c195eb877fbc1f4822598c67c72cbb0e67bc4542e9173e91e71edb",
-    "title": "Ports, power, and presence: How to defend Batanes from China",
-    "link": "https://www.atlanticcouncil.org/dispatches/ports-power-and-presence-how-to-defend-batanes-from-china/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-01T18:22:40+00:00",
-    "fetched_iso": "2026-10-01T18:36:49.760708+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Ports, power, and presence: How to defend Batanes from China",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "687cbbed636df207913812910531fad20b279cd2d5dd30ffdb294b5574004c60",
-    "title": "Operation Economic Outcast Targets Illicit Funding in Iran’s Rail and Automotive Sectors",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/operation-economic-outcast-targets-illicit-funding-in-irans-rail-and-automotive-sectors/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-01T18:18:20+00:00",
-    "fetched_iso": "2026-10-01T18:36:47.578194+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Operation Economic Outcast Targets Illicit Funding in Iran’s Rail and Automotive Sectors",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7c1639e33089102e1eb86951ecbdba049bc30ccd4bafa78cb2bc5bbb4e87b3dc",
-    "title": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
-    "link": "https://www.fdd.org/in_the_news/quotes/2026/10/01/france-rocked-by-student-riots-as-hundreds-arrested-violence-spreads-nationwide/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T18:09:28+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.041641+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "France rocked by student riots as hundreds arrested, violence spreads nationwide",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "343463352248992af89d6915aff09901f1b7f8e7333164a6ebab996f918d0e3f",
-    "title": "State-linked actor targets US AI policy experts in credential phishing campaigns",
-    "link": "https://www.fdd.org/in_the_news/quotes/2026/10/01/state-linked-actor-targets-us-ai-policy-experts-in-credential-phishing-campaigns/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T18:08:12+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.179045+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "State-linked actor targets US AI policy experts in credential phishing campaigns",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "83ed712b61bfdab1cea6fd828fb0f0cc6f449fd80c71901b8fb9a094677be5a5",
-    "title": "Iran likely to step up use of stablecoins as US sanctions tighten, analyst says",
-    "link": "https://www.fdd.org/in_the_news/quotes/2026/10/01/iran-likely-to-step-up-use-of-stablecoins-as-us-sanctions-tighten-analyst-says/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T18:06:32+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.403291+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iran likely to step up use of stablecoins as US sanctions tighten, analyst says",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "55ffd5d3e5fa78ef31e2786b56dcc9d2c65c5b77c3d1a637e75bd8afad496b1a",
-    "title": "Oil Is Again Flowing Out of Hormuz",
-    "link": "https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-01T17:48:13+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.372553+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Oil Is Again Flowing Out of Hormuz",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b89e7e7862c81a4293b2432bcf3fbd18e9ada7f29edd78c21cc43e14cc638db6",
-    "title": "Secretary Rubio’s Travel to Reykjavík, Athens, and Lisbon",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-travel-to-reykjavik-athens-and-lisbon/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-01T17:32:13+00:00",
-    "fetched_iso": "2026-10-01T18:36:47.820236+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Secretary Rubio’s Travel to Reykjavík, Athens, and Lisbon",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9693e3df4e95bec974738eb3351c5538fbbf3be2cf5d898b90da49f5b4e48df1",
-    "title": "Co-pilot tries to hijack Israel-bound Flydubai flight",
-    "link": "https://www.fdd.org/in_the_news/2026/10/01/co-pilot-tries-to-hijack-israel-bound-flydubai-flight/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T17:17:09+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.546906+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Co-pilot tries to hijack Israel-bound Flydubai flight",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "13e79c02ff9b6291858deab5cb295228b8d9a904d1a9fa37069d60f6d75ab7c6",
-    "title": "Netanyahu says FlyDubai Omani co-pilot underwent ‘Islamist radical indoctrination’",
-    "link": "https://jewishinsider.com/2026/10/netanyahu-flydubai-omani-pilot-islamist-radicalization/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-01T17:17:07+00:00",
-    "fetched_iso": "2026-10-01T18:36:51.094024+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Netanyahu says FlyDubai Omani co-pilot underwent ‘Islamist radical indoctrination’",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e83945b28f2a38e0140dbe6f501b7a3627b283091c93a518bad4ad6ea639e301",
-    "title": "Anti-Zionism is not antisemitism, US rights commission finds in rebuke to Trump - The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkpDZnk1a1VLbEYzRmhBcEJibzFFTTB6NFhxUFEwdk05X2VnczFKNUNlRlI4TTNDZGMyaElmRjU1bGJudWFrUVlDc1o1OEljb1lPU0NXT0UySG53WURqYy1CNW1qYWQxaURUWm5Ia3N2WFl2MXhDUUVlVEQzT3M2ZEdIRVJXZjNTWGlWSVVR?oc=5",
-    "source": "Google News - US Antisemitism & Campus Affairs",
-    "published_iso": "2026-10-01T16:57:08+00:00",
-    "fetched_iso": "2026-10-02T09:05:35.269642+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Anti-Zionism is not antisemitism, US rights commission finds in rebuke to Trump - The New Arab",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4f851633400e7ac8534741ecc7a56ff9f5de413fc92a60b81e73d9608a0b5093",
-    "title": "DMFI lays out proposal for future of U.S.-Israel relationship",
-    "link": "https://jewishinsider.com/2026/10/democratic-majority-for-israel-plan-future-us-israel-relationship/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-01T16:41:17+00:00",
-    "fetched_iso": "2026-10-01T18:36:51.209389+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "DMFI lays out proposal for future of U.S.-Israel relationship",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "22eb3aec77f77e84259003af896bdd62b11d97e89c595117e97704c36f709c24",
-    "title": "Rabbi who coached Adam Brody for ‘Nobody Wants This’ calls him ‘ignorant Jew’ over Gaza ‘genocide’ comments",
-    "link": "https://www.jta.org/2026/10/01/united-states/rabbi-who-coached-adam-brody-for-nobody-wants-this-calls-him-ignorant-jew-over-gaza-genocide-comments",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-01T16:29:53+00:00",
-    "fetched_iso": "2026-10-01T18:36:51.906308+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Rabbi who coached Adam Brody for ‘Nobody Wants This’ calls him ‘ignorant Jew’ over Gaza ‘genocide’ comments",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "61939d8c2129592c550cdc0403e84b77654608698b7e9a871a21c424117f76a0",
-    "title": "In the War Room: The Inside Story of Israel’s Fight Against Hamas and the Iranian Axis",
-    "link": "https://www.fdd.org/podcasts/2026/10/01/in-the-war-room-the-inside-story-of-israels-fight-against-hamas-and-the-iranian-axis/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T16:29:19+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.753349+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "In the War Room: The Inside Story of Israel’s Fight Against Hamas and the Iranian Axis",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "15deeb3ca09607c3a0a52e8ad059ac101bf9c2e9e5684991f7c05ee7c1b3c6d6",
-    "title": "How Netflix’s ‘East of Eden’ handled its ‘Timshel’ problem for Hebrew speakers",
-    "link": "https://forward.com/culture/film-tv/853199/netflix-east-of-eden-timshel-meaning-hebrew-real-translation/",
-    "source": "The Forward",
-    "published_iso": "2026-10-01T16:28:11+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.516086+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "How Netflix’s ‘East of Eden’ handled its ‘Timshel’ problem for Hebrew speakers",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "093ee6b69e97a947f61537711fb368dc2124e2d7ab032b0f6a637065ef1c26de",
-    "title": "Washington Decides Complete Ban on Iran-Iraq Flights Is Not Worth the Political Cost",
-    "link": "https://www.fdd.org/analysis/2026/10/01/washington-decides-complete-ban-on-iran-iraq-flights-is-not-worth-the-political-cost/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T16:05:52+00:00",
-    "fetched_iso": "2026-10-01T18:36:48.882508+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Washington Decides Complete Ban on Iran-Iraq Flights Is Not Worth the Political Cost",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "63bd849ec4778e056642cdbf771f7bc3d0e42a1f079707889c1f7a1962df41bb",
-    "title": "FDD Exposes Network of Fake Watchdog and News Websites Advancing Qatari Interests",
-    "link": "https://www.fdd.org/analysis/2026/10/01/fdd-exposes-network-of-fake-watchdog-and-news-websites-advancing-qatari-interests/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-01T16:00:22+00:00",
-    "fetched_iso": "2026-10-01T18:36:49.103987+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "FDD Exposes Network of Fake Watchdog and News Websites Advancing Qatari Interests",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0cdc30fb3422f0759099ed2b72c70457040a2f30f2e2de52914cf5a58d97a794",
-    "title": "Resilience has a cost. So does complacency.",
-    "link": "https://www.atlanticcouncil.org/blogs/menasource/resilience-has-a-cost-so-does-complacency/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-01T15:54:29+00:00",
-    "fetched_iso": "2026-10-01T18:36:49.888627+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Resilience has a cost. So does complacency.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f9a8207349e817e8aa863722083e2aac04c5b456f6137ea823bb5b6799746683",
-    "title": "A Space-Launch Crash Is Coming",
-    "link": "https://foreignpolicy.com/2026/10/01/space-rockets-falcon-9-spacex-commercial-launch/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-01T15:32:07+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.500349+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A Space-Launch Crash Is Coming",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "15df00ccbc2e1e262e96241c4fa7d98d4179b23d8edcaf85a10434b88f60ecba",
-    "title": "University of Texas Jewish groups host former Israeli hostage to counter Piker program",
-    "link": "https://jewishinsider.com/2026/10/university-of-texas-ewish-groups-maya-regev-hasan-piker/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-01T15:30:17+00:00",
-    "fetched_iso": "2026-10-01T18:36:51.363387+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "University of Texas Jewish groups host former Israeli hostage to counter Piker program",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "aa44b6cfe8b77ba3e9e23aa3c9a11ba4a5ef0f4cc30df1ff44eb849faddc8b68",
-    "title": "Yizkor is for mourners. But what if everyone attended the service?",
-    "link": "https://www.jta.org/2026/10/01/ideas/yizkor-is-for-mourners-but-what-if-we-all-stayed",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-01T15:00:00+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.026008+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Yizkor is for mourners. But what if everyone attended the service?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b29026f287ed510191ac95631a74c547908e92ca827be6866d460b9468624a42",
-    "title": "‘Everyone Is Depleted’",
-    "link": "https://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-01T14:47:39+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.613669+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘Everyone Is Depleted’",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "84ab36b411bb816aa244c149f4003e425aa7cb987eba461608e66cdeab170c95",
-    "title": "Trump backs Netanyahu on Oct. 7 warnings, won’t say if he deserves another term",
-    "link": "https://jewishinsider.com/2026/10/trump-defends-netanyahu-from-oct-7-criticism/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-01T14:31:17+00:00",
-    "fetched_iso": "2026-10-01T18:36:51.478751+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump backs Netanyahu on Oct. 7 warnings, won’t say if he deserves another term",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "22fcc4683477d7d097d5c6fb12a6b675fd05347a38acb9ef523be3866a22a1a0",
-    "title": "Even Adam and Eve weren’t satisfied",
-    "link": "https://forward.com/yiddish/853154/even-adam-and-eve-werent-satisfied/",
-    "source": "The Forward",
-    "published_iso": "2026-10-01T14:19:50+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.635213+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Even Adam and Eve weren’t satisfied",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "07475a7c02c9384f7e0677a5baa070eded9a630119c9caedb3bf81fda9b097e8",
-    "title": "ADL makes a play for the arts with new reports suggesting anti-Jewish bias in culture spaces",
-    "link": "https://forward.com/fast-forward/853148/adl-makes-a-play-for-the-arts-with-new-reports-suggesting-anti-jewish-bias-in-culture-spaces/",
-    "source": "The Forward",
-    "published_iso": "2026-10-01T14:19:48+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.737196+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "ADL makes a play for the arts with new reports suggesting anti-Jewish bias in culture spaces",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c3eb40c3b0a89c985b870f312dc25699558f7a50eb3c089594e38f6c68f07f55",
-    "title": "Netanyahu pledges new security measures in wake of FlyDubai attack",
-    "link": "https://forward.com/fast-forward/853139/netanyahu-pledges-new-security-measures-in-wake-of-flydubai-attack/",
-    "source": "The Forward",
-    "published_iso": "2026-10-01T14:17:29+00:00",
-    "fetched_iso": "2026-10-01T18:36:52.849975+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Netanyahu pledges new security measures in wake of FlyDubai attack",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "97e55e6eb06b3b1ffc5ceb4bf98469da24b3d4987f18832722e42e0fd523390d",
-    "title": "How AI Anxiety Turns Into Extremism",
-    "link": "https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-anxiety-extremism-violence-united-states-china-policy/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-01T14:15:20+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.725803+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "How AI Anxiety Turns Into Extremism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b36a33106ce9f8966949738a6ee6d4b75861c55d99c9c2ca4092d0f791850ee4",
-    "title": "Making the EU’s new industrial rulebook work for Central Europe",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/making-the-eus-new-industrial-rulebook-work-for-central-europe/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-01T13:46:08+00:00",
-    "fetched_iso": "2026-10-01T18:36:50.074425+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Making the EU’s new industrial rulebook work for Central Europe",
     "implications": [
       "Analysis temporarily unavailable."
     ]
