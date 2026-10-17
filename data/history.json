@@ -1,5 +1,19 @@
 [
   {
+    "url_hash": "e049ec0a06aeeffc5f9957198ad39f35b784089eb0934dc6f51d470b13362810",
+    "title": "In Pittsburgh, a campus antisemitism report’s authors neglected to speak with Jewish students",
+    "link": "https://www.jta.org/2026/10/17/united-states/in-pittsburgh-a-campus-antisemitism-reports-authors-neglected-to-speak-with-jewish-students",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-17T10:00:00+00:00",
+    "fetched_iso": "2026-10-17T12:31:59.468242+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "In Pittsburgh, a campus antisemitism report’s authors neglected to speak with Jewish students",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "d00f62c13d5d94962d1727c803d1c47420fc1f60263643f259c5b0ff659c3f31",
     "title": "Secretary Rubio’s Meeting with Dominican Republic Foreign Minister Bisonó Haza",
     "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-dominican-republic-foreign-minister-bisono-haza/",
@@ -9879,34 +9893,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Iraq’s National Day",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fe37675c9230598eccc8c47ab7b7670e5384eee9fde436d26f12e3d7e0987c48",
-    "title": "Mamdani joins Theo Von’s podcast. They find common ground in criticizing Netanyahu.",
-    "link": "https://forward.com/fast-forward/853691/mamdani-joins-theo-vons-podcast-they-find-common-ground-in-criticizing-netanyahu/",
-    "source": "The Forward",
-    "published_iso": "2026-10-03T10:13:49+00:00",
-    "fetched_iso": "2026-10-03T14:00:45.567676+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mamdani joins Theo Von’s podcast. They find common ground in criticizing Netanyahu.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "49408eeb67c70212779d97aa47853063a7b364dc3c7c0a195890a4b33a8a586a",
-    "title": "A Jewish journalist recorded pro-Palestinian protesters outside services. He was reportedly suspended from his job",
-    "link": "https://forward.com/fast-forward/853637/a-jewish-journalist-recorded-pro-palestinian-protesters-outside-services-he-was-reportedly-suspended-from-his-job/",
-    "source": "The Forward",
-    "published_iso": "2026-10-03T10:09:27+00:00",
-    "fetched_iso": "2026-10-03T14:00:45.687573+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A Jewish journalist recorded pro-Palestinian protesters outside services. He was reportedly suspended from his job",
     "implications": [
       "Analysis temporarily unavailable."
     ]
