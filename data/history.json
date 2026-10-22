@@ -1,5 +1,999 @@
 [
   {
+    "url_hash": "d6bf53bf211cf9a5ebcb04d030fe46f7e0dbc2bd1f889a25a8d8e8659d9462a5",
+    "title": "New Iran strikes after midterms?",
+    "link": "https://www.fdd.org/in_the_news/new-iran-strikes-after-midterms/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T20:19:45+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.018403+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "New Iran strikes after midterms?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d36cc9058671261cb6504cc0a7d9938c736a1c90136a2209da6bbbdda49eabdd",
+    "title": "Conservative and Christian movies are coming for Hollywood",
+    "link": "https://forward.com/culture/857756/conservative-christian-movies-daily-wire-ben-shapiro/",
+    "source": "The Forward",
+    "published_iso": "2026-10-22T20:15:57+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.376815+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Conservative and Christian movies are coming for Hollywood",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3ce4a814e620e7197e6e7818fda931e58a331513a04f3a391e520f8441bee21c",
+    "title": "Piasecki cited in Treaty and Talks on how AI can help create jobs in developing economies",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/piasecki-cited-in-treaty-and-talks-on-how-ai-can-help-create-jobs-in-developing-economies/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:58:40+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.744925+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Piasecki cited in Treaty and Talks on how AI can help create jobs in developing economies",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1c15cd631687ee445ceff1b6a6b5bf438ec716f35e5e322f0281ebc534ab6008",
+    "title": "Piasecki cited in Intelligence Report on Venezuela’s debt restructuring efforts",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/piasecki-cited-in-intelligence-report-on-venezuelas-debt-restructuring-efforts/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:58:02+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.814862+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Piasecki cited in Intelligence Report on Venezuela’s debt restructuring efforts",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1c29888e9f070f84a53f4b243afb1dffebfdc442b7481b7bcc785c19f8d2a3b3",
+    "title": "Piasecki cited in The Global Eye on the issues at stake at the IMF-World Bank meetings in 2026",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/piasecki-cited-in-the-global-eye-on-the-issues-at-stake-at-the-imf-world-bank-meetings-in-2026/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:57:20+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.882006+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Piasecki cited in The Global Eye on the issues at stake at the IMF-World Bank meetings in 2026",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f6413340cd9ebef2685cd5205e3b7f62ca812916a0b75433e1c4ed83161fd7f8",
+    "title": "Tannebaum interviewed on CNBC’s Squawk Box about the implications of the US-Russia diesel deal",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-interviewed-on-cnbcs-squawk-box-about-the-implications-of-the-us-russia-diesel-deal/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:56:12+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.938390+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tannebaum interviewed on CNBC’s Squawk Box about the implications of the US-Russia diesel deal",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a5d3922d812d87b53ebd85008e92519e9270e3cd4f7fa3fc00e1b084940b74a9",
+    "title": "Lipsky quoted in Reuters on how IMF-World Bank missed the mark on supporting developing countries",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-reuters-on-how-imf-world-bank-missed-the-mark-on-supporting-developing-countries/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:55:16+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.012954+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Reuters on how IMF-World Bank missed the mark on supporting developing countries",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d8fef506d760aba1f40d56a92d8fb7419efc7d8e630fd7fd234964a51c056c3a",
+    "title": "Event with India’s Finance Minister Nirmala Sitharaman quoted in Reuters about balancing bilateralism and multilateralism",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-indias-finance-minister-nirmala-sitharaman-quoted-in-reuters-about-balancing-bilateralism-and-multilateralism/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:51:54+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.091750+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with India’s Finance Minister Nirmala Sitharaman quoted in Reuters about balancing bilateralism and multilateralism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ba48f55240dd35ac3f6d664ed22f9bf535653cb4e42bf6065ebcc60da29f65ff",
+    "title": "Lichfield quoted in Semafor on lasting ceasefire between Russia and Ukraine",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lichfield-quoted-in-semafor-on-lasting-ceasefire-between-russia-and-ukraine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:50:48+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.157764+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lichfield quoted in Semafor on lasting ceasefire between Russia and Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4ac921ea912685f451fd1a2281fdf944f7c174caf6987919ebc886cb000603dd",
+    "title": "Fried quoted in The New Yorker article on Trump’s surprise pivot towards Russia",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/fried-quoted-in-the-new-yorker-article-on-trumps-surprise-pivot-towards-russia/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:48:37+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.227562+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Fried quoted in The New Yorker article on Trump’s surprise pivot towards Russia",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "84c7386806cca0690d5c2f7680522cf3694fe653073c5ebd195f18ccb61be9e8",
+    "title": "Lichfield quoted in Foreign Policy article on the longevity of European support for Ukraine’s defense",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lichfield-quoted-in-foreign-policy-article-on-the-longevity-of-european-support-for-ukraines-defense/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:47:44+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.301592+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lichfield quoted in Foreign Policy article on the longevity of European support for Ukraine’s defense",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2acbd71289262194405fb8a7fdc92ad9ce764b5d50d80217dc2325c14944c215",
+    "title": "Man arrested in Boca Raton for making death threat against Rep. Jared Moskowitz",
+    "link": "https://jewishinsider.com/2026/10/boca-raton-arrest-death-threats-jared-moskowitz/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-22T19:47:04+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.943476+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Man arrested in Boca Raton for making death threat against Rep. Jared Moskowitz",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8c0d999d4b8bb1195d69f4fdd037b9a164c8ed99258775c724860c5a98507875",
+    "title": "Event with India’s Finance Minister Sitharaman quoted in The New Indian Express article on US-India trade deal",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-indias-finance-minister-sitharaman-quoted-in-the-new-indian-express-article-on-us-india-trade-deal/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:46:57+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.376186+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with India’s Finance Minister Sitharaman quoted in The New Indian Express article on US-India trade deal",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fba706beef7e973de1a376240308ef6e3c24dca6a6c6157db41d7da5ee40ba16",
+    "title": "Event with India’s Finance Minister Sitharaman cited in Bloomberg article on China imbalances",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-indias-finance-minister-sitharaman-cited-in-bloomberg-article-on-china-imbalances/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:46:01+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.441610+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with India’s Finance Minister Sitharaman cited in Bloomberg article on China imbalances",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "61dd0bb104985083b4c62739941f1a5f9d292f3b2f9ecdf24a7b2de20966aa97",
+    "title": "Event with Minister Muhammad Aurangzeb cited in Arab News article on poverty challenge",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-minister-muhammad-aurangzeb-cited-in-arab-news-article-on-poverty-challenge/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:44:40+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.506634+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Minister Muhammad Aurangzeb cited in Arab News article on poverty challenge",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "584460e2d854b61e07bf6cbbdac203f33b93dca3a2da443924bbb7312a161dd2",
+    "title": "Event with Minister Muhammad Aurangzeb cited in Business Recorder article on 4% growth",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-minister-muhammad-aurangzeb-cited-in-business-recorder-article-on-4-growth/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:43:28+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.575213+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Minister Muhammad Aurangzeb cited in Business Recorder article on 4% growth",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "acd95efebc721e553c0387d7ec770bce5bbe5818d6b521fe655b702f00e2c0e3",
+    "title": "Event with Megan Greene quoted in Reuters article on GDP forecasting and the IMF’s growth outlook",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-quoted-in-reuters-article-on-gdp-forecasting-and-the-imfs-growth-outlook/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:42:32+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.634868+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene quoted in Reuters article on GDP forecasting and the IMF’s growth outlook",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "47237236872bee0ac351f591cacf39b2ac2f223395dd1ac940cf38a0a35ef8ab",
+    "title": "Event with Christine Lagarde mentioned in Demócrata article on ECB intervention in France",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-christine-lagarde-mentioned-in-democrata-article-on-ecb-intervention-in-france/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:41:22+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.705954+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Christine Lagarde mentioned in Demócrata article on ECB intervention in France",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f9abf2c84cf17f8ffb2a833393895e771023f0b32292aecb5f106404922f1afa",
+    "title": "Event with Christine Lagarde quoted in Bloomberg article on second-round inflation effects",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-christine-lagarde-quoted-in-bloomberg-article-on-second-round-inflation-effects/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:40:25+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.779180+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Christine Lagarde quoted in Bloomberg article on second-round inflation effects",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1c5ea0d7db3d25f194042db2b57b967f0cb3158926eba14e35d15a9b02b035b0",
+    "title": "Event with Christine Lagarde mentioned in Mace News article on digital euro",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-christine-lagarde-mentioned-in-mace-news-article-on-digital-euro/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:39:36+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.853102+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Christine Lagarde mentioned in Mace News article on digital euro",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3280a62e52ff4005cca887b0b62c9581df93e32fb4ca2a46c2eda59bac9572f1",
+    "title": "Mühleisen interviewed on BBC on the IMF global growth forecast amid the AI boom",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/muhleisen-interviewed-on-bbc-on-the-imf-global-growth-forecast-amid-the-ai-boom/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:38:16+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.921268+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Mühleisen interviewed on BBC on the IMF global growth forecast amid the AI boom",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1c26789dc24584d4e6f7382b919350eac332cde8bbfc7cab08b238a23862619f",
+    "title": "The US-Israel relationship needs a reset. Here’s how to do it.",
+    "link": "https://www.atlanticcouncil.org/dispatches/the-us-israel-relationship-needs-a-reset-heres-how-to-do-it/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:37:36+00:00",
+    "fetched_iso": "2026-10-22T20:20:40.983036+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The US-Israel relationship needs a reset. Here’s how to do it.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "65450fdb045695b5c80b08ec488cffc351767b2a85820bbc8deb507a9369cde3",
+    "title": "Tran quoted in Semafor article on China’s “dual circulation” strategy",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tran-quoted-in-semafor-article-on-chinas-dual-circulation-strategy/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:37:36+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.058222+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tran quoted in Semafor article on China’s “dual circulation” strategy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d76bfd3720d92457986ed01c016e4ce133c7f69045a9522e05f08ac3ab2917e1",
+    "title": "The US-Israel relationship needs a reset. Here’s how to do it. - Atlantic Council",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVBobWZaVW5HR05wTGh6RHhSNE5PQTBxZ0FOaEhYTlRUYy1pdk5RMVJ3M3JvZERkRC1uLXRCazNfX0VGSTZ3VG1wNVU5a2JodjRQVzRCMVNtdk1Db25QemhnajJIY2djd0NCdS1WbEhCeXRCLVJKZDhsOXdrRURKb2hPRkYweU1zcFozMVhWRl91MTZ1M2VUMmZjUDBrcEtyRk5WMzRR?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-10-22T19:37:36+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.863684+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The US-Israel relationship needs a reset. Here’s how to do it. - Atlantic Council",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2b9fdac7a654f2c02531940c6e45eaf8c4d74b00cb013ccddb519c63eec9fe12",
+    "title": "Lipsky quoted in Reuters article on the need for fiscal consolidation across France, Germany, and the US",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-reuters-article-on-the-need-for-fiscal-consolidation-across-france-germany-and-the-us/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:36:43+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.119135+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Reuters article on the need for fiscal consolidation across France, Germany, and the US",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "681d1c388406a519cf965ce1380c0d9461bd6888e5ba1f43375782787cec590a",
+    "title": "Event with Megan Greene quoted in Reuters article",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-quoted-in-reuters-article/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:35:56+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.236227+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene quoted in Reuters article",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ff2456bab7d775c6ebff4e8630e791f97c8921dc4b1cab043241eab9a3c83a27",
+    "title": "Yin quoted in The Telegraph on growth of Chinese electric and hybrid vehicle exports",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/yin-quoted-in-the-telegraph-on-growth-of-chinese-electric-and-hybrid-vehicle-exports/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:35:10+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.300478+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Yin quoted in The Telegraph on growth of Chinese electric and hybrid vehicle exports",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "81db479104f07217ae8237fc281f0f943b7b84a8d594770094647aab733bf92d",
+    "title": "Lipsky interviewed on CNN to discuss IMF-World Bank meetings in Bangkok",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-interviewed-on-cnn-to-discuss-imf-world-bank-meetings-in-bangkok/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:34:25+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.368169+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky interviewed on CNN to discuss IMF-World Bank meetings in Bangkok",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b2f7dd238f3baca69da8cd1315a2ec2b5eab4bc71d4853cde8ea495473c9adda",
+    "title": "Event with Megan Greene reposted by Forex Factory",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-reposted-by-forex-factory/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:33:12+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.433512+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene reposted by Forex Factory",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "201addf3a68132e4fec5e3e221653f56ee6ab2710bb3c33b1b1a9132952ad682",
+    "title": "Event with Megan Greene mentioned in InvestingLive about UK’s monetary policy",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-mentioned-in-investinglive-about-uks-monetary-policy/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:32:45+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.495894+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene mentioned in InvestingLive about UK’s monetary policy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3c287c3491011d730b2d33e1d4e3e6c83e28821cfa7cbbcc1a84fdf2b0159ec6",
+    "title": "Event with Megan Greene mentioned in Bloomberg about Bank of England inflation risks",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-mentioned-in-bloomberg-about-bank-of-england-inflation-risks/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:32:17+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.557554+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene mentioned in Bloomberg about Bank of England inflation risks",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1e5fb4c693fa1465dec495ac90179af15573d9cfc9c87543b3cc1cccccca0a81",
+    "title": "Event with Megan Greene mentioned in FXStreet article about second-round inflation effects",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-megan-greene-mentioned-in-fxstreet-article-about-second-round-inflation-effects/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:31:41+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.622912+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Megan Greene mentioned in FXStreet article about second-round inflation effects",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b3560b8f9a705373c9f8fdeeda6ad9056c9fda2406399c097b5a445053e55eb8",
+    "title": "Atlantic Council programming at the IMF-WB Annual Meetings in Bangkok cited in Financial Times article",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/atlantic-council-programming-at-the-imf-wb-annual-meetings-in-bangkok-cited-in-financial-times-article/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:30:09+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.674656+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Atlantic Council programming at the IMF-WB Annual Meetings in Bangkok cited in Financial Times article",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "82625342c76ca286a56a45a35c5ae925999f9550294dfb2afa11ec2f26172323",
+    "title": "Event with Sarah Breeden mentioned in Bloomberg article about retail CBDC",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/event-with-sarah-breeden-mentioned-in-bloomberg-article-about-retail-cbdc/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:28:14+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.749602+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Event with Sarah Breeden mentioned in Bloomberg article about retail CBDC",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "db3102f9f3b3e4f4ab6594f535edc3624938785d2eab2c84d407780d24dd4d73",
+    "title": "Goldin quoted in Semafor article on the path forward for developing economies",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/goldin-quoted-in-semafor-article-on-the-path-forward-for-developing-economies/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:25:22+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.816147+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Goldin quoted in Semafor article on the path forward for developing economies",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "71a677e2cf2912c340a1f4a14b9f02fc17b5588ab917706ae7296ddae23d2ad5",
+    "title": "Lipsky quoted in Semafor article on the main themes at the IMF-World Bank Annual Meetings in Bangkok",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-semafor-article-on-the-main-themes-at-the-imf-world-bank-annual-meetings-in-bangkok/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:24:48+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.882312+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Semafor article on the main themes at the IMF-World Bank Annual Meetings in Bangkok",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "58742ad6d23038c2d54ea3c3114db2d4613bc26a9d49e5d58c7adddfa3ed9a15",
+    "title": "Lipsky quoted in Reuters on Middle East war and high debt levels dominating IMF-World Bank Meetings",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-reuters-on-middle-east-war-and-high-debt-levels-dominating-imf-world-bank-meetings/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:19:14+00:00",
+    "fetched_iso": "2026-10-22T20:20:41.936267+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Reuters on Middle East war and high debt levels dominating IMF-World Bank Meetings",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "edb8f0225a0f8e57c1cc502b3dbb25949030f1f5bdc30d8314cde53f621f6040",
+    "title": "Donovan and Ezratty cited in Irregular Warfare Initiative piece on US influence in the global economy",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/donovan-and-ezratty-cited-in-irregular-warfare-initiative-piece-on-us-influence-in-the-global-economy/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:18:11+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.006639+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Donovan and Ezratty cited in Irregular Warfare Initiative piece on US influence in the global economy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "27b3d51248935f1ba0d847d051d68e0cfccd465f161e33b8ec92229465149dee",
+    "title": "Russia Sanctions Database cited in Forbes article on the war in Ukraine",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/russia-sanctions-database-cited-in-forbes-article-on-the-war-in-ukraine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:15:34+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.066097+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia Sanctions Database cited in Forbes article on the war in Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3b7450c8aac397b0b34ef3c0f0104f7ff9a173ed65e238fd741394087f94039d",
+    "title": "Lipsky quoted in Semafor article on China’s efforts to dethrone the dollar",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-semafor-article-on-chinas-efforts-to-dethrone-the-dollar/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:12:27+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.149765+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Semafor article on China’s efforts to dethrone the dollar",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "25c41fe91641a8c17db21084955851261928d1f1153dbe45815aa0145773167e",
+    "title": "De Kruijf cited in Standard Chartered report on Islamic Finance",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/de-kruijf-cited-in-standard-chartered-report-on-islamic-finance/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:11:28+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.202042+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "De Kruijf cited in Standard Chartered report on Islamic Finance",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "78233c3dfb9d3e504e4c50ce259ce72fe935464e5a360777ff76456a5807868b",
+    "title": "‘Heil’ Mary? New Atlanta Falcons logo inspires Nazi comparisons",
+    "link": "https://forward.com/news/sports/857732/atlanta-falcons-logo-nazi-memes/",
+    "source": "The Forward",
+    "published_iso": "2026-10-22T19:11:22+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.437460+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘Heil’ Mary? New Atlanta Falcons logo inspires Nazi comparisons",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0c7c7c0f9ee3d9931d08c006da983191658fdea0f3fd51d6f1569ad7260a0e22",
+    "title": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman covered by The Wall Street Journal in an article on the Fed’s outlook for further rate increases",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-the-new-york-times-on-the-prospects-of-de-dollarization-4/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:10:27+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.266221+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman covered by The Wall Street Journal in an article on the Fed’s outlook for further rate increases",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "69d14b97a0a12eadfd44819d709767b95e1f39184604c668eb862a7e967cf1eb",
+    "title": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman covered by American Banker in an article on eSLR reform and Treasury market functioning",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/goldsmith-romero-interviewed-on-cnn-about-the-rise-in-prediction-market-trading-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:09:43+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.331259+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman covered by American Banker in an article on eSLR reform and Treasury market functioning",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b0c5f26292ffdbbfe99296c10ee4cd9baee9fa4dffc4473ac2e61fa6b4fe4375",
+    "title": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman featured on C-SPAN in coverage of her remarks on financial regulation modernization",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-6/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:08:52+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.408158+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman featured on C-SPAN in coverage of her remarks on financial regulation modernization",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "33e6064212be75459822954178ae810f393d1579696b91d3cf33a0908d583e4b",
+    "title": "AC Front Page with Federal Reserve Vice Chair Michelle Bowman featured in Seeking Alpha article on eSLR reform and market liquidity",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-5/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:08:00+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.488960+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AC Front Page with Federal Reserve Vice Chair Michelle Bowman featured in Seeking Alpha article on eSLR reform and market liquidity",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5947b1b050c381d87ab92d8671da9fd5d75df3b8537232b1a32cafb778721e54",
+    "title": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman featured in a Bloomberg video on the outlook for Fed rate moves",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/our-event-with-the-imfs-christian-mumssen-was-written-about-in-a-reuters-article-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:07:12+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.556231+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "AC Front Page event with Federal Reserve Vice Chair Michelle Bowman featured in a Bloomberg video on the outlook for Fed rate moves",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4151fdf74cd543ef707d7ccdaa7259a36228dab1e8463fe6e11e845a9d220f31",
+    "title": "Lipsky quoted in France 24 article on G20 trade talks and the impact of Trump’s tariffs",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:06:10+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.620649+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in France 24 article on G20 trade talks and the impact of Trump’s tariffs",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "78aa2f007b6339194cfc69eb38aad07cc792e83375946e1134653296540da531",
+    "title": "CBDC Tracker cited in Citi report, The Connective Tissue of Digital Finance: Interoperability, Programmability, and the Path to Institutional Scale.",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/the-cbdc-tracker-cited-in-coindesk-on-the-number-of-countries-actively-testing-or-developing-cbdcs-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:05:35+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.681634+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "CBDC Tracker cited in Citi report, The Connective Tissue of Digital Finance: Interoperability, Programmability, and the Path to Institutional Scale.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5c41ea08a10f1552429c4f762f9df36361d5013b2587852cfcb15bb794782880",
+    "title": "Chhangani cited in Forbes article on Saudi Arabia’s withdrawal from the mBridge CBDC platform.",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-3/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T19:04:23+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.744087+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Chhangani cited in Forbes article on Saudi Arabia’s withdrawal from the mBridge CBDC platform.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "87bd209d119133930806624f456fe40da557aba985a1697e22c5d281caff9a52",
+    "title": "De Kruijf cited in National Interest article on the Trump administration’s policy toward the International Criminal Court (ICC)",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/chalecki-quoted-in-bloomberg-article-on-the-impact-of-usmca-uncertainty-on-supply-chains-2/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-22T18:59:17+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.806770+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "De Kruijf cited in National Interest article on the Trump administration’s policy toward the International Criminal Court (ICC)",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5ae52471593c07e18793d19ad0979c6a0ac4208ad14a02815b59b548e1a7a6ef",
+    "title": "Trump ‘is flat-out wrong’ to think Putin is serious about ending Russia-Ukraine war",
+    "link": "https://www.fdd.org/in_the_news/trump-is-flat-out-wrong-to-think-putin-is-serious-about-ending-russia-ukraine-war/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T18:45:43+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.112227+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump ‘is flat-out wrong’ to think Putin is serious about ending Russia-Ukraine war",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "48752da5be7d8c24d94788d07b0a07804f01bf5462344c48228e546ee6433ada",
+    "title": "Final Israeli polls point to stalemate ahead of Tuesday’s election",
+    "link": "https://jewishinsider.com/2026/10/final-israeli-polls-stalemate-tuesdays-election/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-22T18:28:07+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.007083+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Final Israeli polls point to stalemate ahead of Tuesday’s election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f5b0dd0fa84e5b49c7a2f496e45f01c182353c95a4014147c37a76bb28c97239",
+    "title": "Europe Is Asking the Wrong Question About Russia’s Hybrid War",
+    "link": "https://foreignpolicy.com/2026/10/22/europe-russia-hybrid-war-escalation/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-22T18:26:54+00:00",
+    "fetched_iso": "2026-10-22T20:20:42.870881+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Europe Is Asking the Wrong Question About Russia’s Hybrid War",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ec92f1610637a1225b093eaf47bda841c493543542ec7a3785fe6ac7b0cd63ce",
+    "title": "Brink and Mortars",
+    "link": "https://www.fdd.org/in_the_news/brink-and-mortars/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T18:06:01+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.192819+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Brink and Mortars",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "35d417c3a2c3928dd961b6a64d6e65c024e6610f9b50945f3281b8e6f3ad0239",
+    "title": "U.S. experts split on Netanyahu’s prospects ahead of Israel’s election",
+    "link": "https://jewishinsider.com/2026/10/hudson-institute-experts-netanyahu-prospects-israeli-election/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-22T17:59:42+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.064772+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "U.S. experts split on Netanyahu’s prospects ahead of Israel’s election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a53ba5b51cff4aaf980533b4a270ef1906a472a04ff6bc53e3487e79c2ec183e",
+    "title": "Additional Visa Restrictions on Colombian Individuals to Defend Our Hemisphere Against Corruption and Narcotrafficking",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-colombian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-22T17:58:11+00:00",
+    "fetched_iso": "2026-10-22T20:20:38.791405+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Additional Visa Restrictions on Colombian Individuals to Defend Our Hemisphere Against Corruption and Narcotrafficking",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fdf6f04755c2b856ddc6c643b35757aed81b3e028a34636294c1db13ef533876",
+    "title": "Netanyahu’s Torah exemption pledge highlights election stakes",
+    "link": "https://forward.com/news/857702/netanyahus-torah-exemption-pledge-highlights-election-stakes/",
+    "source": "The Forward",
+    "published_iso": "2026-10-22T17:49:08+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.567995+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Netanyahu’s Torah exemption pledge highlights election stakes",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f55f5ae6b0e86751f72754993a628c6aab085cca7f4daef78e7cd8b2a04e68a3",
+    "title": "UK adopts sweeping measures against antisemitism in schools",
+    "link": "https://www.jta.org/2026/10/22/global/uk-adopts-sweeping-measures-against-antisemitism-in-schools",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-22T17:38:31+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.248020+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "UK adopts sweeping measures against antisemitism in schools",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2be0583bd7c5d0ed5322da89c1044eec6eb28fd321fa1b3362bde05268afb2c0",
+    "title": "Secretary Rubio’s Call with Qatari Prime Minister and Foreign Minister Al Thani",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-qatari-prime-minister-and-foreign-minister-al-thani/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-22T17:24:37+00:00",
+    "fetched_iso": "2026-10-22T20:20:38.943395+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary Rubio’s Call with Qatari Prime Minister and Foreign Minister Al Thani",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "740a20db22c6f0872f14ee984aac16ca129e8f12ce4b7acf248a0e01808a7749",
+    "title": "DMFI to spend $7 million to support Reps. Don Davis, Shomari Figures",
+    "link": "https://jewishinsider.com/2026/10/democrat-majority-for-israel-support-don-davis-shomari-figures/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-22T16:40:21+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.121316+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "DMFI to spend $7 million to support Reps. Don Davis, Shomari Figures",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "642be8b40f37afa8a818dd2b8cc3ed0cb6c1312441300e6c0b98327dc9d02186",
+    "title": "Israeli election looks ‘very tight’ between all the candidates",
+    "link": "https://www.fdd.org/in_the_news/israeli-election-looks-very-tight-between-all-the-candidates/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T16:14:00+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.270932+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israeli election looks ‘very tight’ between all the candidates",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c245460f3415cce359a53723911eab56d06dfe3a913a219c89bb72c5955e852f",
+    "title": "Benjamin Netanyahu one of the top contenders for Israeli election",
+    "link": "https://www.fdd.org/in_the_news/benjamin-netanyahu-one-of-the-top-contenders-for-israeli-election/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T16:13:39+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.350967+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Benjamin Netanyahu one of the top contenders for Israeli election",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0fc367af3e198de9bce9f09d2a255e0053a2a327396353b7918038d19e2d9517",
+    "title": "Rep. Don Bacon blasts Dan Osborn over ‘anti-Jewish’ ad",
+    "link": "https://jewishinsider.com/2026/10/don-bacon-dan-osborn-anti-aipac-ad-pete-ricketts/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-22T16:08:25+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.186852+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Rep. Don Bacon blasts Dan Osborn over ‘anti-Jewish’ ad",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "646d5a5683fa719a701c9a68ea5743bedfcefcb070f833572024b33fce25f56b",
+    "title": "Lander says he will co-sponsor anti-settlement bill in Congress - JNS.org",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObzZrZnYzXzE5Yk5QRWRCOFk2c1ZJZ05tYlNNQS1PZG1PMVp4WjZwQXU1STA2ci1KcGRUMW12Y1VVWFFxclVpZGt3alhFRUdfdG1aeXR6RWNNdUFjSGNJZmJYeDFUSllqdlFycnJnbHZIZi0zcEVSZWZ3Z0UxcnV5TGZkb0hEVC1wVFloVnpSUjlFWUQtTDhTdnlLV1NYdw?oc=5",
+    "source": "Google News - Congress & Israel",
+    "published_iso": "2026-10-22T15:40:55+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.810803+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lander says he will co-sponsor anti-settlement bill in Congress - JNS.org",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0ebbf730b165d42b219aec0280fe7d7c097c392ee911259fc5d0b60b67a76db1",
+    "title": "Tidbits: A publishing firm for Jewish writers excluded by mainstream publishers",
+    "link": "https://forward.com/yiddish/857618/tidbits-a-publishing-firm-for-jewish-writers-excluded-by-mainstream-publishers/",
+    "source": "The Forward",
+    "published_iso": "2026-10-22T15:32:20+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.629072+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tidbits: A publishing firm for Jewish writers excluded by mainstream publishers",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0d8ef1942ce9d511f3dc9683bb3234bee2160bb3bcd8cb9e928f4bd54dd223c9",
+    "title": "Erdogan’s “Pious Generation” Goes Global",
+    "link": "https://www.fdd.org/analysis/erdogans-pious-generation-goes-global/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T15:07:51+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.426203+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Erdogan’s “Pious Generation” Goes Global",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f6ecdab4208bde854b752ff31f48f86f80c871e959c6f50652fdae2ca2d973a4",
+    "title": "Encryption isn’t enough to protect data wherever it goes",
+    "link": "https://www.fdd.org/analysis/encryption-isnt-enough-to-protect-data-wherever-it-goes/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T14:52:02+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.508694+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Encryption isn’t enough to protect data wherever it goes",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "bc7760b3e9a3806a5a60fa60282ca7509eea9bc82ba4802523e0fca0cab82b4f",
+    "title": "Washington Should Resist Russia’s Gulf Mediation Bid",
+    "link": "https://www.fdd.org/analysis/washington-should-resist-russias-gulf-mediation-bid/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T14:41:19+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.582832+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Washington Should Resist Russia’s Gulf Mediation Bid",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "83abf0ee074ceffb549011b7aed00d5c8339c85a98c27c9832b7cdb6b3a5b1a3",
+    "title": "Your Daily Phil: Inside Robert Kraft’s big, blue square gala",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-inside-robert-krafts-big-blue-square-gala/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-22T14:37:39+00:00",
+    "fetched_iso": "2026-10-22T20:20:43.683477+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Inside Robert Kraft’s big, blue square gala",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5cb6fc446196524b605b6a2f1fd5384a7b86325e247b9b670cb0a3ab73bae2c8",
+    "title": "U.S. Must Cut Off Chinese Firms That Profit From Stolen American AI",
+    "link": "https://www.fdd.org/analysis/u-s-must-cut-off-chinese-firms-that-profit-from-stolen-american-ai/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-22T14:14:02+00:00",
+    "fetched_iso": "2026-10-22T20:20:39.673151+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "U.S. Must Cut Off Chinese Firms That Profit From Stolen American AI",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "d7183a460ec554ebdebac634a1830ff5aed89c629f27b7817cdd8533939f1467",
     "title": "In ‘Fatherland,’ Thomas Mann finds a Germany divided",
     "link": "https://forward.com/culture/film-tv/855413/fatherland-pawel-pawlikowski-thomas-erika-mann-review/",
@@ -9921,496 +10915,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "The Iran Dilemma: A View from Tokyo and Jerusalem",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0ae3f023cd5d22353d5823ed97365cb59dae112e70335d2727adb195ce36b82f",
-    "title": "Russia’s jet drones pose a security threat far beyond Ukraine",
-    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/russias-jet-drones-pose-a-security-threat-far-beyond-ukraine/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-08T20:18:21+00:00",
-    "fetched_iso": "2026-10-09T09:42:59.505779+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Russia’s jet drones pose a security threat far beyond Ukraine",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0d56179ee0dbb2ebedf0993eb4c946fe9bf825591ce6e0a675169388d9fa223c",
-    "title": "The Next Iran War Is This Iran War",
-    "link": "https://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T19:57:39+00:00",
-    "fetched_iso": "2026-10-09T09:43:00.076816+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Next Iran War Is This Iran War",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1027b692a889416db6faf7641c2f440cf0a8cd6908aa9b75d4a5287ddcd1998b",
-    "title": "Security Alert: U.S. Embassy Jerusalem – October 8, 2026",
-    "link": "https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-october-8-2026/",
-    "source": "US Embassy Jerusalem",
-    "published_iso": "2026-10-08T19:56:16+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.299755+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Security Alert: U.S. Embassy Jerusalem – October 8, 2026",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b83da1f9d6094382e20e2923ddc81b1763cb3bdd418527778d02b6d9e26006dd",
-    "title": "Federal Reserve Vice Chair Michelle Bowman on rates, regulation, and AI",
-    "link": "https://www.atlanticcouncil.org/commentary/podcast/federal-reserve-vice-chair-michelle-bowman-on-rates-regulation-and-ai/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-08T19:50:17+00:00",
-    "fetched_iso": "2026-10-09T09:42:59.595341+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Federal Reserve Vice Chair Michelle Bowman on rates, regulation, and AI",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f4abbff1dd9bf77d81276d9955afb7c5f127cce55213986ad8fb6d4da7d3389c",
-    "title": "Europe sees fragmented pro-Palestinian protests three years after Oct. 7",
-    "link": "https://www.jta.org/2026/10/08/global/europe-sees-fragmented-pro-palestinian-protests-three-years-after-oct-7",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-08T19:49:48+00:00",
-    "fetched_iso": "2026-10-09T09:43:01.924654+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Europe sees fragmented pro-Palestinian protests three years after Oct. 7",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e9cf2889be8011388f73fa4a54beec1348ba3838c19517130d0bf9e571f95943",
-    "title": "Anne Carson — a poet of spirituality and ‘small things’ — has won the Nobel Prize",
-    "link": "https://forward.com/culture/854726/anne-carson-nobel-prize-small-things-jewish-catholic-spirituality/",
-    "source": "The Forward",
-    "published_iso": "2026-10-08T19:45:00+00:00",
-    "fetched_iso": "2026-10-09T09:43:02.136100+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Anne Carson — a poet of spirituality and ‘small things’ — has won the Nobel Prize",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "80d89f977493ab758b4859ed4b9235a76e5dd4570487d40d8e5b6efd4c52422e",
-    "title": "To Understand France’s Unrest, Look Back to 1982",
-    "link": "https://foreignpolicy.com/2026/10/08/france-protests-macron-europe-history-mitterrand-economy/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T19:44:15+00:00",
-    "fetched_iso": "2026-10-09T09:43:00.184393+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "To Understand France’s Unrest, Look Back to 1982",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5acc135c1bfa9087faedaba7ef05f5e8ea00aacb54cdb3861ab36219126c5fdd",
-    "title": "Israel and Turkey are not natural rivals. It’s time to stop treating them that way.",
-    "link": "https://www.atlanticcouncil.org/blogs/menasource/israel-and-turkey-are-not-natural-rivals-its-time-to-stop-treating-them-that-way/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-08T19:35:55+00:00",
-    "fetched_iso": "2026-10-09T09:42:59.681745+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel and Turkey are not natural rivals. It’s time to stop treating them that way.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f6b9fe7f6289822b4771eabf47621699ae82fb76beb96964a466d926bfb4b79f",
-    "title": "Where the Saudi-Houthi War Stands Now",
-    "link": "https://foreignpolicy.com/2026/10/08/houthis-yemen-war-saudi-arabia-airport-oil-strikes-pakistan-turkey-syria/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T19:28:55+00:00",
-    "fetched_iso": "2026-10-09T09:43:00.275276+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Where the Saudi-Houthi War Stands Now",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "32b7b18340c02c33c535d4942d3befc3dd17993468f5d7ff03208d554c5d1e62",
-    "title": "Hate-filled message sent to parents of ten-year-old Bondi terror victim",
-    "link": "https://www.fdd.org/in_the_news/hate-filled-message-sent-to-parents-of-ten-year-old-bondi-terror-victim/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T19:21:53+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.618418+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Hate-filled message sent to parents of ten-year-old Bondi terror victim",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b9f797bc15400b4cae626e53f1f4dd6b8ee7dc17f201ccd42c9760943c6916cc",
-    "title": "Can a New Credit Rating Agency Help Africans Borrow at Better Rates?",
-    "link": "https://foreignpolicy.com/2026/10/08/africa-credit-rating-agency-borrowing-debt/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T19:19:50+00:00",
-    "fetched_iso": "2026-10-09T09:43:00.398804+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Can a New Credit Rating Agency Help Africans Borrow at Better Rates?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5e86fd71c64d9136664ea75ecc99fa588882bdb813c33174a7687dd0e9762817",
-    "title": "British consulate in Jerusalem downgraded, 20 diplomats asked to leave",
-    "link": "https://www.jta.org/2026/10/08/israel/british-consulate-in-jerusalem-downgraded-20-diplomats-asked-to-leave",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-08T19:09:46+00:00",
-    "fetched_iso": "2026-10-09T09:43:02.032376+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "British consulate in Jerusalem downgraded, 20 diplomats asked to leave",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f3fb94fbf4e309b51fb77dbdbdbd634af873924f706f29cc409f45d41b15114b",
-    "title": "The Real Danger May Be AI as Dumb as Us",
-    "link": "https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T18:36:37+00:00",
-    "fetched_iso": "2026-10-08T19:03:09.389974+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Real Danger May Be AI as Dumb as Us",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fcf860938c8e293777e580d870e8a481689c0a5e345b93d2a99977149e43eb61",
-    "title": "Release of the 2026 Trafficking in Persons Report",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/release-of-the-2026-trafficking-in-persons-report/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-08T18:09:38+00:00",
-    "fetched_iso": "2026-10-08T19:03:07.669973+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Release of the 2026 Trafficking in Persons Report",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c3d4bd931e63e1500ce44076360e80c57c427718b9e096cda649dc54dfc832f9",
-    "title": "Operation Economic Outcast Sanctions on Iran’s Shadow Fleet Network",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/operation-economic-outcast-sanctions-on-irans-shadow-fleet-network/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-08T18:01:07+00:00",
-    "fetched_iso": "2026-10-08T19:03:07.952864+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Operation Economic Outcast Sanctions on Iran’s Shadow Fleet Network",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2c0d47cb2eda17eb3ef048bea32725581c61c12617cef9d087457cae569d6f14",
-    "title": "U.S. Intensifies Operation Economic Outcast Against Iran’s Shadow Fleet Network",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-intensifies-operation-economic-outcast-against-irans-shadow-fleet-networks-fact-sheet/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-08T17:56:00+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.188271+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "U.S. Intensifies Operation Economic Outcast Against Iran’s Shadow Fleet Network",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c458a7d30c6bd7ee3bd86b4f5d9260e89f19508e35145e0ed218945b9a7b7939",
-    "title": "A Practical Path to Post-Quantum Readiness in Operational Technology",
-    "link": "https://www.fdd.org/analysis/2026/10/08/a-practical-path-to-post-quantum-readiness-in-operational-technology/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T17:37:12+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.624307+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A Practical Path to Post-Quantum Readiness in Operational Technology",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7c5d734c3d88bccb96bd29b0d10962b465a5d35cacca6a3468f118d420cd8212",
-    "title": "A Practical Path to Post-Quantum Readiness in Operational Technology",
-    "link": "https://www.fdd.org/analysis/a-practical-path-to-post-quantum-readiness-in-operational-technology/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T17:37:12+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.727019+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A Practical Path to Post-Quantum Readiness in Operational Technology",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "889fecb1787252294a8664acb603a4645113813786fc435f0d6c001e2ddd5b7d",
-    "title": "America’s Best Answer to the China-Russia Alliance",
-    "link": "https://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-08T17:13:51+00:00",
-    "fetched_iso": "2026-10-08T19:03:09.508727+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "America’s Best Answer to the China-Russia Alliance",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a3afca490195e2366113505eb9371ec410add485eeb194fd5fc291d13bcaaa61",
-    "title": "Secretary of State Marco Rubio and Portuguese Foreign Minister Paulo Rangel at a Joint Press Availability",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-portuguese-foreign-minister-paulo-rangel-at-a-joint-press-availability/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-08T17:12:55+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.086268+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Secretary of State Marco Rubio and Portuguese Foreign Minister Paulo Rangel at a Joint Press Availability",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a62aaf9e04d42d02f1d17cb89fa05bea4edd21c5572d528dce3000eb99630f32",
-    "title": "Ford was the most pro-Israel president in US history, and we need his playbook now",
-    "link": "https://forward.com/opinion/854360/gerald-ford-israel-rabin-kissinger/",
-    "source": "The Forward",
-    "published_iso": "2026-10-08T17:00:19+00:00",
-    "fetched_iso": "2026-10-08T19:03:10.783502+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Ford was the most pro-Israel president in US history, and we need his playbook now",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b24bf5cdb82eabfe0af9a254584a772cb496361cee57bc6c516a4ef18707944f",
-    "title": "Mamdani brushes off pro-Hamas heckling at Oct. 7 vigil",
-    "link": "https://jewishinsider.com/2026/10/mamdani-brushes-off-hamas-hecklers-oct-7-vigil/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-08T16:52:07+00:00",
-    "fetched_iso": "2026-10-08T19:03:09.746764+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mamdani brushes off pro-Hamas heckling at Oct. 7 vigil",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ab771c07e1e57fb551d5cf25ded108527b66d91419230535ab53740c0dfc91c1",
-    "title": "Jewish preschool educators forced to condemn Israel to attend Reggio Emilia conference",
-    "link": "https://jewishinsider.com/2026/10/jewish-preschool-teachers-condemn-israel-reggio-emilia-conference/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-08T16:47:14+00:00",
-    "fetched_iso": "2026-10-08T19:03:09.878493+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Jewish preschool educators forced to condemn Israel to attend Reggio Emilia conference",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "25b49b38cf68bc24ca8841ed7dc97fc56ce21a825049443c43c80782f5eb96bc",
-    "title": "NatCon speakers mark Oct. 7 by telling the Jews to stop complaining about antisemitism",
-    "link": "https://jewishinsider.com/2026/10/national-conservatism-conference-speakers-complaining-antisemitism/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-08T16:27:17+00:00",
-    "fetched_iso": "2026-10-08T19:03:10.016476+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "NatCon speakers mark Oct. 7 by telling the Jews to stop complaining about antisemitism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e89065002bd7ea6e83a0d3333396d3fdc500a8d269ce57ddf2fadc94fdb904f8",
-    "title": "She left Russia as a Jewish refugee — she returned to tell the stories of a new group of undesirables",
-    "link": "https://forward.com/culture/film-tv/854591/my-undesirable-friends-part-two-exile-julia-loktev-interview-russia-ukraine-war/",
-    "source": "The Forward",
-    "published_iso": "2026-10-08T16:25:07+00:00",
-    "fetched_iso": "2026-10-08T19:03:10.911965+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "She left Russia as a Jewish refugee — she returned to tell the stories of a new group of undesirables",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "32a3a018ad810c96b3fac019746b024b30ca7c86d4f234c8e92707dc86649fc1",
-    "title": "Secretary Rubio’s Meetings with Portuguese Prime Minister Montenegro and Foreign Minister Rangel",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meetings-with-portuguese-prime-minister-montenegro-and-foreign-minister-rangel/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-08T15:55:25+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.212196+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Secretary Rubio’s Meetings with Portuguese Prime Minister Montenegro and Foreign Minister Rangel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "144aac35f39ad27e04002e070c27f838cde1c408afe79c327f808b2aabf2e3a0",
-    "title": "Back-to-Back Drone Strikes off the Coasts of Romania and Bulgaria Test NATO’s Resolve",
-    "link": "https://www.fdd.org/analysis/2026/10/08/back-to-back-drone-strikes-off-the-coasts-of-romania-and-bulgaria-test-natos-resolve/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T15:24:04+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.757243+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Back-to-Back Drone Strikes off the Coasts of Romania and Bulgaria Test NATO’s Resolve",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2b4d472b6e3a2b799b6b363732e1631ee0387fab9559c591d6dbe7cebf2218ec",
-    "title": "Back-to-Back Drone Strikes off the Coasts of Romania and Bulgaria Test NATO’s Resolve",
-    "link": "https://www.fdd.org/analysis/back-to-back-drone-strikes-off-the-coasts-of-romania-and-bulgaria-test-natos-resolve/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T15:24:04+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.828910+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Back-to-Back Drone Strikes off the Coasts of Romania and Bulgaria Test NATO’s Resolve",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c35e555badde8bad87123b1e4800072deb5ca929d0d26a1b36e0399df5ea9b51",
-    "title": "Eva Marie Saint was born Quaker, but found her ‘Exodus’ in Jewish stories",
-    "link": "https://forward.com/culture/film-tv/854567/eva-marie-saint-appreciation-jewish-quaker-exodus-waterfront/",
-    "source": "The Forward",
-    "published_iso": "2026-10-08T15:16:12+00:00",
-    "fetched_iso": "2026-10-08T19:03:11.036434+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Eva Marie Saint was born Quaker, but found her ‘Exodus’ in Jewish stories",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "863805d57078a80d9093b251000d097a15553ee0d1018b50ad83381c3e95fb14",
-    "title": "The coming financial and economic war against Israel",
-    "link": "https://www.fdd.org/in_the_news/2026/10/08/the-coming-financial-and-economic-war-against-israel/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T15:04:51+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.872399+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The coming financial and economic war against Israel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fe19cd5464a76c61a9c6b45ada4d1153cebcadaafa2fa8b2c8ee6b0a8c8b17c6",
-    "title": "The coming financial and economic war against Israel",
-    "link": "https://www.fdd.org/in_the_news/the-coming-financial-and-economic-war-against-israel/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T15:04:51+00:00",
-    "fetched_iso": "2026-10-09T09:42:58.936190+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The coming financial and economic war against Israel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "75eb01c1abefd63ab5045915dd49bc5335c9dca0b1d8fcd20799459f0ef1e8f7",
-    "title": "Your Daily Phil: Post-Oct. 7 Jewish engagement keeps ‘Surging,’ JFNA finds",
-    "link": "https://ejewishphilanthropy.com/your-daily-phil-post-oct-7-jewish-engagement-keeps-surging-jfna-finds/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-10-08T15:01:39+00:00",
-    "fetched_iso": "2026-10-08T19:03:11.403615+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Your Daily Phil: Post-Oct. 7 Jewish engagement keeps ‘Surging,’ JFNA finds",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a88e3f884174ac40d8483d53a9ceaee16ce5bea52aea7e87af2023ec9dc79476",
-    "title": "When did $650,000 become a reasonable nonprofit salary?",
-    "link": "https://www.jta.org/2026/10/08/ideas/when-did-650000-become-a-reasonable-nonprofit-salary",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-08T15:00:00+00:00",
-    "fetched_iso": "2026-10-08T19:03:10.526315+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "When did $650,000 become a reasonable nonprofit salary?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "711c0d4d7a18a94fada46a046396d7c61f1496a17d6a82a797297940d40bb539",
-    "title": "FBI arrests alleged Islamic State supporter accused of plotting Mall of America attack",
-    "link": "https://www.fdd.org/analysis/2026/10/08/fbi-arrests-alleged-islamic-state-supporter-accused-of-plotting-mall-of-america-attack/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T14:36:45+00:00",
-    "fetched_iso": "2026-10-08T19:03:08.996698+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "FBI arrests alleged Islamic State supporter accused of plotting Mall of America attack",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0f0573c329481d5caf295f8f3efe2d2e7be97b61357b22a1767c3e81792f8ca5",
-    "title": "FBI arrests alleged Islamic State supporter accused of plotting Mall of America attack",
-    "link": "https://www.fdd.org/analysis/fbi-arrests-alleged-islamic-state-supporter-accused-of-plotting-mall-of-america-attack/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-08T14:36:45+00:00",
-    "fetched_iso": "2026-10-09T09:42:59.040669+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "FBI arrests alleged Islamic State supporter accused of plotting Mall of America attack",
     "implications": [
       "Analysis temporarily unavailable."
     ]
