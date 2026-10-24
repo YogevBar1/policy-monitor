@@ -1,5 +1,19 @@
 [
   {
+    "url_hash": "2d32869f52038b3c1b15c8be261c05197e02e60e6567ea759bf1916f906af8d7",
+    "title": "Security Alert: U.S. Embassy Jerusalem – October 23, 2026",
+    "link": "https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-october-23-2026/",
+    "source": "US Embassy Jerusalem",
+    "published_iso": "2026-10-24T10:02:10+00:00",
+    "fetched_iso": "2026-10-24T12:58:49.281560+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Security Alert: U.S. Embassy Jerusalem – October 23, 2026",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "1fa6f2c23ae8c7dee307bad22b4ad346e9be6fc6badd0d7e61db0482288dae95",
     "title": "A Chabad Jew was stabbed in NYC. He returned the next day to continue wrapping tefillin.",
     "link": "https://forward.com/fast-forward/858143/chabad-jew-stabbed-nyc-wrapping-tefillin/",
