@@ -1,5 +1,75 @@
 [
   {
+    "url_hash": "b4f8ad73cd27f53e05eb27240d1f15277ebd40f712344f7b1282952bfc2b0136",
+    "title": "Security Alert: U.S. Embassy Jerusalem – October 25, 2026",
+    "link": "https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-october-25-2026/",
+    "source": "US Embassy Jerusalem",
+    "published_iso": "2026-10-25T12:57:58+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.194230+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Security Alert: U.S. Embassy Jerusalem – October 25, 2026",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0063b74064ddbc43819289a8962a63d32cfa515bfff61a9076bd9670a0438ef7",
+    "title": "Bank of Israel rejects Netanyahu’s suggestion to circumvent sanctions with cryptocurrency",
+    "link": "https://jewishinsider.com/2026/10/netanyahu-bank-of-israel-international-sanctions-cryptocurrency/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-25T11:50:03+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.723201+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Bank of Israel rejects Netanyahu’s suggestion to circumvent sanctions with cryptocurrency",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "670183925ca7ccd70bd2ffb1b7d2c0551c08ff1b0d4ff8fa76ba5d89fa4fb5f9",
+    "title": "Israel Votes 2026 | The Arab Parties",
+    "link": "https://fathomjournal.org/israel-votes-2026-the-arab-parties/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-10-25T09:14:51+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.388984+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel Votes 2026 | The Arab Parties",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "abc75afaa1351d49ac92d18ae516198bd6ee3150fd61fedbec49dfee7ee76c4e",
+    "title": "Israel Votes 2026 | In Support of a Coalition Headed by Netanyahu",
+    "link": "https://fathomjournal.org/israel-votes-2026-in-support-of-a-coalition-headed-by-netanyahu/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-10-25T09:03:11+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.500219+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel Votes 2026 | In Support of a Coalition Headed by Netanyahu",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "741e55181d2bd23e5e238a631b30886d04d514d5ddc6bea154bf0b4b924dc3ce",
+    "title": "Israel Votes 2026 | In Support of a Zionist Opposition Party",
+    "link": "https://fathomjournal.org/israel-votes-2026-in-support-of-a-zionist-opposition-party/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-10-25T08:57:41+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.615717+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel Votes 2026 | In Support of a Zionist Opposition Party",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "1250f84ffa18a9ca3ab1d94e47c5a91d0ed7238349b6c0c1e17139eb19932912",
     "title": "Israeli-Arab influencer behind ‘Nas Daily’: Anti-Zionism is antisemitism",
     "link": "https://forward.com/fast-forward/858164/israeli-arab-influencer-nas-daily-anti-zionism-antisemitism/",
@@ -23,6 +93,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Kazakhstan Republic Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "818be4128b26bd3cb91ef7a33d5a635ca31c0b7c3da8d6650424455536870f0c",
+    "title": "Iran warns US and Israel: 'apocalyptic war' and 'absolute victory' - NewsBytes",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNVNDUwQkhqc1lucDUwTk9BOWdJYTA4UlhIU3d4bDVDQ2ZxbU9iVTMtZHBqdlpZY3plZmRuQkw2ajBDVlI4ajNZM1RkSkxjODRXNnBvTFhUaTdzcDc5UnpROHpjQl8wRkozejViYjNNRXBZTFllNnYwdkRkbU1uSW9WdDVINVlhMDdjWjZQeGFMbGhXOXlRWlhZRWYxYTZGaGpKQXprRTcwUQ?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-10-24T23:26:27+00:00",
+    "fetched_iso": "2026-10-25T13:25:13.838354+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iran warns US and Israel: 'apocalyptic war' and 'absolute victory' - NewsBytes",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -11013,118 +11097,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "What I found at the NYC protest on Oct. 7: No room for Jewish grief",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "bffa59f9a2ea10d31d21e20059d6e4c41bb557a7295f7d9054200baad6f86b15",
-    "title": "Netanyahu bloc gains on Gadi Eisenkot’s opposition in latest Israeli polls",
-    "link": "https://jewishinsider.com/2026/10/netanyahu-rising-in-weekend-polls/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-11T12:45:45+00:00",
-    "fetched_iso": "2026-10-11T17:50:23.416591+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Netanyahu bloc gains on Gadi Eisenkot’s opposition in latest Israeli polls",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "898196c1598589f224a44d6875419c9358324a6421cc8a21420a43645f3b4fb6",
-    "title": "Mamdani faces growing pressure over Jewish NYPD Commissioner Tisch and over Israel from left flank",
-    "link": "https://forward.com/fast-forward/855068/mamdani-faces-growing-pressure-over-jewish-nypd-commissioner-tisch-and-over-israel-from-left-flank/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T12:32:32+00:00",
-    "fetched_iso": "2026-10-11T17:50:23.811129+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mamdani faces growing pressure over Jewish NYPD Commissioner Tisch and over Israel from left flank",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3827a093bcafc7edbe9ef1544b4c3a29c54aa71a60381f5f3b93c7ff7ad67254",
-    "title": "A planned non-Zionist Jewish school in Boston hopes to ride the momentum of the left",
-    "link": "https://forward.com/fast-forward/855092/a-planned-non-zionist-jewish-school-in-boston-hopes-to-ride-the-momentum-of-the-left/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T12:29:03+00:00",
-    "fetched_iso": "2026-10-11T17:50:23.925767+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A planned non-Zionist Jewish school in Boston hopes to ride the momentum of the left",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d6143f363ae75a0401c323325b23db36f7d09406c27b1f42c34b09b75f82af77",
-    "title": "Protesters in Toronto: ‘We will honor all our martyrs’ after 3 years of Gaza war",
-    "link": "https://forward.com/fast-forward/855086/protesters-in-toronto-we-will-honor-all-our-martyrs-after-3-years-of-gaza-war/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T12:26:15+00:00",
-    "fetched_iso": "2026-10-11T17:50:24.036652+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Protesters in Toronto: ‘We will honor all our martyrs’ after 3 years of Gaza war",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4bb511b46098b644189fb778f23441546f66a1ecf321eab454191116130c7f01",
-    "title": "Pro-Palestinian demonstrators take to the streets in Europe to mark 3rd anniversary of Gaza war",
-    "link": "https://forward.com/fast-forward/855080/pro-palestinian-demonstrators-take-to-the-streets-in-europe-to-mark-3rd-anniversary-of-gaza-war/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T12:25:20+00:00",
-    "fetched_iso": "2026-10-11T17:50:24.139070+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Pro-Palestinian demonstrators take to the streets in Europe to mark 3rd anniversary of Gaza war",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b3372c292c7ad5bde5c86447b5e7dbc4e5660ac682243616b5d308bd383ce646",
-    "title": "Samin Nosrat, celebrity chef who signed BDS pledge,  shares stage with Israeli chefs",
-    "link": "https://forward.com/fast-forward/854930/samin-nosrat-celebrity-chef-who-signed-bds-pledge-shares-stage-with-israeli-chefs/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T12:22:25+00:00",
-    "fetched_iso": "2026-10-11T17:50:24.234463+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Samin Nosrat, celebrity chef who signed BDS pledge,  shares stage with Israeli chefs",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f8731c90d9e57ea2c00fee2fa3335b51521b81871280ae329f3cd55bc861282f",
-    "title": "YIVO studied a living Yiddish culture. What happened when that world was nearly destroyed?",
-    "link": "https://www.jta.org/2026/10/11/global/yivo-was-built-to-study-a-living-yiddish-culture-then-the-culture-was-nearly-destroyed",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-11T10:45:00+00:00",
-    "fetched_iso": "2026-10-11T17:50:23.589951+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "YIVO studied a living Yiddish culture. What happened when that world was nearly destroyed?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1e17df26639a7a0a81d0a9d4dfe0d1a2bea63b6cd193b802c2f16803d29f383c",
-    "title": "A planned non-Zionist Jewish school in Boston hopes to ride the momentum of the left",
-    "link": "https://www.jta.org/2026/10/11/united-states/a-planned-non-zionist-jewish-school-in-boston-hopes-to-ride-the-momentum-of-the-left",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-11T09:26:00+00:00",
-    "fetched_iso": "2026-10-11T17:50:23.706805+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A planned non-Zionist Jewish school in Boston hopes to ride the momentum of the left",
     "implications": [
       "Analysis temporarily unavailable."
     ]
