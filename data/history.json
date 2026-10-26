@@ -1,5 +1,103 @@
 [
   {
+    "url_hash": "789a8c4953e822b9fb2ee04572e44c30a82777b75352806c25a807db3282eb18",
+    "title": "Israel’s U.S. critics prepare to keep the pressure on, regardless of election outcome",
+    "link": "https://jewishinsider.com/2026/10/israeli-elections-u-s-critics-netanyahu-eisenkot-jon-finer/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-26T07:34:46+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.610586+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel’s U.S. critics prepare to keep the pressure on, regardless of election outcome",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "57a6aa0aea69b7038e4114f5802b9c1cf262a3010b8f999c36ae56ea341c16fa",
+    "title": "Austria National Day",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/austria-national-day-2/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-26T04:01:00+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.291821+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Austria National Day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "bb27f65ed0b9baafa6f09121f2ef1b1973bbe044d46aaafec6048c3f811fd4da",
+    "title": "Commemorating the First Anniversary of the Kuala Lumpur Peace Accords",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/commemorating-the-first-anniversary-of-the-kuala-lumpur-peace-accords/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-25T23:17:39+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.441948+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Commemorating the First Anniversary of the Kuala Lumpur Peace Accords",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "13ce75f81f89b5feee394c809018ba1d629fefc7a473fda09dc509e445847b93",
+    "title": "Who are the first-time voters who could sway Israel’s election?",
+    "link": "https://www.jta.org/2026/10/25/israel/who-are-the-first-time-voters-who-could-sway-israels-election",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-25T22:31:24+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.697556+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Who are the first-time voters who could sway Israel’s election?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "aac65f8a0305fad996f8ec3a1e433c4476a11272d339143c436e2a8c27aa1825",
+    "title": "Houthis focus on capturing Taiz, launch strikes inside Saudi Arabia",
+    "link": "https://www.fdd.org/in_the_news/houthis-focus-on-capturing-taiz-launch-strikes-inside-saudi-arabia/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-25T22:04:53+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.522434+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Houthis focus on capturing Taiz, launch strikes inside Saudi Arabia",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5979fbd5e8b14ebb0ab78643f495e1077164cf7ca7817bed599bfbf4d722dceb",
+    "title": "CAIR Connecticut urges Greenwich schools to stop using Eisner Camp over Israel ties",
+    "link": "https://www.jta.org/2026/10/25/united-states/cair-connecticut-urges-greenwich-schools-to-stop-using-eisner-camp-over-israel-ties",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-25T22:03:24+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.770292+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "CAIR Connecticut urges Greenwich schools to stop using Eisner Camp over Israel ties",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "888ea0fec0835d2ed2a81b293132941fddb513f18eb421d546246e3565738126",
+    "title": "‘Where did you come in from today?’",
+    "link": "https://ejewishphilanthropy.com/where-did-you-come-in-from-today/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-10-25T21:00:00+00:00",
+    "fetched_iso": "2026-10-26T08:11:56.855709+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘Where did you come in from today?’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "5770569412fde8ff54af762b8697277a375d3ea89116d119d0135eae8b23f5bf",
     "title": "Israel’s global image is deteriorating. Why isn’t it a bigger issue in the election?",
     "link": "https://www.jta.org/2026/10/25/israel/israels-global-image-is-deteriorating-why-isnt-it-a-bigger-issue-in-the-election",
@@ -10985,132 +11083,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "From Xinjiang to the Front Lines of Syria",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5f0075ed8234d54a700f4f7eae1a7c9d3efa8c9547cd46b0fbe028aa5193c007",
-    "title": "Chinese Robots Could Decide the AI Race",
-    "link": "https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race",
-    "source": "Foreign Affairs Magazine",
-    "published_iso": "2026-10-12T08:00:00+00:00",
-    "fetched_iso": "2026-10-12T09:53:42.695176+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Chinese Robots Could Decide the AI Race",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c52b7ae47334a83f87985a51ba0e9ffc2276aad6fc05f2273707333c47a17b01",
-    "title": "America Shouldn’t Let Go of the Middle East",
-    "link": "https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon",
-    "source": "Foreign Affairs Magazine",
-    "published_iso": "2026-10-12T08:00:00+00:00",
-    "fetched_iso": "2026-10-12T09:53:42.798357+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "America Shouldn’t Let Go of the Middle East",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3f93664c795229e5279c18f82908b2f7df8bdb04cbd1ffbf393ca03263cc5967",
-    "title": "Jewish podcast ‘Chosen People Problems’ finds new home with Ark Media",
-    "link": "https://jewishinsider.com/2026/10/chosen-people-problems-podcast-ark-media-chayaleah-sufrin-yael-bar-tur/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-12T07:58:04+00:00",
-    "fetched_iso": "2026-10-12T09:53:42.917189+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Jewish podcast ‘Chosen People Problems’ finds new home with Ark Media",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d4b4f405c12c01f3e9a7a281bceb01925b421a75eea364f1517642ce8cc14a86",
-    "title": "For some Jewish Democrats, Michigan’s debate was the ‘final straw’ for El-Sayed",
-    "link": "https://jewishinsider.com/2026/10/michigan-debate-abdul-el-sayed-jewish-community-mike-rogers/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-12T06:47:48+00:00",
-    "fetched_iso": "2026-10-12T09:53:43.035911+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "For some Jewish Democrats, Michigan’s debate was the ‘final straw’ for El-Sayed",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "679e75348cc96f42acedf48e6de85ba9e10ac2b939c47026cbe3460832f68558",
-    "title": "Live updates from the IMF-World Bank Annual Meetings in Thailand as financial leaders take on AI, debt, and geopolitical upheaval",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/live-updates-from-the-imf-world-bank-annual-meetings-in-thailand-as-financial-leaders-take-on-ai-debt-and-geopolitical-upheaval/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-12T05:32:48+00:00",
-    "fetched_iso": "2026-10-12T09:53:42.404027+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Live updates from the IMF-World Bank Annual Meetings in Thailand as financial leaders take on AI, debt, and geopolitical upheaval",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "6ced21951a81167cacf108c39b6353a8a969faedd2d65c1e5a44fbb1292cae32",
-    "title": "Archaeologists uncover a 300-meter section of ancient aqueduct in Jerusalem",
-    "link": "https://forward.com/fast-forward/855137/archaeologists-uncover-a-300-meter-section-of-ancient-aqueduct-in-jerusalem/",
-    "source": "The Forward",
-    "published_iso": "2026-10-11T23:38:55+00:00",
-    "fetched_iso": "2026-10-12T09:53:43.477639+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Archaeologists uncover a 300-meter section of ancient aqueduct in Jerusalem",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "70c85e28c3bd1e6278f3d1513f771956c82894a7f82d893818dc94127987f42e",
-    "title": "Archaeologists uncover a 300-meter section of ancient aqueduct in Jerusalem",
-    "link": "https://www.jta.org/2026/10/11/israel/archaeologists-uncover-a-300-meter-section-of-ancient-aqueduct-in-jerusalem",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-11T21:49:39+00:00",
-    "fetched_iso": "2026-10-12T09:53:43.258726+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Archaeologists uncover a 300-meter section of ancient aqueduct in Jerusalem",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "84b959910fd8191e1553d1c50ecd7fc888694cc0b06133622a44e04d6c725638",
-    "title": "El-Sayed denies Muslim Brotherhood ties after Rogers debate claim",
-    "link": "https://jewishinsider.com/2026/10/el-sayed-denies-muslim-brotherhood-ties-after-rogers-debate-claim/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-11T20:07:18+00:00",
-    "fetched_iso": "2026-10-12T09:53:43.151832+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "El-Sayed denies Muslim Brotherhood ties after Rogers debate claim",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ad284e950f9f720d66e640271a0ded2d26f4b64d30ade4dd60a76044c41f76d8",
-    "title": "What I found at the NYC protest on Oct. 7: No room for Jewish grief",
-    "link": "https://www.jta.org/2026/10/11/ny/what-i-found-at-the-nyc-protest-on-oct-7-no-room-for-jewish-grief",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-11T19:45:47+00:00",
-    "fetched_iso": "2026-10-12T09:53:43.370864+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What I found at the NYC protest on Oct. 7: No room for Jewish grief",
     "implications": [
       "Analysis temporarily unavailable."
     ]
