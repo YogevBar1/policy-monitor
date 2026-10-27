@@ -1,5 +1,467 @@
 [
   {
+    "url_hash": "8faac53b68ce4c5a10002a5f3415189a1f2e6ce866574d776c9b3cca53770f89",
+    "title": "UN report: Russian attacks on Ukraine’s power grid are a ‘crime against humanity’",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/un-report-russian-attacks-on-ukraines-power-grid-are-a-crime-against-humanity/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T21:00:56+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.550879+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "UN report: Russian attacks on Ukraine’s power grid are a ‘crime against humanity’",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ee1cee482b17dde62279f0c916ccd661440af3f466c9911f98575b1d9de1da46",
+    "title": "High oil prices have several Latin American governments feeling the financial pressure",
+    "link": "https://www.atlanticcouncil.org/dispatches/high-oil-prices-have-several-latin-american-governments-feeling-the-financial-pressure/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T20:56:39+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.732167+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "High oil prices have several Latin American governments feeling the financial pressure",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "696960d697b55520036ddb33840402865e8d4c709711173fc91fe5c1d7aea6bb",
+    "title": "Israeli exit polls: opposition bloc holds early edge",
+    "link": "https://jewishinsider.com/2026/10/israeli-exit-polls-opposition-bloc-holds-early-edge/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-27T20:51:16+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.986436+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israeli exit polls: opposition bloc holds early edge",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "531e746eee48780be06b65e86cda6de034c5bde1e15659eba466e4cb74a0171c",
+    "title": "Netanyahu leads in exit polls, but change bloc by Eisenkot has more seats",
+    "link": "https://forward.com/fast-forward/858704/netanyahu-leads-in-exit-polls-but-change-bloc-by-eisenkot-has-more-seats/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T20:36:47+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.063695+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Netanyahu leads in exit polls, but change bloc by Eisenkot has more seats",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "7f1a68993f0850472540d432fe5210b44e72fa13db5de797eee9d4529805e5ec",
+    "title": "Netanyahu leads in exit polls, but Eisenkot’s change bloc has more seats",
+    "link": "https://www.jta.org/2026/10/27/israel/netanyahu-leads-in-exit-polls-but-change-bloc-by-eisenkot-has-more-seats",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-27T20:09:42+00:00",
+    "fetched_iso": "2026-10-27T21:02:05.328524+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Netanyahu leads in exit polls, but Eisenkot’s change bloc has more seats",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "920cc6fedb9cc6279953df2133cb35611ee0618c091c6b76fc8f21ddcecccdd8",
+    "title": "Israel revokes travel permissions for Brad Lander, American rabbis",
+    "link": "https://www.jta.org/2026/10/27/israel/israel-revokes-travel-permissions-for-brad-lander-american-rabbis",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-27T20:02:46+00:00",
+    "fetched_iso": "2026-10-27T21:02:05.519668+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel revokes travel permissions for Brad Lander, American rabbis",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9bc961f3a6bfeb9d3e96d31c151be87911e31a896290960b95e7d8b19a836d6b",
+    "title": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/european-infrastructure-is-vulnerable-as-putin-escalates-russias-hybrid-war/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T20:01:23+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.898828+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "European infrastructure is vulnerable as Putin escalates Russia’s hybrid war",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "edecd4f98a25d5885ada83b29552569c906116dd398136ef1199206edb84a2e5",
+    "title": "What to expect of a Trump-Xi-Putin nuke meeting — if it happens",
+    "link": "https://www.fdd.org/in_the_news/quotes/what-to-expect-of-a-trump-xi-putin-nuke-meeting-if-it-happens/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T19:49:04+00:00",
+    "fetched_iso": "2026-10-27T21:02:01.733831+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What to expect of a Trump-Xi-Putin nuke meeting — if it happens",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "932acb6f1b8811b3cd4df6fea8b9d1ab20f67aeef476f4c422809844d7c01356",
+    "title": "Jewish treasures stolen by Nazis 88 years ago come home, thanks to an Arizona synagogue",
+    "link": "https://www.jta.org/2026/10/27/global/jewish-treasures-stolen-by-nazis-88-years-ago-come-home-thanks-to-an-arizona-synagogue",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-27T19:48:10+00:00",
+    "fetched_iso": "2026-10-27T21:02:05.713490+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jewish treasures stolen by Nazis 88 years ago come home, thanks to an Arizona synagogue",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "349f4f01144ab71e85ddd60d37a9d3c95f24298ee255a35396b2c0cf892255e6",
+    "title": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding",
+    "link": "https://www.fdd.org/in_the_news/quotes/new-us-china-investment-proposal-could-reshape-ai-biotech-and-chip-funding/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T19:48:07+00:00",
+    "fetched_iso": "2026-10-27T21:02:01.930524+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "95f46dafeafc43a83e8b4f92efa7cfd8bc039471398602b7f1f9d96a95a0e4d9",
+    "title": "Pentagon preparing for possible doomsday scenarios",
+    "link": "https://www.fdd.org/in_the_news/pentagon-preparing-for-possible-doomsday-scenarios/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T19:20:49+00:00",
+    "fetched_iso": "2026-10-27T21:02:02.113637+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Pentagon preparing for possible doomsday scenarios",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fe90f2639bc90d3701615a9496e1e16b533ca4695020c5b249580a42e8e9f80c",
+    "title": "Why I went to Michigan to talk to Jewish voters about Abdul El-Sayed",
+    "link": "https://forward.com/opinion/858554/what-i-learned-from-michigan-jewish-voters-about-rogers-el-sayed/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T19:16:54+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.234154+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why I went to Michigan to talk to Jewish voters about Abdul El-Sayed",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2cc489aa514850c17da7a579c2cb88f5c0848b3773140cce720b09a1b2cd9029",
+    "title": "Looking Over Benjamin Netanyahu’s Shoulder",
+    "link": "https://www.fdd.org/analysis/looking-over-benjamin-netanyahus-shoulder/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T19:09:28+00:00",
+    "fetched_iso": "2026-10-27T21:02:02.301803+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Looking Over Benjamin Netanyahu’s Shoulder",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2cd764160d42698c125c4f852e7820a9e57b4f203d123b8465ea68951f544dd0",
+    "title": "Top Democratic recruit in Iowa balances support of Israel with criticism of war in Gaza",
+    "link": "https://jewishinsider.com/2026/10/christina-bohannan-iowa-israel-support-gaza-war-miller-meeks/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-10-27T19:04:52+00:00",
+    "fetched_iso": "2026-10-27T21:02:05.165509+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Top Democratic recruit in Iowa balances support of Israel with criticism of war in Gaza",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "71c3284f75fb19d00153135e26b31d48808c6b02f46657c02d468ed158416cf0",
+    "title": "Noah Wyle, TV’s nice Jewish doctor, is People’s Sexiest Man Alive",
+    "link": "https://forward.com/fast-forward/858677/noah-wyle-tvs-nice-jewish-doctor-is-peoples-sexiest-man-alive/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T18:53:07+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.398616+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Noah Wyle, TV’s nice Jewish doctor, is People’s Sexiest Man Alive",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "8cfadcd84a8b425eb4474976e75b81ef2e4e9b7b1b56a20cb8939e2287824cc3",
+    "title": "America’s Military Presence Reshapes Hormuz",
+    "link": "https://www.fdd.org/analysis/americas-military-presence-reshapes-hormuz/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T18:51:24+00:00",
+    "fetched_iso": "2026-10-27T21:02:02.505306+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "America’s Military Presence Reshapes Hormuz",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d3c4bd7de7798dfdeef393268ec1c52ac7148b9d5a617bd6fc27dc29e2a0f5a7",
+    "title": "Jordan’s Crackdown on the Muslim Brotherhood Is Far From Over",
+    "link": "https://www.fdd.org/analysis/jordans-crackdown-on-the-muslim-brotherhood-is-far-from-over/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T18:44:22+00:00",
+    "fetched_iso": "2026-10-27T21:02:02.695429+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jordan’s Crackdown on the Muslim Brotherhood Is Far From Over",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a5a6de061a4a733941944f72bbdf8fa38496d8b04b51c5b96dee72d7467e472a",
+    "title": "Noah Wyle, TV’s nice Jewish doctor, is People’s Sexiest Man Alive",
+    "link": "https://www.jta.org/2026/10/27/culture/noah-wyle-tvs-nice-jewish-doctor-is-peoples-sexiest-man-alive",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-10-27T18:43:04+00:00",
+    "fetched_iso": "2026-10-27T21:02:05.891341+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Noah Wyle, TV’s nice Jewish doctor, is People’s Sexiest Man Alive",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "764e8ea1c32365a38e9d0b0e2340faf6beeb3078c917f3a5e304819494d91177",
+    "title": "Jordanian Air Force strikes Syria in retaliation for deadly church attack",
+    "link": "https://www.fdd.org/analysis/jordanian-air-force-strikes-syria-in-retaliation-for-deadly-church-attack/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T17:38:16+00:00",
+    "fetched_iso": "2026-10-27T21:02:02.864323+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jordanian Air Force strikes Syria in retaliation for deadly church attack",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "50dfead029515883663a07d78193457a7a7bc198b3c0d1107c0040b89e7b4157",
+    "title": "Defending Israel would be ‘a lot easier’ if Netanyahu loses, says New York Gov. Kathy Hochul",
+    "link": "https://forward.com/news/858599/kathy-hochul-netanyahu-israel-election/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T17:35:25+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.575351+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Defending Israel would be ‘a lot easier’ if Netanyahu loses, says New York Gov. Kathy Hochul",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "08f81c8d6cf3ae4453d59b6ae5c1ac4756b3afc21e65f11261eabdcb711aa14e",
+    "title": "Secretary Rubio’s Call with Panama President Mulino",
+    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-panama-president-mulino/",
+    "source": "US State Department - Press Releases",
+    "published_iso": "2026-10-27T17:20:22+00:00",
+    "fetched_iso": "2026-10-27T21:02:01.431537+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Secretary Rubio’s Call with Panama President Mulino",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "68ece1e5128e7cab428547212a3c56f5dddd7f50e916dc029595b409074761ae",
+    "title": "Is Israel a Good Ally?",
+    "link": "https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-10-27T16:52:34+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.612709+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Is Israel a Good Ally?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "00d9235b1ad82fabe135b94e5ce48783c42152dc9b1b72f74540fad26ad6d016",
+    "title": "Bibi failed to strike Iran before election, may strike before new government",
+    "link": "https://www.fdd.org/in_the_news/bibi-failed-to-strike-iran-before-election-may-strike-before-new-government/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T16:29:59+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.035762+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Bibi failed to strike Iran before election, may strike before new government",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "836d0f69653a2ac5d345d1ed4198ecf9f8724c2da949b5a35b655965894a4399",
+    "title": "Who will defend the International Criminal Court?",
+    "link": "https://www.fdd.org/in_the_news/who-will-defend-the-international-criminal-court/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T16:28:20+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.193766+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Who will defend the International Criminal Court?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "69b592446908e616f154b74ba54b362f5aad6cb4ed31f2c5ff1b3e48a2deb2b2",
+    "title": "‘Text me when you get home’ — on confronting hatred as both a woman and a Jew",
+    "link": "https://forward.com/opinion/858569/jewish-woman-confronting-hatred-in-america-national-council-of-jewish-women/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T16:21:30+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.747334+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘Text me when you get home’ — on confronting hatred as both a woman and a Jew",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e32d69a72823dbd4e390821871f550fbb53a4b7b61ed996b1a2e97a7e9cccce9",
+    "title": "Why France and Turkey are giving defense cooperation another go",
+    "link": "https://www.atlanticcouncil.org/blogs/turkeysource/france-and-turkey-sign-2026-defense-roadmap/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T16:03:50+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.084545+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why France and Turkey are giving defense cooperation another go",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "702219e9b9cea52440bc1bdc91e5b559b8c261e055df70b384bef34f1d8e3821",
+    "title": "Seeking funding for a Yiddish project for kids or young people?",
+    "link": "https://forward.com/yiddish/516871/seeking-funding-for-a-yiddish-project-for-kids/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T15:55:55+00:00",
+    "fetched_iso": "2026-10-27T21:02:06.908155+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Seeking funding for a Yiddish project for kids or young people?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b27c88af1b3c835387d9dcf5c4dcccf549d3b8671bd54029687aa50b8a159703",
+    "title": "Iraq juggles border security and ties with Iran, Syria, and Jordan",
+    "link": "https://www.fdd.org/analysis/iraq-juggles-border-security-and-ties-with-iran-syria-and-jordan/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-10-27T15:42:50+00:00",
+    "fetched_iso": "2026-10-27T21:02:03.370991+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Iraq juggles border security and ties with Iran, Syria, and Jordan",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c1e7195a6fb58a6e99dc5937d25e711ad27b0c29a94572b6f80edc30536d8bbe",
+    "title": "Democrats leader Golan approached by man with knife on Israeli election day",
+    "link": "https://forward.com/fast-forward/858551/democrats-leader-golan-approached-by-man-with-knife-on-israeli-election-day/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T15:36:38+00:00",
+    "fetched_iso": "2026-10-27T21:02:07.064890+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Democrats leader Golan approached by man with knife on Israeli election day",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "897efb35231ad81f1b1cac8e95943e6cb6fb8c94d64398cee6b05a9d347b4ff4",
+    "title": "This antisemitic political ad for El-Sayed could incite violence against Jews",
+    "link": "https://forward.com/opinion/858581/rebellion-pacs-antisemitic-political-ad/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T15:34:12+00:00",
+    "fetched_iso": "2026-10-27T21:02:07.271348+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "This antisemitic political ad for El-Sayed could incite violence against Jews",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5b167af40dd20cbd904c765d0c95022a7cc4c04debab9231460db44e1e84e01e",
+    "title": "What Pittsburgh learned about solidarity after the Tree of Life shooting",
+    "link": "https://forward.com/fast-forward/858524/pittsburgh-solidarity-tree-of-life-shooting/",
+    "source": "The Forward",
+    "published_iso": "2026-10-27T15:21:27+00:00",
+    "fetched_iso": "2026-10-27T21:02:07.428128+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What Pittsburgh learned about solidarity after the Tree of Life shooting",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "583cb273c1bc7394af94be8ce14753e9acfdf02152c1dbcaa609997b99558908",
+    "title": "The United States needs an energy policy investors can bank on",
+    "link": "https://www.atlanticcouncil.org/blogs/energysource/the-united-states-needs-an-energy-policy-investors-can-bank-on/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T15:15:38+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.255458+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The United States needs an energy policy investors can bank on",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5e2a7a57044b1d1fc7fd8f2f15883ebc1f6afaeab0106dc36664013a93cc598c",
+    "title": "Any means necessary: Are courts safe in the digital age?",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/any-means-necessary-are-courts-safe-in-the-digital-age/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-10-27T15:00:00+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.412675+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Any means necessary: Are courts safe in the digital age?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "362cdf8960c9ce06fc4c0d28330786d123e96276e2c6ef528cf17676a257fc71",
     "title": "Your Daily Phil: Funders brace for Israeli election results",
     "link": "https://ejewishphilanthropy.com/your-daily-phil-funders-brace-for-israeli-election-results/",
@@ -373,6 +835,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "The Israel Netanyahu Made",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1d22f21ce8ec804e1f8840eb3274fb036992a9265ea755954762f63964296df2",
+    "title": "Putin’s Strategy Is Working",
+    "link": "https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul",
+    "source": "Foreign Affairs Magazine",
+    "published_iso": "2026-10-27T04:00:00+00:00",
+    "fetched_iso": "2026-10-27T21:02:04.795132+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Putin’s Strategy Is Working",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -11545,314 +12021,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Blakeman targets Mamdani in meeting with Hasidic leaders",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "65baf11ecaad61aa26655ad396cfa6b6dbdb13cdcd5bff911fd87cf9c49d6bf3",
-    "title": "Putin snubs Trump’s ceasefire as Russia aims to make Ukraine unlivable",
-    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-snubs-trumps-ceasefire-as-russia-aims-to-make-ukraine-unlivable/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-13T20:57:43+00:00",
-    "fetched_iso": "2026-10-14T08:05:37.052566+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Putin snubs Trump’s ceasefire as Russia aims to make Ukraine unlivable",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b369e93d19691cb537b7beb80667b288a1156d04cc891a2a5ce3faf8c0814485",
-    "title": "How the trade war with Canada is hitting US states—and could sway midterm elections",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/how-the-trade-war-with-canada-is-hitting-us-states-and-could-sway-midterm-elections/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-13T20:56:00+00:00",
-    "fetched_iso": "2026-10-14T08:05:37.170588+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "How the trade war with Canada is hitting US states—and could sway midterm elections",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d9c1c3401782df137a72e99b90c7537eceba0188d3aa50601ff5ea9718eb61f7",
-    "title": "Who will govern Israel? Try out JTA’s election interactive",
-    "link": "https://www.jta.org/2026/10/13/default/who-will-govern-israel-try-out-jtas-election-interactive",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-13T20:41:52+00:00",
-    "fetched_iso": "2026-10-14T08:05:38.364621+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Who will govern Israel? Try out JTA’s election interactive",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0b8745fe1b36c1df4cdf4fa7c3b3d476ec5d3ec28bbb7cc6332686045fbda50f",
-    "title": "Poll: Most New York City Jewish voters say criticism of Israel is often a cover for antisemitism",
-    "link": "https://forward.com/news/855476/nyc-jewish-voters-israel-antisemitism-mamdani/",
-    "source": "The Forward",
-    "published_iso": "2026-10-13T20:37:02+00:00",
-    "fetched_iso": "2026-10-14T08:05:39.008557+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Poll: Most New York City Jewish voters say criticism of Israel is often a cover for antisemitism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f4424c1368785a0d1d446d1b3212288151c8f3d1fa8120ce3a3894f95f7f4339",
-    "title": "Waiting for 61: JTA’s Israel Election Podcast",
-    "link": "https://www.jta.org/2026/10/13/default/waiting-for-61-jtas-israel-election-podcast",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-13T20:26:24+00:00",
-    "fetched_iso": "2026-10-14T08:05:38.479923+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Waiting for 61: JTA’s Israel Election Podcast",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "998a714bdd29d05e95d8b7de08f117679c8c21f534c54941c35bae5825e1e313",
-    "title": "Lebanese security forces seize explosives shipment reportedly bound for Hezbollah in Beirut",
-    "link": "https://www.fdd.org/analysis/lebanese-security-forces-seize-explosives-shipment-reportedly-bound-for-hezbollah-in-beirut/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T20:19:40+00:00",
-    "fetched_iso": "2026-10-14T08:05:36.709972+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Lebanese security forces seize explosives shipment reportedly bound for Hezbollah in Beirut",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d321d8a1e00084faf0faf51d8a4d163745f2b63b775a5976cceb0e3e2d53a806",
-    "title": "Russia’s Leading Sanctions Evasion Tool Is a New Kind of Illicit Finance Threat",
-    "link": "https://www.fdd.org/analysis/russias-leading-sanctions-evasion-tool-is-a-new-kind-of-illicit-finance-threat/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T20:12:43+00:00",
-    "fetched_iso": "2026-10-14T08:05:36.837798+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Russia’s Leading Sanctions Evasion Tool Is a New Kind of Illicit Finance Threat",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e09eeab64acd1007a4801f78d152c8754064de871f7795cae8ecba57998aa16c",
-    "title": "Flydubai attack: lone wolf or wider terror network?",
-    "link": "https://www.fdd.org/in_the_news/flydubai-attack-lone-wolf-or-wider-terror-network/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T19:43:56+00:00",
-    "fetched_iso": "2026-10-14T08:05:36.941492+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Flydubai attack: lone wolf or wider terror network?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "acb34ef687c088c88bac833558e381eb279887ab30a499737c2f2dc15299a04e",
-    "title": "Security Alert: U.S. Embassy Jerusalem – October 13, 2026",
-    "link": "https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-october-13-2026/",
-    "source": "US Embassy Jerusalem",
-    "published_iso": "2026-10-13T19:32:26+00:00",
-    "fetched_iso": "2026-10-14T08:05:36.531872+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Security Alert: U.S. Embassy Jerusalem – October 13, 2026",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c34c858a6de3480785042d78f1f3a3d733d6ccd8ebb6ba4c2e61b72957df62c0",
-    "title": "Somerville councilors to discuss Israel divestment proposal",
-    "link": "https://www.jta.org/2026/10/13/politics/somerville-councilors-to-discuss-israel-divestment-proposal",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-13T18:05:36+00:00",
-    "fetched_iso": "2026-10-13T19:35:56.087312+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Somerville councilors to discuss Israel divestment proposal",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "031405cdcdded4ce08529385639fb5b81579ee3198d5c94e56152c5ca7f1714b",
-    "title": "Israel–US Strategic Cooperation Against Iran: Limits And Divergences – Analysis - Eurasia Review",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2JsUUk1Q0xVclJpN1BxZGtmMmtTclFtNC03T2k5UVFab2tGRGU1Qkk5T0gxeGlVWHo0dTYtaDZSSDhuOUVkS085aEJwU2ZudnR6WjJ5S3VVMmdSY2tCZl9ibkFSZUxrYTVMSzFnNWVsaEhlUEg1RGhNZk9rY0FPZG9sZ3JkSE4zOEF4WUtqREVaUHd1bFBrNVZocmwyZnZnU3lBUUlEc2FuQW54dHpPcHQyOTVPQTA?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-10-13T17:59:59+00:00",
-    "fetched_iso": "2026-10-13T19:35:56.651449+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel–US Strategic Cooperation Against Iran: Limits And Divergences – Analysis - Eurasia Review",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "71203e7c49267cb018e56aad80358b80a1afad2a815a3fd35883a997df3c9c8e",
-    "title": "Mamdani stands by NYPD’s Tisch as allies demand her removal",
-    "link": "https://jewishinsider.com/2026/10/mamdani-rejected-calls-removal-nypd-tisch-dsa-allies/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-13T17:45:37+00:00",
-    "fetched_iso": "2026-10-13T19:35:55.615303+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mamdani stands by NYPD’s Tisch as allies demand her removal",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e6b5f76a1e0a4051cafe263656a376ccf00e29f69ee1e1fe842559ca2857ac16",
-    "title": "Trump claims China and Russia not helping Iran ‘at all’",
-    "link": "https://www.fdd.org/in_the_news/trump-claims-china-and-russia-not-helping-iran-at-all/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T17:41:17+00:00",
-    "fetched_iso": "2026-10-13T19:35:54.507681+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump claims China and Russia not helping Iran ‘at all’",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "62cf5f1f25e093328db1edc48077b7bbf5c5178359d3e37e41c907c31835393c",
-    "title": "Two deaths in Manchester synagogue attack last year will be probed through public inquiry, Britain says",
-    "link": "https://www.jta.org/2026/10/13/global/two-deaths-in-manchester-synagogue-attack-last-year-will-be-probed-through-public-inquiry-britain-says",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-10-13T17:16:42+00:00",
-    "fetched_iso": "2026-10-13T19:35:56.165911+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Two deaths in Manchester synagogue attack last year will be probed through public inquiry, Britain says",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ba9bbf3a0ca7bf1cf93066e64e5fe5cf8a47f32bc2e386d503e3a194e184d902",
-    "title": "Energy is upending Ukraine peace talks. Our experts explain why.",
-    "link": "https://www.atlanticcouncil.org/dispatches/energy-ukraine-russia-diesel-ceasefire/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-10-13T16:01:00+00:00",
-    "fetched_iso": "2026-10-13T19:35:55.138596+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Energy is upending Ukraine peace talks. Our experts explain why.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4eb83d2e55ea4e05a59a042185e44cfe2f5480a6811bfcaf2c66761e2f44d7f3",
-    "title": "Mapping Global Impunity",
-    "link": "https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-map/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-10-13T15:55:56+00:00",
-    "fetched_iso": "2026-10-13T19:35:55.331508+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mapping Global Impunity",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5b5255a7f5da4c41d93397d756f8e16900cb01df962fa437a5017c1b620496e2",
-    "title": "Disrupting Cartel del Noreste’s Financial Network",
-    "link": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/disrupting-cartel-del-norestes-financial-network/",
-    "source": "US State Department - Press Releases",
-    "published_iso": "2026-10-13T15:54:41+00:00",
-    "fetched_iso": "2026-10-13T19:35:54.117477+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Disrupting Cartel del Noreste’s Financial Network",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "eb1c117ed2b644f73b43012be9b813f8c8670406fa4472f36e3ec0c436330983",
-    "title": "Houthis warn of “painful response” if U.S. joins Saudi strikes in Yemen",
-    "link": "https://www.fdd.org/in_the_news/houthis-warn-of-painful-response-if-u-s-joins-saudi-strikes-in-yemen/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T15:44:53+00:00",
-    "fetched_iso": "2026-10-13T19:35:54.605067+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Houthis warn of “painful response” if U.S. joins Saudi strikes in Yemen",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1875575ef970cecf393e8fdebc66a4d1e96a4e709f39f4a8c8da196a87c129fb",
-    "title": "Mamdani Has a Global Ego",
-    "link": "https://www.fdd.org/analysis/mamdani-has-a-global-ego/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T15:24:19+00:00",
-    "fetched_iso": "2026-10-13T19:35:54.705084+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mamdani Has a Global Ego",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "be16574e6f90af07288168c0134de7ccb12399a413bbd82323cf6bc7e12ebe96",
-    "title": "GOP leadership super PAC cancels spending plans against Rep. Landsman",
-    "link": "https://jewishinsider.com/2026/10/congressional-leadership-fund-gop-cancels-spending-against-landsman/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-13T15:24:10+00:00",
-    "fetched_iso": "2026-10-13T19:35:55.707833+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "GOP leadership super PAC cancels spending plans against Rep. Landsman",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "efcb1bb019c385018b65e3bbef4b6d1ccbd482b3c6674c34921ee234139b9492",
-    "title": "Iran targets Kurdish opposition groups in Iraq with new round of drone attacks",
-    "link": "https://www.fdd.org/analysis/iran-targets-kurdish-opposition-groups-in-iraq-with-new-round-of-drone-attacks/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-10-13T15:19:47+00:00",
-    "fetched_iso": "2026-10-13T19:35:54.807140+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iran targets Kurdish opposition groups in Iraq with new round of drone attacks",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3bedf81f8f5a94cc3df83a8c6aaaf82d83845ee488cbf422c7070bfa5a3d0327",
-    "title": "State Department to hold Oct. 7 commemoration event on Wednesday",
-    "link": "https://jewishinsider.com/2026/10/state-department-oct-7-american-victims-commemoration-rescheduled/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-10-13T15:00:57+00:00",
-    "fetched_iso": "2026-10-13T19:35:55.803466+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "State Department to hold Oct. 7 commemoration event on Wednesday",
     "implications": [
       "Analysis temporarily unavailable."
     ]
