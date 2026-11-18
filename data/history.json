@@ -1,5 +1,565 @@
 [
   {
+    "url_hash": "c19ca8ea255c01e36e5b29b4f7c463f862fe02f4b690dfabb75284aebb8c2328",
+    "title": "After the midterms, learning to listen: My last conversation with Saeb Erekat",
+    "link": "https://www.jta.org/2026/11/18/ideas/after-the-midterms-learning-to-listen-my-last-conversation-with-saeb-erekat",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-18T20:56:12+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.313958+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "After the midterms, learning to listen: My last conversation with Saeb Erekat",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "03dbe767f11bcf887584608bf714044706b4fb3f2609f9242e306e2b81fbcd83",
+    "title": "The Jewish hotel on the Lower East Side that was too good to last",
+    "link": "https://forward.com/yiddish-world/863506/the-jewish-hotel-on-the-lower-east-side-that-was-too-good-to-last/",
+    "source": "The Forward",
+    "published_iso": "2026-11-18T20:28:29+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.861900+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Jewish hotel on the Lower East Side that was too good to last",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9c5a1c8e909428b0886ab041972a587af842a0f717982081f3545a1ca320dac3",
+    "title": "America and China Are Trying to Alter Their Economic Bargain",
+    "link": "https://foreignpolicy.com/2026/11/18/china-united-states-economy-open-derisk/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-18T20:22:59+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.988440+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "America and China Are Trying to Alter Their Economic Bargain",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a3a747518e0467367a2147a16251d80d0eee4b3348546bc3e96914c8b051e49e",
+    "title": "Without U.S. Military Aid, Can Israel Afford So Many Wars?",
+    "link": "https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-trump-netanyahu-wars/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-18T20:19:30+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.101919+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Without U.S. Military Aid, Can Israel Afford So Many Wars?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9f815c4ec7254b2dc988863cd938d239cc5f18fe97b461c125e67f8c13f8d2ef",
+    "title": "Why this Maryland synagogue says a gun control law violates their religious freedom",
+    "link": "https://forward.com/news/863602/montgomery-county-silver-spring-jewish-center/",
+    "source": "The Forward",
+    "published_iso": "2026-11-18T20:04:31+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.978515+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Why this Maryland synagogue says a gun control law violates their religious freedom",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "11e46eba9b42584c3d5750b09858733cde535986dc9de4b2bef5ab7bf9cbec6d",
+    "title": "Marco Rubio, Would-Be Pompey",
+    "link": "https://foreignpolicy.com/2026/11/18/marco-rubio-united-states-rule-of-law-rogue/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-18T19:46:39+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.233139+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Marco Rubio, Would-Be Pompey",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "641a6f527bcd7faeddeae00c903daf48f488bbc6b6553a0b364ebf4ee5be2577",
+    "title": "DNI Jay Clayton tells lawmakers: No Iran ties to wave of tech outages",
+    "link": "https://jewishinsider.com/2026/11/u-s-national-security-officials-iran-tech-outages-jay-clayton/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T19:38:49+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.641591+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "DNI Jay Clayton tells lawmakers: No Iran ties to wave of tech outages",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c96d9dd981ffc6f991163eb4fcf2b5ec1d7872b880283913e511e65b207b6b81",
+    "title": "How this groundbreaking organization is transforming Israel travel for teens",
+    "link": "https://www.jta.org/2026/11/18/israel/how-this-groundbreaking-organization-is-transforming-israel-travel-for-teens",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-18T19:35:21+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.447537+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "How this groundbreaking organization is transforming Israel travel for teens",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "29b090c983d533516c8d025314876d34793a8636fab89a096d91a34658b040c9",
+    "title": "Australia announces new sanctions on West Bank settlers and organizations",
+    "link": "https://www.jta.org/2026/11/18/israel/australia-announces-new-sanctions-on-west-bank-settlers-and-organizations",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-18T19:11:20+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.563215+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Australia announces new sanctions on West Bank settlers and organizations",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "adee5e10da79362fd0602ba403c33ff742276e2bf55cca5cc842dfdfec2d07e1",
+    "title": "The Path Out of Iran’s Forever War Runs Through Its Streets",
+    "link": "https://www.fdd.org/analysis/policy-briefs/the-path-out-of-irans-forever-war-runs-through-its-streets/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T18:52:47+00:00",
+    "fetched_iso": "2026-11-18T20:57:18.824174+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Path Out of Iran’s Forever War Runs Through Its Streets",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2f3448ce0bc7656bc2788ea5846e6ad35430c1ae857dbb3aeeaa438f7493a610",
+    "title": "Lichfield cited in a The Diplomatic Insight article on Trump’s Russian diesel deal and congressional opposition",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/tannebaum-quoted-in-the-new-york-times-on-us-unreliability-influencing-de-dollarization-efforts-4-9-6/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-18T18:44:06+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.574374+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lichfield cited in a The Diplomatic Insight article on Trump’s Russian diesel deal and congressional opposition",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c32062c17df1a375683c61e355d16b8eb9ab198fc72f49deda7b7540a86e6b38",
+    "title": "Lichfield quoted in CNN on the impact of the Russian sanctions waiver on US importers",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lichfield-quoted-in-cnn-on-the-impact-of-the-russian-sanctions-waiver-on-us-importers/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-18T18:42:17+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.663277+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lichfield quoted in CNN on the impact of the Russian sanctions waiver on US importers",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2d3fe9ca6ca5664b8450ae1f7ab142967e76866618430f94e9bb5de6bf53e12c",
+    "title": "El-Sayed says Israel should not identify with a faith, pushes back on antisemitism concerns",
+    "link": "https://jewishinsider.com/2026/11/el-sayed-says-israel-should-not-identify-with-a-faith-pushes-back-on-antisemitism-concerns/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T18:39:55+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.756878+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "El-Sayed says Israel should not identify with a faith, pushes back on antisemitism concerns",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "48d4a93ee3970daf86f91cf2b1f153735d9897b5596eea9f52031fe5523d1845",
+    "title": "Pew projects nearly two-thirds of world’s Jews will live in Israel by 2070",
+    "link": "https://jewishinsider.com/2026/11/pew-projects-nearly-two-thirds-of-worlds-jews-will-live-in-israel-by-2070/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T18:35:18+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.868071+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Pew projects nearly two-thirds of world’s Jews will live in Israel by 2070",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3ebccba9237bda282271c98968b26c672c492902d1592beeb619338c7192da0a",
+    "title": "Lipsky quoted in Bloomberg on Trump’s trade leverage ahead of the Xi summit",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/lipsky-quoted-in-bloomberg-on-trumps-trade-leverage-ahead-of-the-xi-summit/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-18T18:30:42+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.757388+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Lipsky quoted in Bloomberg on Trump’s trade leverage ahead of the Xi summit",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5f44c8b377af7e6fc65602761fcaefdedd3a00bc5e4351467ffa1a218e2034fc",
+    "title": "House Dems nominate Hakeem Jeffries as speaker, rebuffing far-left opposition",
+    "link": "https://jewishinsider.com/2026/11/jeffries-overwhelmingly-reelected-house-democratic-leader-poised-for-speakership/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T18:10:49+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.986418+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "House Dems nominate Hakeem Jeffries as speaker, rebuffing far-left opposition",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "dff165db6f1db4983f516b3b93c5e2e836b2c60b27f2280ce68088271508bea7",
+    "title": "Erdogan’s Washington strategy faces a new test under a Democratic Congress",
+    "link": "https://www.fdd.org/analysis/erdogans-washington-strategy-faces-a-new-test-under-a-democratic-congress/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T18:09:06+00:00",
+    "fetched_iso": "2026-11-18T20:57:18.995670+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Erdogan’s Washington strategy faces a new test under a Democratic Congress",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9a1cdd1e0eb6a3a67d41f0b296dd43b4af327ab2fb6d8a24a72f30182cacb06d",
+    "title": "Ukraine Still Has No Answer on Starshield Restrictions",
+    "link": "https://www.fdd.org/analysis/policy-briefs/ukraine-still-has-no-answer-on-starshield-restrictions/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T17:46:17+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.121141+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ukraine Still Has No Answer on Starshield Restrictions",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1275f47c7029719132b1c9e1c40bdb9a6856919199d0cadcc11b0f35f165c162",
+    "title": "Trump heads to high-stakes China summit",
+    "link": "https://www.fdd.org/in_the_news/trump-heads-to-high-stakes-china-summit/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T17:20:32+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.238245+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump heads to high-stakes China summit",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3eb2b7a4c3365f8780d19d49dc60e17bb1a28e2108a86324b49c9a4c0c262f65",
+    "title": "Democrats nominate staunch Israel supporter Hakeem Jeffries to be next House speaker",
+    "link": "https://www.jta.org/2026/11/18/ny/democrats-nominate-hakeem-jeffries-to-be-next-house-speaker",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-18T16:55:23+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.659709+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Democrats nominate staunch Israel supporter Hakeem Jeffries to be next House speaker",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a698d86cf4153805ece04f4ceaee741c050017028603fefdc9d9ddc638d02865",
+    "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia - The Guardian",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOektDcHNLTnJVdGQtUFpFelJJNFZaN1R3dElHdFNKcEdMTHNjME9zMTk0RF9CQzctZHo5bzV0cllaVlVpeGpSaFpKaG0wWGkyMC1OcFlNdDJvaWRHU2dvVzBYSEpfWl94QzY2NjR0MzBfMzdhU1hRMl8xenBCNS1yeE9iTjA?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T16:23:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.750006+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia - The Guardian",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "2926a42a3675c1e5ecf2ca60d59c80b578ecfc58a6163dc8070bd4a160886cde",
+    "title": "After midterm ‘tsunami,’ how to divine where the US-Israel relationship may be headed - The Times of Israel",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk9wX3lNaUh1X290UTRETjRIdXNsYzBmYk43ajRRVjlCbTR1QVZ6ckV0UmN3Q0xZTnMzUUVpMXl4R210QkRsSDJOWE53MTVwTUVvVUFSZHVaSEN4TW05TU1tWDZyTEV4b195Zk5JZ3FMNzVzYldmWEs2Z1dGZEM0MUlzeFRaV1BKSTJDV01ZYWZOVEhTeFBOV0wzSFk4eGpjZXpuanBqZmM5blZJOWc3VXBqNNIBuAFBVV95cUxPU0J1NDBNcUkzeFJGZ1YyYjl0ZHgteTlXbWkyMXBqcXBCZzY3R1pKTjZGUXRUbC1LcG5VUV9CcVpLLUhabGNjM01GWHhaZFVSSllhcUlTSTAxeFJmT2dwZmY5UlVDLTc1N1ZydDBSUWV5bWdTSW1BOHhobzZxY0xleDU2b1RVdllNRDNiTk9NQmVQNFFMVTlnbERON3dicEZKRTNpWmlmMzdBTDlQNVlwYlJ4aWlSY0tt?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T16:13:03+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.563367+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "After midterm ‘tsunami,’ how to divine where the US-Israel relationship may be headed - The Times of Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f44ba6cb1be8f38ef63f1fcad66831c3aaf5f1b62ef96cb13739507f69ae2e14",
+    "title": "Jeffries re-elected House Democrat leader, on path to speaker - Crain's New York",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1FJSFpRaWd6WGFNbnY1QVF4aEg4TTZQblF5UHFJZ0wxX0xZU0t5TWZEVmJSNzVZQXQ4VVR6NmtSNk1kYWoxdS0yWmxLSnBid1JlYUFLelYyUUFuUUJZbzJDZ2ZOTzdDOHVBUXdmd3FFWS1JU1Fkb3FVbDV0V0xpZDVyNC02X08xb3NSRThnOE0?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T16:04:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.994868+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jeffries re-elected House Democrat leader, on path to speaker - Crain's New York",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9f37cb5a86b64bf1098ffe2d9f4a919a05290e8aeb6ccd6e79fb91d6fe6a5949",
+    "title": "Government tech debt is a national security risk",
+    "link": "https://www.fdd.org/analysis/government-tech-debt-is-a-national-security-risk/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T15:47:27+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.333503+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Government tech debt is a national security risk",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "598bbaacaf77fc0174b929a44c1ff202264063e956b377b833816c3b588c9d89",
+    "title": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkJqT2oyYk82bDFiWGJYTVlhX2hxNWs5NzFWY01GTUZVLV8zbWgycFhsTjhuOEcxUTF4Y1BiTWNxUWp4THZhdjBYVnMxd1lCY0d0YlpIWlltUV9JckxaMG5zSURFaW5VV1hGVnBzcm04TENiQWpjWFVwU211MW9qYTdwbERzX19CQkY4UVNseVFMSERmemJPTGY5bmRScXRmaUNEOGhhbm4yOHVGRmtZLXgyN1VBRnJvVngw?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T15:46:19+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.679644+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Reuters",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a8d37061d789118a72def0f6c0434b8ad57976741bd8d1019f978d023cf94fee",
+    "title": "ICJ to Deliver Landmark Verdict on Myanmar",
+    "link": "https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-18T15:37:12+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.334568+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "ICJ to Deliver Landmark Verdict on Myanmar",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "609330e9dc8ed0d83a08d0691652f1ef1dca1fbece0ca947aee1d74fecc8d1bc",
+    "title": "Out of Berlin — two collections of new Yiddish poetry",
+    "link": "https://forward.com/yiddish/863503/out-of-berlin-two-collections-of-new-yiddish-poetry/",
+    "source": "The Forward",
+    "published_iso": "2026-11-18T15:32:51+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.089132+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Out of Berlin — two collections of new Yiddish poetry",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "c9cc2bfaa21d3aeed92611665374432408ffe348b98821295f047e5187634b5d",
+    "title": "‘Jewish joy’ is a communal buzzword. Here’s what it means to Jewish teens.",
+    "link": "https://www.jta.org/2026/11/18/culture/jewish-joy-is-a-communal-buzzword-heres-what-it-means-to-jewish-teens",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-18T15:31:43+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.766815+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "‘Jewish joy’ is a communal buzzword. Here’s what it means to Jewish teens.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "535e5c3ecb6b7fed8d38b3f8ae753ed8a841d225e190df79645efa40a06db319",
+    "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T14:47:09+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.858875+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "213b419888312d78c867afad631dbd0ff906683b344b5208834e956365781e24",
+    "title": "Scapegoating Israel for Trump’s personal flaws - The Pittsburgh Jewish Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTTBCd1RNU1lzc0FyQklOMWdBcVF0c3V2c3hfY2dyVDhlSzVkSEhrWnNQNUk4eEpNamoyYUp0V1kwbUpDMzY0ZXBxUmllRkgwdzVkUVhyX2JMSWw3WEZwRzNkeDZWeUpNejN1X3k3NTUtX1pHbTdJUUhqLTRSSjlOSDZZV2ZrM2pUM01XREJtSXhTdw?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T14:28:04+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.459537+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Scapegoating Israel for Trump’s personal flaws - The Pittsburgh Jewish Chronicle",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "33c482061d022f0e467e14a39d8a3d1282413d1892baddb1aed69d3b471cabc3",
+    "title": "Your Daily Phil: Ohr Torah Stone wants $100M to spread Modern Orthodoxy in Israel",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-ohr-torah-stone-wants-100m-to-spread-modern-orthodoxy-in-israel/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-18T14:02:37+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.150681+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Ohr Torah Stone wants $100M to spread Modern Orthodoxy in Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3df3ba34abe6fdb990f480f1c9fdb30119b29a5c9dfdcb89e03b2012473a1bd4",
+    "title": "Cooperating With China on AI Control Is a Fantasy",
+    "link": "https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-18T14:00:07+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.444089+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Cooperating With China on AI Control Is a Fantasy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a26f2ecafc72fdd1067121c1b979fbc150bab7ce0f3451ae50ba14f75057cbd2",
+    "title": "CENTCOM chief meets with Israeli military leadership - Apa.az",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG5rYlYwT3ZGakRqSW1LeGtYQkp6LTZMeDdNYk42OG9QZDNzbXFiNnliQkEwNFhBQndJNVFuMzFpb2FBQXg4YWVaTDVfcUZ1NVRrdDBXRlBrOUZnSG5mVHJRNjVjU2JzR0JYZ1dqSFFWc2EzakliNFVaS0NIS01hekdsZENPT0N6dW5WR1Vn?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-11-18T13:45:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:23.100977+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "CENTCOM chief meets with Israeli military leadership - Apa.az",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5a5d6882ef6b10cc925c6f057dea0602f6780b5e5fecb4b9b0cc103fedbae751",
+    "title": "With $41M raised, Israel’s Ohr Torah Stone launches campaign to spread its brand of Modern Orthodoxy",
+    "link": "https://ejewishphilanthropy.com/with-41m-raised-israels-ohr-torah-stone-launches-campaign-to-spread-its-brand-of-modern-orthodoxy/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-18T12:57:18+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.250978+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "With $41M raised, Israel’s Ohr Torah Stone launches campaign to spread its brand of Modern Orthodoxy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d6e1ffd9b2354c5052d757254083aad976e7320e2a80b20f7dd44edcf4b3fe23",
+    "title": "White House Silent On Israel’s Massive NDAA Windfall Despite Trump’s Aid Cut Pledge - The Daily Caller",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQl9TYzdVM1N3Nk5yQ0lOcmdXTWpRcFprUHNWZU91NnNNSnVfeW5BVEJNQjF2MldvTWU3ZXhENTlTTW5sUEdPR3dIam10bkdfYUZkM29fRzJpb04tOE9EeFptVE1xNkRlVnBGYWdNdUdOMURwZmEzdzk5aU90RV8wbFJNOHNuNWVj?oc=5",
+    "source": "Google News - NDAA / FMF / Title VI",
+    "published_iso": "2026-11-18T12:49:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:20.539324+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "White House Silent On Israel’s Massive NDAA Windfall Despite Trump’s Aid Cut Pledge - The Daily Caller",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "44d82a33004531f65602722f9174ad3a0763aeee6f2e0a7f10c4523faa19ad55",
+    "title": "Democrats face leadership battles after US midterms sweep - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzQ1Z0N1Z21Gay1Ma0RvcGc5ZWt2bVJ5QkpaUHdBRUdVY09Id2hLYmZMUXFRSkVNVk9LRmNUdkVNUFRzR09sRXJUeDNYb282RTV6eDVNYnJRTzB6R2EzLVlibUhabldNWDI2cy1UVTJVYUN2Y1FWV0lwZDRGRWhkbl9NYzloc0FXMEFMUHo4VW1icHB4blpOdzIxaW10aHoy?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-18T12:29:05+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.927331+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Democrats face leadership battles after US midterms sweep - Anadolu Ajansı",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "28f746978c98ef263f53a24ccd2c016ea24f99bab81584537cf297f69522f99c",
+    "title": "Cotton, Cruz check Vance",
+    "link": "https://jewishinsider.com/2026/11/daily-kickoff-cotton-cruz-check-vance/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T12:04:09+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.084074+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Cotton, Cruz check Vance",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "138b1acf4d213cc51a07b283bee8cc574056cf471b4eacd6ce3c66199f8abf0a",
+    "title": "In Shenzhen, weakened giants navigate a dangerous, disorderly world",
+    "link": "https://www.atlanticcouncil.org/content-series/inflection-points/in-shenzhen-weakened-giants-navigate-a-dangerous-disorderly-world/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-18T12:00:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.887466+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "In Shenzhen, weakened giants navigate a dangerous, disorderly world",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5bd332e6b5cc570a2620ad93e9d467acb5269400220c01ffb97f15b13e7877e2",
+    "title": "Jeffries says House will pass Iran war powers resolution in first week of new session",
+    "link": "https://jewishinsider.com/2026/11/hakeem-jeffries-iran-war-powers-resolution-trump-speaker-of-the-house/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-18T11:15:33+00:00",
+    "fetched_iso": "2026-11-18T20:57:21.195293+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jeffries says House will pass Iran war powers resolution in first week of new session",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b6a711fc6d7401eab760c3453a8dbeb591a8c65d8e7480bd5efaf78b5c3a3108",
+    "title": "Israel’s Impossible Bind",
+    "link": "https://www.fdd.org/analysis/israels-impossible-bind/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-18T11:00:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:19.453612+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel’s Impossible Bind",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "a9790cd258cc3cf1b697d10d4c53a35668ca52c687995591b949b66871e0ab64",
     "title": "We need one standard for every adult who works with our kids",
     "link": "https://ejewishphilanthropy.com/we-need-one-standard-for-every-adult-who-works-with-our-kids/",
@@ -9,6 +569,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "We need one standard for every adult who works with our kids",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "548cf3779e0f9051c6dcd5e3f5d1fa10c1ca991e8a51478fdd36257f4c273004",
+    "title": "Jewish studies funders: Don’t abandon the university",
+    "link": "https://ejewishphilanthropy.com/jewish-studies-funders-dont-abandon-the-university/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-18T10:15:00+00:00",
+    "fetched_iso": "2026-11-18T20:57:22.357722+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Jewish studies funders: Don’t abandon the university",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -11853,902 +12427,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "This grandson of Holocaust survivors is headed to Congress. The ADL has concerns about his antisemitism record.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "bb907048e3ba17057b4a99310549a84533e30bb493dfe067d7a7267a2d39db58",
-    "title": "U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?",
-    "link": "https://foreignpolicy.com/2026/11/04/un-peacekeeping-mission-western-sahara-africa-morocco/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T20:56:42+00:00",
-    "fetched_iso": "2026-11-05T09:58:23.510173+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8ad3c101341facada0a0596b4d04da86fd15453e8b4755dc70ef3d80d1711600",
-    "title": "Democrats Won Big in the U.S. Midterms. What’s Next?",
-    "link": "https://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T20:51:17+00:00",
-    "fetched_iso": "2026-11-05T09:58:23.558784+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Democrats Won Big in the U.S. Midterms. What’s Next?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7e41792fca0394885d4a0431a9a9f39b56fc506c9f18bf8788eee19c7df45519",
-    "title": "Shapiro blasts antisemitic bike rally targeting Philly Jewish businesses",
-    "link": "https://jewishinsider.com/2026/11/shapiro-blasts-antisemitic-bike-rally-targeting-philly-jewish-businesses/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-04T20:46:41+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.163461+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Shapiro blasts antisemitic bike rally targeting Philly Jewish businesses",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a8cb439e2f7855fed3e66f8c934c2e8390c78dac64f35224990511b4b5cc97a4",
-    "title": "Gaza Devastation Exposes Limits of Proposed US Aid Cut to Israel - greatreporter",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUF9yZG9hNEhkdFh0Y05aZUlkZXpocmFnVHdwMkkzV0ZWRVdhMDBHVEswV2hZMUdfdmxHc1R0WnRSMEROVU5abnllX0FlTjB1RWZ6R1loeEY1aER6RG5DWEkxVHN5ZWJTZUltVVk2VURtcURzdkFRR0lhME8teHkycUlfM0F1ei1ld3NPaG9NbUEtTVdXSzg2Q0htNWx5dUk4dUlrbw?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T20:41:11+00:00",
-    "fetched_iso": "2026-11-05T09:58:25.525228+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Gaza Devastation Exposes Limits of Proposed US Aid Cut to Israel - greatreporter",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "189ab1f95a5b4b306b8c4d63e37a1be941ee48fabdf55abb0d530921c58bc05f",
-    "title": "From pop icon to outspoken Zionist: Boy George’s emotional visit to Nova memorial",
-    "link": "https://www.jta.org/2026/11/04/israel/from-pop-icon-to-outspoken-zionist-boy-georges-emotional-visit-to-nova",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-04T20:35:14+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.413198+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "From pop icon to outspoken Zionist: Boy George’s emotional visit to Nova memorial",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b5e03931fa838f455426f8af1e6574c745461ed4ebb4750509599f250d44dcca",
-    "title": "At the Vatican, two elderly men — one Jewish, one Catholic — exchange gifts and mutual admiration",
-    "link": "https://forward.com/culture/860636/bob-dylan-pope-leo-xiv-vatican-meeting/",
-    "source": "The Forward",
-    "published_iso": "2026-11-04T20:29:18+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.672416+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "At the Vatican, two elderly men — one Jewish, one Catholic — exchange gifts and mutual admiration",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5834649cb914958a12d2f623740875f3794fb3661c4190c8191e3744948c52a5",
-    "title": "Can the U.S. learn from Europe after the midterms?",
-    "link": "https://www.fdd.org/in_the_news/can-the-u-s-learn-from-europe-after-the-midterms/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T20:22:02+00:00",
-    "fetched_iso": "2026-11-05T09:58:23.077526+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Can the U.S. learn from Europe after the midterms?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "11852ca64acb3d7b0c1135ca00e6aaf788c767efbe2ed50e360969457bf58895",
-    "title": "The Michigan Senate race showed the exact wrong ways to fight antisemitism",
-    "link": "https://forward.com/opinion/860591/abdul-el-sayed-michigan-antisemitism-senate-campaign/",
-    "source": "The Forward",
-    "published_iso": "2026-11-04T20:04:36+00:00",
-    "fetched_iso": "2026-11-04T20:07:19.979789+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Michigan Senate race showed the exact wrong ways to fight antisemitism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1418b70752fedcce843c0df16afbc8047b003be47ca2ac0eaf7ffe39a43931e7",
-    "title": "Trump Says U.S. Will End Annual Military Aid to Israel After 2026, Leaving Congress and Existing Pact in Focus - finchannel",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzdKVXM4ZzFKYzltTGNNY3BmWElmenN6YnBXMFR2akJva1l0MkZ6VVAxZWlhR1I5NEd0LTY2OU1YN0R2NlhkSUlHVFRhcFF3TnlHdEt4X0tLOEZYUEx2VldISUdqdm81WmpxaFN5NVZYVnVoYTBlOGpZRy1mMjMwOEVBRVBkLTMxSC1ncnBQQnFNWlh6YjR1blY3bW0tWDNCbWZpaURGaEJaWG9xS0N2cUJzamw0Vl9iTFljSnVjT2dZby1UVVlIRGxfSWM0S1FoYm5nSkY4aHhyTWkyb3p0emZqNVBXdHdlSWVJ?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T20:03:37+00:00",
-    "fetched_iso": "2026-11-04T20:07:24.558026+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump Says U.S. Will End Annual Military Aid to Israel After 2026, Leaving Congress and Existing Pact in Focus - finchannel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "6f606c055f1b67c1a74179315355fd1bfc0d3d23896687c6322779786eb3c797",
-    "title": "Vance Blames Iran War for GOP Midterms Wipeout",
-    "link": "https://foreignpolicy.com/2026/11/04/vance-midterms-blames-iran-war-trump-republicans/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T20:01:51+00:00",
-    "fetched_iso": "2026-11-05T09:58:23.627007+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Vance Blames Iran War for GOP Midterms Wipeout",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9a19cbcdb79714fbc326270b374900c8c8aa7b96346f34c2a3fc4056b10dcc60",
-    "title": "Trump’s midterm defeat changes the equation for Netanyahu and Israel",
-    "link": "https://forward.com/opinion/860546/elections-2026-trump-netanyahu-israel/",
-    "source": "The Forward",
-    "published_iso": "2026-11-04T19:50:03+00:00",
-    "fetched_iso": "2026-11-04T20:07:20.107116+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump’s midterm defeat changes the equation for Netanyahu and Israel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "33f2b6d5f2f673cea34bb0388cd8e4957277060d7447092209bc7f8a1f99be97",
-    "title": "Charai for The Jerusalem Strategic Tribune: The Midterm Verdict and the Test of American Leadership",
-    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-the-midterm-verdict-and-the-test-of-american-leadership/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-04T19:43:42+00:00",
-    "fetched_iso": "2026-11-04T20:07:14.085745+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Charai for The Jerusalem Strategic Tribune: The Midterm Verdict and the Test of American Leadership",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "81431d8c307ab735fca1347f481305056ca07ab8600edd0d4e2fc583c23d11f2",
-    "title": "'It will be harder for us': Israel's UN ambassador warns of challenges following Democratic midterm victory - i24NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbU44SW5odEFDclpza0VMU29TdXVlbEs2U05hRXdPa0dGd0xHUXlOU29LLTl2Z1ExM0VRUTM5Z29xS2tXb25qdlduNmpyTlo1WFdDSHZDUC1vLXJTOHVVcTRxNEI1d0Q3X3p4TWcwMEhZSGJ5b29Md3I1ay02cHNoYnk2eWFYTDl0eVVXVFBLVTI4Ui1JaGlPRy1kNmlNeUIwdWxJX0doVGZjNXdXUnRLTGhKWDVxa1FVdlFndXRia1ItYXlWQXFDLXpFZ0pOUWx1aUJzZmYzamgzaXU0VjZmS014dHpadGVjQXlVd0Rn?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T19:35:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:24.042542+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "'It will be harder for us': Israel's UN ambassador warns of challenges following Democratic midterm victory - i24NEWS",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2d645aef46a2a6cb4d37ce5b6957dd2d6789ddcecd3b23cb4a4f08422801be19",
-    "title": "Florida voters elect Republican with neo-Nazi ties to state legislature",
-    "link": "https://jewishinsider.com/2026/11/marshall-rawson-neo-nazi-ties-elected-florida-state-house/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-04T19:32:05+00:00",
-    "fetched_iso": "2026-11-04T20:07:16.700637+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Florida voters elect Republican with neo-Nazi ties to state legislature",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4e98bcaa28bb71b5816e51f285743197aacff7d977301642f4997f02eac95bcc",
-    "title": "Wisconsin referendum on freedom to worship fails at the ballot box",
-    "link": "https://www.jta.org/2026/11/04/politics/wisconsin-referendum-on-freedom-to-worship-fails-at-the-ballot-box",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-04T19:19:06+00:00",
-    "fetched_iso": "2026-11-04T20:07:18.725021+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Wisconsin referendum on freedom to worship fails at the ballot box",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7fe3bf8b3d6523ffba3c27c4be532e5bea3f2f4ac4eb9341b7a537c030e5a00d",
-    "title": "Poland’s Greatest Crisis Since 1989 Requires a Stronger U.S. Response",
-    "link": "https://www.fdd.org/analysis/policy-briefs/polands-greatest-crisis-since-1989-requires-a-stronger-u-s-response/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T19:11:35+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.147259+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Poland’s Greatest Crisis Since 1989 Requires a Stronger U.S. Response",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b418650da6e6ad0746c051375008dde2fc584f6c17c750415abaf4fdf8b3cda1",
-    "title": "Three Ways the New Democratic Congress Could Constrain Trump on Foreign Policy - Carnegie Endowment for International Peace",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEVwdWVrN3Y4OGpGbXhBYS1yZ2tMYXQyUlFUNzZkckdIcGQtaUlZV0R0dXZ4SkhmOGdnckZXYV9ubTdIUG11bjVlMnZVZ3p6VGQ2TDFzS1o5SGlFRlBPNFFJa0FTT0xRNmdUM1BkUTRmbS02UDBfSWxKQm5BNU8yQk5mNTc5TnVaMFFJQmdsZnFwdExNWHZocHlMTXY?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T19:04:51+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.402546+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Three Ways the New Democratic Congress Could Constrain Trump on Foreign Policy - Carnegie Endowment for International Peace",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4a3b698105c3cae11683f4cf319288ff90da4a01ed120877c3893712cae5802a",
-    "title": "Explainer: Five ways US foreign policy may change with a Democratic Congress - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUhtZlVMd1gzdC1DRkZpNUxiX0t5a2ZwVkl1UGdDcXFROFZ1UzcxSjB1bUNSVE1kaE53bG1hNVE3cktDVzNNN1lpUHFVdWo0V19pMG9mLTI2VnRjYWVFNFFGamdWaVBvVTdyRHZWczZ5Ul93UjJTaC10VW5ZbmxQcG94RllSVGpoX3BTeTdzMHpmRjZqSnZCYmQtQzlZS2RNS1Z0UVdqajhGdGdp?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T18:43:14+00:00",
-    "fetched_iso": "2026-11-05T09:58:25.016672+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Explainer: Five ways US foreign policy may change with a Democratic Congress - Reuters",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3b39b0726d4928dc1f0db276af894dc6a7460af1332203ba4949ffba30543498",
-    "title": "For Ukrainians, U.S. Midterm Results Bring Some Hope",
-    "link": "https://foreignpolicy.com/2026/11/04/us-midterms-democrats-ukraine-russia/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T18:41:21+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.083745+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "For Ukrainians, U.S. Midterm Results Bring Some Hope",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "51fa6d8e7bfc08ab8608abbafe75fe77561386695a8892c5c360808eb09d5e0d",
-    "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world.",
-    "link": "https://www.atlanticcouncil.org/dispatches/experts-react-democrats-just-swept-the-us-midterms-heres-what-it-means-for-the-world/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-04T18:27:39+00:00",
-    "fetched_iso": "2026-11-04T20:07:14.240203+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4581d677085cc7688866d0371a6e6221e374c8b22e01f9318c47f1d68c9ef397",
-    "title": "Trump Says U.S. Will End $4 Billion in Annual Israel Aid, but Existing Agreement and Congress Leave the Plan Unclear - finchannel",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON0xueWxZSjBidlZ1b2FtTVpqb2JvUjRVZVlsRXV0a2dwMy1PYjNEUlpzdGIycXQyTERJNjZtUUZsZWFLcGJkR0czZlhQak1wUWMyd1NqSFM3UU8yMWp1OGdNYmtyU1BuS0VFamNuTjB6MnNzTXdtWnZrbWVBcnZvRGJOV1lpUVdtQXc4TnZTeEE0U281VUZYdkdOaWtTLU10dE41MXVhVllRREN5UTM2bGlwc18wU1dJdzhHSUgzWUUxX1JPMkxxMXlfWU40bnZiWkJ0enNEZEJDR2t4ZWVoX1kxMWg3TUprYzdLRjBVNm9Fdw?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T18:12:47+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.684243+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump Says U.S. Will End $4 Billion in Annual Israel Aid, but Existing Agreement and Congress Leave the Plan Unclear - finchannel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4e2fc9f5d9f601341bd8e98749f5ea9ae4846b30dc244430c9433e8cd9c62b81",
-    "title": "Vance cites voter anger over Israel policy as reason for defeat - World Israel News",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkpuNnNFVEtrbS1abHc0N1JiZXB0UF9XM3g1QllzbWRqb1Rtenlvd2NMdFJuOU1DWnQxWjBzdW1ham0zamdSa1ZkU2taZDFsekNrOHlWLWd5VFh6LU0wZVpkUWYzdm9FUnQzUWVyYTlkcG1mYVhKaGtyeVRGd1d6ZjRQSGxDeEFVU0VXMTluWk1yaTlHRXc00gGcAUFVX3lxTE10eDhsS05abGxRTzVGcmJaMl9GVXlTakt1UHZFSk9BdkpINm1kX0ExSFdqNDdmMTdJRmg2akpGcFFwWVJrWUtXeEUzY2hsNlZ6cGNzTEdFVmVqaVMwVkpmREhDZUVIVVBXV2ZMY0VLcWhPOExpakNHeTRRMVpKS25WUHNGaS1RQ1AyQUNpYk0tRVJwMXk2c0pfYnlPSg?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T18:11:15+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.853234+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Vance cites voter anger over Israel policy as reason for defeat - World Israel News",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "45ef4a2283dca0112bb42158bcb880239968ce70f53b28854990db72f6341a48",
-    "title": "JD Vance blames Israel and Iran war for GOP’s crushing defeats",
-    "link": "https://forward.com/fast-forward/860573/jd-vance-blames-israel-and-iran-war-for-gops-crushing-defeats/",
-    "source": "The Forward",
-    "published_iso": "2026-11-04T18:05:04+00:00",
-    "fetched_iso": "2026-11-04T20:07:20.210045+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "JD Vance blames Israel and Iran war for GOP’s crushing defeats",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c301ba1a2011e3d350be4b6d012a9b6d7222abbceb172ea5dd91a1a63be24fc7",
-    "title": "Trump’s Next Trade War Could Be With Congress",
-    "link": "https://foreignpolicy.com/2026/11/04/midterms-democrats-trump-tariffs-trade-war-congress/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T18:02:50+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.223821+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump’s Next Trade War Could Be With Congress",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "79c9abc2d83975126a89525b79c6008d6ebef006edc9c38d336d534c8a47906b",
-    "title": "People used to have guests over often. Why do so few of us do that anymore?",
-    "link": "https://forward.com/yiddish/860531/people-used-to-have-guests-over-often-why-do-so-few-of-us-do-that-anymore/",
-    "source": "The Forward",
-    "published_iso": "2026-11-04T18:02:02+00:00",
-    "fetched_iso": "2026-11-04T20:07:20.400215+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "People used to have guests over often. Why do so few of us do that anymore?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b97cff550974bb8259ba94ed1cd3b7df88d5e14b92ac62b81df9b25f088405a7",
-    "title": "JD Vance blames Israel and Iran war for GOP’s crushing defeats",
-    "link": "https://www.jta.org/2026/11/04/politics/jd-vance-blames-israel-and-iran-war-for-gops-crushing-defeats",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-04T17:50:17+00:00",
-    "fetched_iso": "2026-11-04T20:07:18.838513+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "JD Vance blames Israel and Iran war for GOP’s crushing defeats",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "72a11df6050ea37417827efd24a90cbe5595750fb84f2a50e73dfd0370ba2c91",
-    "title": "Made in Lebanon: Social Media Account Tied to Pro-Hezbollah Media Backs French Protests",
-    "link": "https://www.fdd.org/analysis/made-in-lebanon-social-media-account-tied-to-pro-hezbollah-media-backs-french-protests/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T17:41:15+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.340590+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Made in Lebanon: Social Media Account Tied to Pro-Hezbollah Media Backs French Protests",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "56649564e9d5b8e4e531451ea213b55df672f202d78454e52cc5184324ef3de6",
-    "title": "AIPAC backs new US-Israel security talks, reaffirms aid support - World Israel News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3VLeVVlcHhaTWJBUUd5QUVQdm01M2tNYUhzTkdmZF9fNUNCbUlIazJOclZfdUVONHpvRG5fUGp2MjhLLTBUSllpQ1FKRDkzdmJoOU9tWEZkRnFQZmo4UFVFN0E1cW12NVZTYUFTZWxQQ0R0bGxUaUs1RlhvVndBcGY3YjV1d3YyNmhJNHdZT3dMV1BHeWfSAZsBQVVfeXFMTjlZR0NycHl4Wk9NeklaR212Z3ByYzE0QW4xLW5QLXJBM3NUU1FJUXhIRzh4Rm1VMXQ1SWhGUUxMNG14T1JjLXJqWkNMd28zS3hxWU9HSGlURnlnWlIwOVBIZUZCYzhoM2Q2aU1WUklPLUJvNEZGNVlxbUdYTHpyRzUyTkNLckFUZWc1Q21VLWpVdFprRDdTSC04bzA?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T17:38:09+00:00",
-    "fetched_iso": "2026-11-04T20:07:25.424007+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "AIPAC backs new US-Israel security talks, reaffirms aid support - World Israel News",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7912c337425a1e918b1ae004dac6340a49e1293c56d989bf2eef5df1f6d2b56d",
-    "title": "Vance Blames War in Iran, Israel Ties for GOP Midterm Loss - Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWUzRTRpenp3RV9naTFHdTVqQlJob2tVNy1nLWR6VWxDR1NKcWRDNXZRN0diT0dDXzBINGxEVmlDd1ZNLVVsSWtvVnNwTzZfTUFXZGdiNlF4R29adWdSOENhNUtjeE95QVBEWmtpUWlHdXFkdEJhd3c5X3h6UnZrV3ZPT2tMUjVGTFNpRl9xamc2VjhLZDJ4bzVFajFlcVBnZVZkcnpDbXVRRXhVamhEMEJOLXM?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T17:35:41+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.409003+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Vance Blames War in Iran, Israel Ties for GOP Midterm Loss - Bloomberg",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f395e8c9e53cfb71e4396072e47168f87a6242e4c5720e03088163fee4cd702a",
-    "title": "Pres. Trump announces plan to end $4 Billion in annual U.S. aid to Israel by year’s end - KERN Radio",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEJEcjNGTHZDVVdheU1wdURKekU1MkJVQThhdUpQeXlqYXYteFBtbHpSME9GeTJURFI0TDFWSkFlbjgtWDJ2RXkxRFllUER0ajRIdkF1QTB1bmtrOG5Tang1Y2w2TkNjU3ltdTRnUG4xT0wyaURNdVU0TVAzWG9QeHA2UWpBcHJmUV8wNFFhbnc2R0hYOENZZEVkMEd3dWZLUWcwSVNyWDlxa3p3TW5TSVJaWXg5TnlvZHNHMjNB?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T17:12:21+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.312834+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Pres. Trump announces plan to end $4 Billion in annual U.S. aid to Israel by year’s end - KERN Radio",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2dca190faa4ef8188ee4fcd8e00a1e80d3b2a71435a2f1f22e7618d3215640d4",
-    "title": "Mehdi Hasan tells Jewish advocates, lawmakers to ‘cry more’ after El-Sayed victory",
-    "link": "https://jewishinsider.com/2026/11/mehdi-hasan-jewish-advocates-lawmakers-cry-more-el-sayed-victory/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-04T16:56:49+00:00",
-    "fetched_iso": "2026-11-04T20:07:16.808023+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Mehdi Hasan tells Jewish advocates, lawmakers to ‘cry more’ after El-Sayed victory",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2f7ebac76f0dae1e723e540fa06ab85b607d4f7ba02e955ce528c500f96d4090",
-    "title": "Will Democratic leaders challenge US military ties to Israel? - The New Arab",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjlvWTdiamhVM1RPdzRmVlZwcWdyZHAxam9XeTNBQmkxR2liNmgycEo2OHVocGlsYW5qQW9nRFVsNy1SSVBsLU9LMERNOEhfY19yek5EN1pPZnVQbzY0N3lvSUoxQkRTcXptOUpFZTlLSDhabkI1OVMyeWlIdnlRanVIQzBYZE5ZRWF5bjM4MA?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T16:47:48+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.952008+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Will Democratic leaders challenge US military ties to Israel? - The New Arab",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1530fa497b62c1c271ef02888125189963f6ad5a006f1e414f2dc5706b43f485",
-    "title": "Vance blames GOP’s dismal midterm performance on Iran war, U.S.-Israel relationship",
-    "link": "https://jewishinsider.com/2026/11/vance-midterm-results-iran-war-israel-relationship/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-04T16:45:53+00:00",
-    "fetched_iso": "2026-11-04T20:07:16.910553+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Vance blames GOP’s dismal midterm performance on Iran war, U.S.-Israel relationship",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fde885efe3170cd9781aa78d866785794df832dbcb77f45ee0dea7f96edbeab0",
-    "title": "Beijing escalates Philippines row as Hegseth proposes U.S.-ASEAN defense framework to deter China",
-    "link": "https://www.fdd.org/in_the_news/beijing-escalates-philippines-row-as-hegseth-proposes-u-s-asean-defense-framework-to-deter-china/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T16:43:15+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.495582+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Beijing escalates Philippines row as Hegseth proposes U.S.-ASEAN defense framework to deter China",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c6270b3161bd726a8abcdadaf2f6e57c836e573e3b4acc1354ad0170997d84ce",
-    "title": "Democrats Win Control of Congress. Here’s How That Could Affect U.S. Foreign Policy. - Council on Foreign Relations",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzZKMkhBVFVPeU5mVkdPZ2JkYTIyajkzVVFMNnZ1Y0prUEpibWpMeEpiVVhBWnNqSkhRUVhsNGFVbmRvZHQ0akduR3V6ZlViaEtPZzdMMjg5emdwWW9SVnAxLTRsMFlERXFNbFhXM0paZnlDZ3N4aC1BY1dzYVBYa0hxUWE3d0lhaHJSMWNDOUpHOThvNWQ2ZGY2aS1SUFRGTDZsNGNVNC1XZkp4MGc?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T16:40:14+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.489101+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Democrats Win Control of Congress. Here’s How That Could Affect U.S. Foreign Policy. - Council on Foreign Relations",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ae32e5ff8b303992df1f1602bfbb94038b62d09e25bed3faa268303cac8fda36",
-    "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine - CNN",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmRtNUxIYTJJb2ZOaEtKMGMzbjRmX0hwSk5YNXpsbHdqSzluVW5udGFObGpuVnh1VGllcWVBdXlhZExtNlE0Mi1aY1V0MktvYkpCU3EwM0ZfS2d4Q0lNMGxrRG1kZzRYZEZoZkswS2Q0RGx6ZTczT3pkUXpCeV82VVZB?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T16:37:19+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.026292+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine - CNN",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ad2d014f305b3a40e8f29cec876735dafbbc9b4622f3cfbc36d1289ed023b56e",
-    "title": "Vance blames Iran war for midterm rout, says voters want new Israel policy - Türkiye Today",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkdLSEc4dGhpYVBieUFLTWRCSktmVHZ5RGRFa3Faa3NRaUpVbEpHaGJCcC1semh4TGNSUmRjRUFSei0tc0VXYVM3eVlQM2owYVQxTVZxcUE4NXhLb3dWS1lHMXRsNkxKeWRfeXJSZlBiN0IybzVTY2FQLWR3VzZKWlVaNWl3SDR1cmZPSzB6alMyeGN1cXhndGRMUTgwTUJNZmkwZDBtcVdNXzVXV28yT2lMQUd2LVU?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T16:34:44+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.768209+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Vance blames Iran war for midterm rout, says voters want new Israel policy - Türkiye Today",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "ff0ffd871ca00b15963fe4b7f1de7ac4f6daab9651c601e276a8d437d9756881",
-    "title": "DHS’s Ban on Chinese Biodata Firm Addresses Human Rights but not Bioweapon Threat",
-    "link": "https://www.fdd.org/analysis/policy-briefs/dhss-ban-on-chinese-biodata-firm-addresses-human-rights-but-not-bioweapon-threat/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T16:28:29+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.639560+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "DHS’s Ban on Chinese Biodata Firm Addresses Human Rights but not Bioweapon Threat",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c9eccff81c33a5b3365e5ac86bdaca8ab41e5dc20afebb85e828bc14c00efe96",
-    "title": "Israel Skeptics Flood Congress in Stinging Defeat for AIPAC - Newsweek",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckRWaDJQYlBQTmNCRWlGZzRsc3d3MERWWm91YkhYRGZJRkQ1dFBJZUszRjRkV2lkdDF3WmllbDNwOHRWMl85UTM0ZmQ4X0ZqdFBLcWFZTldSRXFIekJ4RHVoemRtNHY5ZnJ5VGdkeE9WWlZ3QWdIZEhNSFk2VFFKR3JQQUIxQnJmV1RTTURqOUE4eUw4RFc1TF9GYl82cXc?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-04T16:20:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:24.664687+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel Skeptics Flood Congress in Stinging Defeat for AIPAC - Newsweek",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "eadacee20cf9a206c03c637ceb276e855f44bab9b7ccf70cd51b4425ec74688c",
-    "title": "The midterms are done. Time for the fiscal clashes to begin.",
-    "link": "https://www.atlanticcouncil.org/blogs/econographics/the-midterms-are-done-time-for-the-fiscal-clashes-to-begin/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-04T15:58:24+00:00",
-    "fetched_iso": "2026-11-04T20:07:14.379366+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The midterms are done. Time for the fiscal clashes to begin.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f834505930a5b6066774cdd0c5203ecf80a0996cd7200cbb855e0607ae7f2260",
-    "title": "Israel’s Coalition Politics Are More Complicated Than Identity",
-    "link": "https://www.fdd.org/analysis/israels-coalition-politics-are-more-complicated-than-identity/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T15:52:41+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.801121+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel’s Coalition Politics Are More Complicated Than Identity",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fd402951742b1520683336b47b6bbb234b2bd689682e6da20d704ed2839e0a6b",
-    "title": "Canceled Briefings Underscore CISA’s Departure From Election Security Efforts",
-    "link": "https://www.fdd.org/analysis/canceled-briefings-underscore-cisas-departure-from-election-security-efforts/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T15:47:48+00:00",
-    "fetched_iso": "2026-11-04T20:07:12.915199+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Canceled Briefings Underscore CISA’s Departure From Election Security Efforts",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5f970498557723a9d6db9e5470e4967aa438d5af72ce73ad1011c60426ccc520",
-    "title": "A Turkish UN secretary-general would serve the Erdogan regime",
-    "link": "https://www.fdd.org/analysis/a-turkish-un-secretary-general-would-serve-the-erdogan-regime/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T15:29:44+00:00",
-    "fetched_iso": "2026-11-04T20:07:13.103970+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "A Turkish UN secretary-general would serve the Erdogan regime",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e87aa2d5d2716b8832f4616690ef9f4f5957c352faa59f7ee7496ae440ea6fb1",
-    "title": "Opinion | What Trump’s surprise Election Day comment on Israel reveals about 2028 - MS NOW",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IMS1zV1RMbW92dl9sVGpHQkdoa3gxeVRHQUFreW9zd2doT1hCZG4zR0I3UnhWQ3MwOW9wXzZRMmgtVTdWRkJjM2dzQk1vbUlZaUNjLUhJaDdyZWRYRS1KTTZUTVdDSXVEa1ZJb2dQQkpuTVd6VllVanV2aw?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T15:17:19+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.214662+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Opinion | What Trump’s surprise Election Day comment on Israel reveals about 2028 - MS NOW",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8f972e834425dce27ca612a0a5cc86cf99f657069b3bb91ece52d0af028b7c04",
-    "title": "Your Daily Phil: Mixed bag for U.S. Jews as Democrats sweep midterms",
-    "link": "https://ejewishphilanthropy.com/your-daily-phil-mixed-bag-for-u-s-jews-as-democrats-sweep-midterms/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-11-04T15:08:53+00:00",
-    "fetched_iso": "2026-11-04T20:07:21.952913+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Your Daily Phil: Mixed bag for U.S. Jews as Democrats sweep midterms",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9b7f98c9246710391a63db6e9a68bec17d8de691cff08d17f024acfe5a34b234",
-    "title": "US midterm elections: Three major challenges facing Israel - The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qVkRxeTVlM28xdUtGMmxQd05HTWFQbFAzUmdEMWg5YUxBdlp2cG5CcDFRNEx3aUF0c3dSTXFUR2NNTzV0ZkgtWVNGNm5CcmhORXQwQzhnZzEySmEtckd4MHVHaEQ?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T15:06:04+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.814138+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "US midterm elections: Three major challenges facing Israel - The Jerusalem Post",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "cdb54e38b98e99810b9c0d0baf7e627d73d684be1292f97bfdf7c783b6a20701",
-    "title": "Democrats won big. Curbing Trump's global agenda may prove tough - USA Today",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0ZSemxPaGZIaXdRUFJfejZKX3FxUXZIc0Uyb2JBWW5rZXFmVWxOZm9kbnJkNkRUM3NiWW42MDlQaVhGVUU3WWVKNmwyR0pyMTdpTDRBZWxyTVozc0hiN0Q2cVJGQjZpSGtTNEU3MWU1ODJqUzJ4WUVxQlNEMnNFTUVHbnZqcDBSLU5UVjMzQ1MzZTY3bTBuVng5b1JJZU5CNzUtNmVBUWVkbkVRNDM1ZEFjTDNYWUJiUjMtdHFwVQ?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T14:27:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.759352+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Democrats won big. Curbing Trump's global agenda may prove tough - USA Today",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "dac097814ed3babc09a8e1708e0e690bf3813514ee606f537433f27e8e0d8f9b",
-    "title": "Where Democrats Can Thwart Trump’s Foreign Policy",
-    "link": "https://foreignpolicy.com/2026/11/04/midterm-election-results-democrats-congress-trump-iran-war-oversight/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T14:23:05+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.358869+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Where Democrats Can Thwart Trump’s Foreign Policy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "51c2f7fe8abedae2b14c917740142595345019cd289e03ab7a4115693e9b8038",
-    "title": "Trump Says US Aid to Israel Will Stop at the End of the Year - Philadelphia Jewish Exponent",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkVMYVUtcXNIZnlLcmsyWlU1MjU3Wl9ScnB0S2I2dHctSzJpVVV3ZnBEZFV2d1paeDMtdmRrQlZodGR6U1djcXdaY2ZYUGM0aG9uR1RBb2JCMGxmY0FxbTNGakxPVGw2MjNoZXJDQXVKQ1BZeENlSGNnNnZlX2p5Z0JZVGoyVFRsWU1UQ3hDRUgydw?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T14:21:11+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.118947+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump Says US Aid to Israel Will Stop at the End of the Year - Philadelphia Jewish Exponent",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c3ce41c8cb5fd5e66beceaaac94b4711baef67c38702245ac7757f92dc89565e",
-    "title": "U.S. Democracy Is Back—Sort of",
-    "link": "https://foreignpolicy.com/2026/11/04/election-trump-democrats-congress-senate-house-vote/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T14:18:01+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.548662+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "U.S. Democracy Is Back—Sort of",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "634efb4c3acf20db5a904d17c750e4fb1bf19e74193571ae98eb0357ad291654",
-    "title": "France is burning",
-    "link": "https://www.fdd.org/analysis/france-is-burning/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T14:10:23+00:00",
-    "fetched_iso": "2026-11-04T20:07:13.230284+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "France is burning",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f5a9c01e72669809f23e438b23438b1711c4d618352aebbddb370bfebb0cf02f",
-    "title": "Why Trump just won his third term - www.israelhayom.com",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEYza182ZzNNQkxrZWR3S1E5WXBWc3g2NENLdUVZNGJ3enlZOXdyWnRvaGVNYjZrRnVubUdfcXJPNHdIXzQzdmJjelM2MHgwNmd6N2J4eExNTzN2YTRYcHNfb0xKVEdnTi1DdUROUktpbm1HQ2NWZ0lDR0xSUlRrbVFXTU4wX1BocDJFdEUtTQ?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T14:05:31+00:00",
-    "fetched_iso": "2026-11-04T20:07:23.493292+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Why Trump just won his third term - www.israelhayom.com",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "78fd5b446916260eaba0c4043b8de38a3d0f4555e3005e0e80d610c010c4f119",
-    "title": "Targeting Iran’s Repression Apparatus",
-    "link": "https://www.fdd.org/analysis/targeting-irans-repression-apparatus/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T14:00:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:13.405534+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Targeting Iran’s Repression Apparatus",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "aeb6f5d060a58ca61a312a32730cf7b8a4ee1211dd90f3d68b6c079b7a91d98c",
-    "title": "Iran’s Civic Movement Regains Momentum, but the Regime’s Repression Apparatus Endures",
-    "link": "https://www.fdd.org/analysis/irans-civic-movement-regains-momentum-but-the-regimes-repression-apparatus-endures/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-04T14:00:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:13.530704+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Iran’s Civic Movement Regains Momentum, but the Regime’s Repression Apparatus Endures",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3ba1e410989e919a005f3766376ea49937f3b0a3e25223c91954488ff3c5e66b",
-    "title": "Philanthropy’s missing line item: A way back after honest failure",
-    "link": "https://ejewishphilanthropy.com/philanthropys-missing-line-item-a-way-back-after-honest-failure/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-11-04T14:00:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.042567+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Philanthropy’s missing line item: A way back after honest failure",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3098db2ff2565fa05b722a2821091d450fcade55fae98f0d30c0b2d4118f9c7e",
-    "title": "Inside the Democrats' Plans to Take On Trump - Time Magazine",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sNDRNQTFDWDloMEVpWWN0U3duMVlQWDlmdkpkczB3V0kxX1dncjdtNU5SMGliaW9NcUpYRGUwX3N1bTdNa1VUejVSOHcxQXZ5b01jSzZSSUFtZGRhT1dVblhkLVpjamFRd1U2Qy1B?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T13:34:52+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.577929+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Inside the Democrats' Plans to Take On Trump - Time Magazine",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "71376a1acbecf3526ec118498ab2149a59a54ddaa035e8bd2a3f888ce9456ae0",
-    "title": "JNF-USA rakes in $192M as CEO Robinson bets against ‘oy vey’ fundraising",
-    "link": "https://ejewishphilanthropy.com/jnf-usa-rakes-in-192m-as-ceo-robinson-bets-against-oy-vey-fundraising/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-11-04T13:10:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.127699+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "JNF-USA rakes in $192M as CEO Robinson bets against ‘oy vey’ fundraising",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4b64b5d4240c493a67a2386bb78bc4bb749f238ced6622336d987e8cf0769a5d",
-    "title": "‘A time to laugh, a time to weep’: Midterms offer U.S. Jews a mixed bag",
-    "link": "https://ejewishphilanthropy.com/a-time-to-laugh-a-time-to-weep-midterms-offer-u-s-jews-a-mixed-bag/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-11-04T12:56:59+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.223856+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘A time to laugh, a time to weep’: Midterms offer U.S. Jews a mixed bag",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "62920bb278dbb37056469de3e33d248246bc391b7416ed5f4ce9dc8f0f2dcfa4",
-    "title": "Republicans get the midterm blues",
-    "link": "https://jewishinsider.com/2026/11/daily-kickoff-republicans-get-midterm-blues/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-04T12:47:20+00:00",
-    "fetched_iso": "2026-11-04T20:07:17.022255+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Republicans get the midterm blues",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1bab2be8bf15c09789080842509436950dfcd37bffb0a1404a150d815102a7a8",
-    "title": "Democrats Have a Historic Opportunity to Rethink Capitalism",
-    "link": "https://foreignpolicy.com/2026/11/04/midterm-elections-progressive-democratic-socialism-us-capitalism/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T12:47:12+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.664485+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Democrats Have a Historic Opportunity to Rethink Capitalism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "70227b72429b1b9c28c24fe63b91e695e1daa11047756d5a469fce133c433937",
-    "title": "The Beginning of the End of Trumpism",
-    "link": "https://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-04T12:43:00+00:00",
-    "fetched_iso": "2026-11-04T20:07:15.819992+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Beginning of the End of Trumpism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "2795cdc0049134f3ab47e55116a90c1ea96fb6f440f1596df86afe74d63ca6f2",
-    "title": "The world is reacting to the Democrats' sweeping midterm elections victory - NPR",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTU1qeFYyMUhPLTQ4YzlqSzd4UUxSZk1DSVF2UmthS1BkeFJWb1ByUzQ4MFhySUJWRkJpM1hDZmhmUm5KdjI5NzBXQkpXWXNTR2V5VVdvRlZKYUdlZ2E2dnVJNDVKQS1UemRyRmVFSF9Vc2FvRERReWhQV0V4U19Xag?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T12:34:35+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.866218+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The world is reacting to the Democrats' sweeping midterm elections victory - NPR",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "82ff6d69b12a86e272965a7b574f44ea9dd4a6ce90a12cb3b825a4b926d32480",
-    "title": "Pres. Trump announces plan to end $4 Billion in annual U.S. aid to Israel by year’s end - KWXX - Hawaii",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHFrSHhmd2t4QXlPSmNNeW5ZcDZWNVFnWkhJTTVKLUxuVGU0M1BqZzgwRzZHM2NxMWJxSFkwNi1iU05hTjVXZ2p6TnAtcDExRGY5Q3liaU4tWGdaQ0xZVklBa01rUlptNlpBb1l3c1U1M0Q2MVQxaEVTOGtWTWl3amwwTjNTNmQyenhYN3huYXBNYWlLQzFDTGUyQVhKQmIzVGdFdUE2MFo1bUhQamVhOFJJU09fTTA?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T12:23:54+00:00",
-    "fetched_iso": "2026-11-05T09:58:24.970087+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Pres. Trump announces plan to end $4 Billion in annual U.S. aid to Israel by year’s end - KWXX - Hawaii",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d51a342010672fd583c5197c5b1a07e0e811744779e15882ae9a749d5288eee9",
-    "title": "Israeli media warn of fallout from Democrats’ takeover of US Congress - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjFyMU9OS0JhT3JkRmxLQms0SUh0SWRXVktwLTFzRE41V0JmWGE0RTQtOE1DU3hCdnJtMmhBVFRSOFI4U0FENnZOM2dsZktFdU8tQm9MUWR0b2FfWmtCUFhzV1NTY1pjV1JWcnEtd3JOY2NHVFVrQ0k3eVVldmJSLUlzMmV3aXZEUFJsaXVROGptYzVDS04xN0FVOXpSNGtiQzRxREgzekhMSmdhdUFzSTBhTEM?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-04T11:57:17+00:00",
-    "fetched_iso": "2026-11-04T20:07:22.668006+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israeli media warn of fallout from Democrats’ takeover of US Congress - Anadolu Ajansı",
     "implications": [
       "Analysis temporarily unavailable."
     ]
