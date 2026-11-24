@@ -1,5 +1,621 @@
 [
   {
+    "url_hash": "bff902431428de449451ade354eb0d7b214d11da3841d92cf2bf3569c71442e9",
+    "title": "Gov. Pritzker opts not to enroll Illinois in federal education tax credit",
+    "link": "https://jewishinsider.com/2026/11/gov-pritzker-opts-not-to-enroll-illinois-in-federal-education-tax-credit/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-24T22:36:01+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.680976+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Gov. Pritzker opts not to enroll Illinois in federal education tax credit",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "60e19e1fb4e3187f9ad442c35f7aaa47f80fdfb3220db5604f4ea2f40f4efa70",
+    "title": "Katz’s chemical weapons warning",
+    "link": "https://jewishinsider.com/2026/11/katzs-chemical-weapons-warning/",
+    "source": "Jewish Insider",
+    "published_iso": "2026-11-24T22:25:30+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.820073+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Katz’s chemical weapons warning",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "bb817ccbbf11df94de66bdb74c8b14fda8d000339b383fc5713c832f76504362",
+    "title": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
+    "link": "https://www.atlanticcouncil.org/dispatches/huang-is-back-at-nvidia-but-the-fight-over-who-controls-chip-exports-is-just-beginning/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T22:16:58+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.694136+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Huang is back at Nvidia. But the fight over who controls chip exports is just beginning.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "1824c70582f12b88553d2148f92c29b09d1b8cb25a5910b65ed5c70fc437186b",
+    "title": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
+    "link": "https://www.atlanticcouncil.org/dispatches/the-coast-guard-offers-a-model-for-defending-us-critical-infrastructure-against-cyberattacks/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T22:10:17+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.845631+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Coast Guard offers a model for defending US critical infrastructure against cyberattacks",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4254db77608681ca6acc4c9b26334f82d0fd2da3c5de3a51d408b50174aa9b2a",
+    "title": "What’s Holding Up Ukraine’s Air Defense?",
+    "link": "https://foreignpolicy.com/2026/11/24/ukraine-patriot-missiles-trump-hegseth-delay-china-purge-chen-jining/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T22:00:34+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.168894+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What’s Holding Up Ukraine’s Air Defense?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ac25336c5e211566a691c051dd6fe7f51696e31d9a4595603de6cb582c81a608",
+    "title": "Long Island man arrested for an alleged $36M scheme involving the Orthodox community",
+    "link": "https://www.jta.org/2026/11/24/ny/long-island-man-arrested-for-an-alleged-36m-scheme-involving-the-orthodox-community",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-24T22:00:00+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.977049+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Long Island man arrested for an alleged $36M scheme involving the Orthodox community",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "abc55da4ed830bda1ebf8aee69797af3ff631e0d86433f74ea71eebb58bc4adf",
+    "title": "Ukraine is now a drone superpower at sea, on land, and in the air",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-is-now-a-drone-superpower-at-sea-on-land-and-in-the-air/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T21:57:49+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.038662+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Ukraine is now a drone superpower at sea, on land, and in the air",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0ebe506e3a79fe6dfffce68a6f94d77fc800b90695b5fa74a6e32937101228c2",
+    "title": "Al Gore to purchase his hometown newspaper - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWNvS3JFRTZMMlFYb29LMDhOVFY4Y0RyMmo4WF95UEhRdnhkNG85Zkl4WmJxWkNScF9YQmM5SG9YZmQ0bXR3SDBsQi1QdDQ5dktGWDB2R0htV0hXQ2w2Q0hocXF0VGI0OTR2QmpISzB6NTlmZUk5NWpfLUViMFRLMDdaSXdNS2doQjBBS1kxc0o5MUREQnc?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T21:56:23+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.771544+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Al Gore to purchase his hometown newspaper - The Washington Post",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ab34d5ae2423271ea5a6a2bc640ed2a89c4f81c70597258f228188761ca498d0",
+    "title": "Israel kills Hamas internal security chief in Gaza - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPay0yd3Uza29STzRjVUJyMkdYQ21jRUY4SjA1MnZ4cGExdkNGeEEya2RoY0dkbDNlZV9iSzVOQlpoLUxyWFFxUjRINWt5dnd3NTZpR0YySURVZWhmOWtDeVU5WlNuZFdPYzNzdko0X0ZTbjFySEl5eXhjSkZrUlVZdWpFaHpKX0RLNUpUSzNJcnFob1BNWFNGeko5UzA?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T21:49:34+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.514748+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel kills Hamas internal security chief in Gaza - The Washington Post",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "77e7ff4ff3a6ee61f334ace59ea85741ffcc8414a9135e886d2d9b9c77be38e0",
+    "title": "Unusually broad group of Sephardic leaders hold White House meeting - JNS",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2pULW5oakZMUGExY2pPRUNubXNVN2pvTW1tdE5DdmFmTHVWdG1Hd2d2RjRTUXB4amVqa0MzQ2JQYlF4RzZ1cVJEOTJ5cUFKUlRUSEdiLWdvMUVqajRRNVlaYnV1aXJ1MGQ0RlY5YWFTQ1FDQmw0YTB1NFdpbm5kc2FCM0E4ZFJSUUQ3SkxUQzduSVR5VkxBd0h3dHAyVTltRmt3?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T21:47:24+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.922451+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Unusually broad group of Sephardic leaders hold White House meeting - JNS",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fcdb56d2143da2eb023cc1ced96a8c90581613afe70a3879617255493013f17a",
+    "title": "Trump pardons turkeys on new White House helipad - The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVFnc3FBZmNjX212dU5seWJ4SkdHcXREV21RZDJwdVZmclJFaUQtM0l4Q1BHc1ZWZi12TlhGSF9hemNCSU1ZcUNQem03QjhveGkwSFZMNGFrMTlOR0JZLW5Cam40bUJ6SF9tZGJOSWtpWE1NTVJwV3Q5MTlaX3ZJYXFHOVRGZWM4WFNYSnVMeU1UODBLLWMwNUctRkcyUQ?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T21:29:58+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.172948+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Trump pardons turkeys on new White House helipad - The Washington Post",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a898207fbed3a00544d88fefa66e58db4237084d720330c5f70b7912648c6e09",
+    "title": "Inside the effort to stop the tech brain drain from Israel’s desert city",
+    "link": "https://www.jta.org/2026/11/24/israel/tech-jobs-ben-gurion-university-beersheba",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-24T21:21:56+00:00",
+    "fetched_iso": "2026-11-24T22:56:00.150296+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Inside the effort to stop the tech brain drain from Israel’s desert city",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ae5653def4261c611440a7637f352b43fd129a05d2b1a9e07e936fa0755980af",
+    "title": "Anti-Corruption Efforts Remain Weak Despite First U.S. Foreign Extortion Prosecution",
+    "link": "https://www.fdd.org/analysis/anti-corruption-efforts-remain-weak-despite-first-u-s-foreign-extortion-prosecution/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T20:52:35+00:00",
+    "fetched_iso": "2026-11-24T22:55:55.251048+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Anti-Corruption Efforts Remain Weak Despite First U.S. Foreign Extortion Prosecution",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f02f8da07973738ec8e65e8740280355bf5865ec799bd69c65376799f330dfa9",
+    "title": "Tech Giants Are Effectively Ungovernable. Here’s How to Change That.",
+    "link": "https://foreignpolicy.com/2026/11/24/nvidia-jensen-huang-return-tech-ai-industry-trump-us-corporate-oversight/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T20:52:13+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.306744+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tech Giants Are Effectively Ungovernable. Here’s How to Change That.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e1b2b4ff40d9c7bc744ad16efca02e5bc7115aaf6f533a991047d97c04ffc4fd",
+    "title": "Washington Must Pay Its Arrears to the Global Chemical Weapons Watchdog",
+    "link": "https://www.fdd.org/analysis/washington-must-pay-its-arrears-to-the-global-chemical-weapons-watchdog/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T20:47:56+00:00",
+    "fetched_iso": "2026-11-24T22:55:55.511618+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Washington Must Pay Its Arrears to the Global Chemical Weapons Watchdog",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "525cdff29e9fc3591840e6e67f6b02472691c68eac6cae5ce52b746e8e2bdf24",
+    "title": "What Did Xi Jinping Get From the Shenzhen Summit?",
+    "link": "https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T20:42:25+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.507272+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What Did Xi Jinping Get From the Shenzhen Summit?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "3039aea8e172ae1c5a58cac5eecc2364f57752f9f80a304f26025a6e82ad4f11",
+    "title": "Military aid to Israel may continue despite Trump’s Election Day promise to end it, Huckabee says",
+    "link": "https://forward.com/fast-forward/864799/military-aid-to-israel-may-continue-despite-trumps-election-day-promise-to-end-it-huckabee-says/",
+    "source": "The Forward",
+    "published_iso": "2026-11-24T20:40:02+00:00",
+    "fetched_iso": "2026-11-24T22:56:00.532726+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Military aid to Israel may continue despite Trump’s Election Day promise to end it, Huckabee says",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "d6ab95566b06a9ba64cd1e30bdfcef13e691970a4cd30730a52571719ae99ba0",
+    "title": "Before Egyptian patriotism and Zionism became opposites: The forgotten world of Mourad Farag",
+    "link": "https://fathomjournal.org/before-egyptian-patriotism-and-zionism-became-opposites-the-forgotten-world-of-mourad-farag/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-11-24T20:29:05+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.180480+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Before Egyptian patriotism and Zionism became opposites: The forgotten world of Mourad Farag",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e0e99dfb40316c4fb00e3c303546b552fb15f8f1dd26046ca0bf596d3b732213",
+    "title": "A Cage Goes in Search of a Bird: The A Priori of Antisemitism",
+    "link": "https://fathomjournal.org/a-cage-goes-in-search-of-a-bird-the-a-priori-of-antisemitism/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-11-24T20:27:49+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.355599+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "A Cage Goes in Search of a Bird: The A Priori of Antisemitism",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5d836e266d6836760863f6cbb350374331cb99e64d59768a5f33c7cc5542384c",
+    "title": "Israel and Palestine do not need each other to be fake: Achieving historical continuity without historical monopoly",
+    "link": "https://fathomjournal.org/israel-and-palestine-do-not-need-each-other-to-be-fake-achieving-historical-continuity-without-historical-monopoly/",
+    "source": "Fathom Journal",
+    "published_iso": "2026-11-24T20:21:56+00:00",
+    "fetched_iso": "2026-11-24T22:55:59.508874+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel and Palestine do not need each other to be fake: Achieving historical continuity without historical monopoly",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a2fb034472ae0b68bfcf46db5248c1f19ebc737b122520ccc2114b31a83fc5e2",
+    "title": "The president and Congress must forge a common US strategy on Ukraine",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/president-and-congress-must-forge-a-common-us-strategy-on-ukraine/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T20:16:13+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.306368+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The president and Congress must forge a common US strategy on Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f79f4e597ac0f7a30123f835fc42443ed511dd798f790dfad40d6d1dde87e018",
+    "title": "What Congress can do about China’s support for Russia’s war",
+    "link": "https://www.atlanticcouncil.org/dispatches/what-congress-can-do-about-chinas-support-for-russias-war/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T20:07:39+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.465379+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What Congress can do about China’s support for Russia’s war",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f7db97861b6f12edb2b9ff485b89e07bd880630aa413dc8a25e40f85e67a2e96",
+    "title": "Serbia’s student revolution: can young reformers dismantle the old regime?",
+    "link": "https://www.fdd.org/in_the_news/serbias-student-revolution-can-young-reformers-dismantle-the-old-regime/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T19:59:39+00:00",
+    "fetched_iso": "2026-11-24T22:55:55.673247+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Serbia’s student revolution: can young reformers dismantle the old regime?",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "333020e72e87ea8d7258f4ac0c10e96e4e8412ec3beefece2deafa81a938e3eb",
+    "title": "Huckabee: Military aid to Israel may not yet stop despite Trump’s Election Day promise",
+    "link": "https://www.jta.org/2026/11/24/politics/huckabee-military-aid-to-israel-may-not-yet-stop-despite-trumps-election-day-promise",
+    "source": "JTA - Jewish Telegraphic Agency",
+    "published_iso": "2026-11-24T19:29:00+00:00",
+    "fetched_iso": "2026-11-24T22:56:00.315604+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Huckabee: Military aid to Israel may not yet stop despite Trump’s Election Day promise",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ad81c3c747813c27e0aa9c72de905a81fc5e92b331f4e98bb802b768ff595104",
+    "title": "Israel wants to jail a peace activist without trial. That should alarm American Jews.",
+    "link": "https://forward.com/opinion/864778/israel-mahdi-tunsi-detention-arab-activists/",
+    "source": "The Forward",
+    "published_iso": "2026-11-24T19:28:50+00:00",
+    "fetched_iso": "2026-11-24T22:56:00.704254+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Israel wants to jail a peace activist without trial. That should alarm American Jews.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "77df426402f8809f43c14ef92dbf9a3cbe5e11c0e14a02a764d02f86515f4234",
+    "title": "Editorial: Trump Can Sideline Vance, But Not His Argument - Philadelphia Jewish Exponent",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tS0FfWmNaR040dXJiQWliR1k5eDMzY2pIQTFja0h1NUxvRTJIMU5kZ1VOWGN0OGRMbHVSVXBoWkllVlJocDdPU1I3Q3Rfd0JfWkFCeDJRTzFiNzc5VjJSWU9zZWdpcW5qcV9JRVJUM3FUWGhzMmlfTEo4TUlRUQ?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T19:15:37+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.671237+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Editorial: Trump Can Sideline Vance, But Not His Argument - Philadelphia Jewish Exponent",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "17164e6a1d8ddb3cb64eda99ff7bc58df1cfb02c252db8ac420d1d5051eb0288",
+    "title": "The Rohingya genocide ruling faces a geopolitical test",
+    "link": "https://www.atlanticcouncil.org/dispatches/the-rohingya-genocide-ruling-faces-a-geopolitical-test/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T19:15:23+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.631962+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Rohingya genocide ruling faces a geopolitical test",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "85d249c78ef7feaf4a83496769db4b910a440fafe185fda52dad3fe9bc0f81c9",
+    "title": "Europe Steps Into the Breach on Ukraine",
+    "link": "https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T18:35:03+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.650057+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Europe Steps Into the Breach on Ukraine",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "e0d25f66ad7f59b89f4b3c95f3afc265692217ceb1a4560880da437c2e497a92",
+    "title": "Donald Trump position on Israel unchanged after Mike Huckabee questions aid decision - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Kd0xOa1p6QTBxUEtEcTI3cE9KSjdSZGFoWW0tLXBnd0paLXB0cC1OdnA3eE1tNTlpZmFBOVpZUDB0UDZTYmxZNGFWTGg1LXVxQmw3N3NwQkNtUzh5?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T17:30:36+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.324587+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Donald Trump position on Israel unchanged after Mike Huckabee questions aid decision - The Jerusalem Post",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "913a0784f1050f248f1c3abf838fee8eef5eb2593e340b13d9d23333db1f9f99",
+    "title": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
+    "link": "https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/governor-josh-shapiro-on-trump-iran-and-the-future-of-us-foreign-policy/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T17:29:01+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.812702+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Governor Josh Shapiro on Trump, Iran, and the future of US foreign policy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "09963fc8f5844e86b77d51697a6be402ee7381bd9c282f6056d39f067cafefb9",
+    "title": "Eisenkot nears government formation deadline, Hamas and other groups violate ceasefire 20 times Nov. 6–24",
+    "link": "https://www.fdd.org/analysis/eisenkot-nears-government-formation-deadline-hamas-and-other-groups-violate-ceasefire-20-times-nov-6-24/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T17:21:45+00:00",
+    "fetched_iso": "2026-11-24T22:55:55.870648+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Eisenkot nears government formation deadline, Hamas and other groups violate ceasefire 20 times Nov. 6–24",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "384e8b2e2e842c5233bcc1b36291d1369aa15d6b37e9548afaf060980c4329ab",
+    "title": "Risk and Reward Along Africa’s Red Sea Littoral",
+    "link": "https://foreignpolicy.com/2026/11/24/horn-africa-red-sea-littoral-eritrea-ethiopia-somalia-somaliland-puntland/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T17:15:00+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.818937+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Risk and Reward Along Africa’s Red Sea Littoral",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "340e8403c4fd9eb97ce646b0d877491dbe64b4021b45bc4c8b95659c8a3af81d",
+    "title": "Russia is coming for Ukraine’s bridges",
+    "link": "https://www.fdd.org/in_the_news/russia-is-coming-for-ukraines-bridges/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T17:11:42+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.082751+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Russia is coming for Ukraine’s bridges",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "a45c855557e22b779faf5a01e8303017cb530e46bb8f11d6038313a18860ab5e",
+    "title": "Baghdad and Iran-Backed Militias Narrowly Avoid Conflict Over Militia-Held Territory",
+    "link": "https://www.fdd.org/analysis/policy-briefs/baghdad-and-iran-backed-militias-narrowly-avoid-conflict-over-militia-held-territory/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T16:48:36+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.231415+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Baghdad and Iran-Backed Militias Narrowly Avoid Conflict Over Militia-Held Territory",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6679a676d1c3ced13e28aefa00a1b57fb1c608d5ab8f22be290b121648b5b483",
+    "title": "Dorothy Michaels, the woman Dustin Hoffman played in ‘Tootsie,’ might have thoughts about her alter ego’s new memoir",
+    "link": "https://forward.com/culture/film-tv/864355/dustin-hoffman-me-too-look-at-me-memoir-review-jewish-actor-dorothy-michaels-tootsie/",
+    "source": "The Forward",
+    "published_iso": "2026-11-24T16:16:39+00:00",
+    "fetched_iso": "2026-11-24T22:56:00.891483+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Dorothy Michaels, the woman Dustin Hoffman played in ‘Tootsie,’ might have thoughts about her alter ego’s new memoir",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "5b3e15f88d4c086c1cb72d8d1cc30eac132e91987d11f5f6d778dece554fa7f1",
+    "title": "Investigating Nvidia Just Shot Way Up on Dems’ Priority List - The New Republic",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMFdZYnU3WFJ0VXRTcl9zSTUwcDl6RU1GT3Bxa213aTBmUXhrMkh3MjF0bEtxa0JhYUloLWF4bVAtZFpzVUo3YjU1Z0dZN1ljOVVvNXRyRERmblhrcm1ybmVsVzJPTnVkMm10M01FaHNLc1VETndKX0l3?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T15:54:13+00:00",
+    "fetched_iso": "2026-11-24T22:56:03.094238+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Investigating Nvidia Just Shot Way Up on Dems’ Priority List - The New Republic",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "aa9a9cb0f33069ed1fba0da8f5af9eac270c6ba44c471991935233466b3d3315",
+    "title": "Investors, Trump are elated with Huang’s return to Nvidia. Lawmakers worry about national security.",
+    "link": "https://www.fdd.org/in_the_news/investors-trump-are-elated-with-huangs-return-to-nvidia-lawmakers-worry-about-national-security/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T15:40:42+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.393777+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Investors, Trump are elated with Huang’s return to Nvidia. Lawmakers worry about national security.",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "0a6c043c7736bd621c17d1c8b63fa28b89679a92670cb65af3c5c7072bbf763f",
+    "title": "To compete with China on technology, the United States must address data and trust deficits",
+    "link": "https://www.atlanticcouncil.org/blogs/geotech-cues/to-compete-with-china-on-technology-the-united-states-must-address-data-and-trust-deficits/",
+    "source": "Atlantic Council",
+    "published_iso": "2026-11-24T15:27:26+00:00",
+    "fetched_iso": "2026-11-24T22:55:57.993310+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "To compete with China on technology, the United States must address data and trust deficits",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "6d4ca08f467e430cffecb2be5799a62f6b4766abb578cb4ddb89c67c4e66f426",
+    "title": "Spinning Genocide",
+    "link": "https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/",
+    "source": "Foreign Policy Magazine",
+    "published_iso": "2026-11-24T15:20:55+00:00",
+    "fetched_iso": "2026-11-24T22:55:58.990303+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Spinning Genocide",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "93c8a65fa3bf981da4cba5f00d7d867a6a47e8ac11617936715c10c2f4324166",
+    "title": "Your Daily Phil: Tel Aviv confab explores brave new world of Israeli philanthropy",
+    "link": "https://ejewishphilanthropy.com/your-daily-phil-tel-aviv-confab-explores-brave-new-world-of-israeli-philanthropy/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-24T14:41:47+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.051687+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Your Daily Phil: Tel Aviv confab explores brave new world of Israeli philanthropy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "ecb07e345651fae98607b365fefe2bffc8b695c1f2e59bedb3554edc9a7b880f",
+    "title": "Stop telling your story and let your donors live it",
+    "link": "https://ejewishphilanthropy.com/stop-telling-your-story-and-let-your-donors-live-it/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-24T14:25:11+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.203724+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Stop telling your story and let your donors live it",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "f90feb65e3d0b56f0fd71303c7b112f4c1b34fca4453ec7569e265d93c384ed6",
+    "title": "The US-Israel Relationship Is Shifting. Not Nearly Enough. - Jacobin",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wUHliSkZCMG96RElTRWdScFhuWEVrSTVmVGpqTFJiWkRYRDh1clZZSG1VMlFvZzY4UjFFZU1TdFFqcGFobDVRcTFqbm83cGhTaTZvZmxlbjRNVE5zQjZfajhBeGs5NW5oWjQ3R0huZUw3Szg?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-11-24T13:48:08+00:00",
+    "fetched_iso": "2026-11-24T22:56:03.402086+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The US-Israel Relationship Is Shifting. Not Nearly Enough. - Jacobin",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "4ace6cc40ca8a28fdbe4fc6beda14aabf8adc0b0fae94de04604c98044f7afe3",
+    "title": "Tel Aviv civil society confab highlights new face of Israeli philanthropy",
+    "link": "https://ejewishphilanthropy.com/tel-aviv-civil-society-confab-highlights-new-face-of-israeli-philanthropy/",
+    "source": "eJewishPhilanthropy",
+    "published_iso": "2026-11-24T13:31:01+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.352096+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Tel Aviv civil society confab highlights new face of Israeli philanthropy",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "b9b73e0c3a46faac29e352156d26686bc9caad74dbb449a1eddd12829885ec2c",
+    "title": "What a Democratic Congress could mean for Trump’s Syria diplomacy - Arab News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkl5S2w4a1ZLQk5JY2pjVUR2cXZyMlI4THJYd3BOY1B1dkhwWGktLThFakNQcGR4YUJhdUJ5YzBlNjNncTdlZm96U240WGZ2Y3ZwNE5uZWkxXzlXT09NWTFJSlI5Z3hEenM4STJWMG1YU0ViUVdyNkJXV0RRZ0d3djVjbm1ELU1hUWU3c2YyQmx1cUFnZUJnVTZpYlA0R0dndzVBZXd0cWJJNmtLYVE?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T13:08:08+00:00",
+    "fetched_iso": "2026-11-24T22:56:01.887954+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "What a Democratic Congress could mean for Trump’s Syria diplomacy - Arab News",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
     "url_hash": "98d3ab93039c09b7f739c6f7daf369f07d9a20edaa6b3365064a2cde19203d32",
     "title": "Has Jensen Huang repented? A rabbi weighs in on his comeback",
     "link": "https://forward.com/news/864607/jensen-huang-nvidia-teshuva-rabbi/",
@@ -23,6 +639,34 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Gadi’s house of cards",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "09ea1da2c408d68917b1024f2bf569d3a2fcaaa75bf1521371a307a8e149e3ef",
+    "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing - Al Jazeera",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEhVQnRkbmtLRFFmMGVLdTFxbjRRQ08zcXdnRnpSUzVNVTR3cVJUYXpVNF91c3B6ZXJpZnEyT0s1WndYbWlhMENQMEVJcXhnQWdQQ2pnUkczYmRRRE5VQVRpeF80eTh6TjJud1FrVTloRzVzTXBIdFRXMDZjcTJpZkh2QzF2amRkT0hQejlOdDI2UWZzYXlkQ3NKSDVHWU5RVkJPM0JGaE7SAa4BQVVfeXFMTzVPN3JNRm5fSVlDaEp5WkxWZWIyQXgtb01LeTZtV001OFFwWkx0dGJDV0tsby1zVUpucWxNc3c0YkhmdVBPVGNZMFhrcDVoUWdFdVI3Y0FHcEFtSHdiUHdFbkpnT0FXLVc2Z2dRNWo3UUJBdVJVMENScVlWYWRJdER4TXQ4X0dLT1RzX3d4TUctNk80VGdIdTZZeXV5dTE4YlEwdGt1TDh0MDRQUVdR?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T11:37:12+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.500611+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The ‘eighth front’: Why Israel’s influence war in the US is failing - Al Jazeera",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "fca71371b370ad36fd594e287769c60eb7ae22fd4e00beb3a30883aeddd425ba",
+    "title": "Report: U.S.-Israel alliance delivers intelligence and missile-defense cooperation as U.S. support for aid declines - Tippah News",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXRmbjl6R1U0OGN5eDVrSzFXT1psNVZia1NPVlBnU2N2d0NMWnU1SVdaR1ZEdkVHblJtVlVMc0g0UXJOTGgwYXh2UnF6azA3aG5ZaWZLc2tKb1pLTHN5RUFDV1A5bU9pdEpkTEc2Q2c1X0ZmMDZINmxDdGlFWW10QW90a2VvQnRuM2RhUVBVRDhQbmhhRjh6am1FS3BSTXUyTnRzTUdyellMRjBsdTk5ZUh6SFFZbjM5RVFsUkJUMTRRZnBxTEdZUjZrNS13S0VRY1dQWkJ5cEJIOGtOOWpxbVRXNHg?oc=5",
+    "source": "Google News - US-Israel Defense Cooperation",
+    "published_iso": "2026-11-24T11:37:03+00:00",
+    "fetched_iso": "2026-11-24T22:56:03.535955+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Report: U.S.-Israel alliance delivers intelligence and missile-defense cooperation as U.S. support for aid declines - Tippah News",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -65,6 +709,20 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "What the US gets from Israel alliance as support for aid to the Jewish State erodes on left and right: report - Fox News",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "9d7f2fcf6c524d6cfabd3e30295a42e4111db33aaaabd7b8d9aa74111a36932a",
+    "title": "As Donald Trump stalls, Iran rebuilds and Israel faces growing threats - The Jerusalem Post",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVGRITkxYLXNYS3pqck1RenExaC0zWkNLMFA0LWJ6S2ViRVQ2U1kzdkM2eG9QbkNvX2pLbjhyZF9jaXl3RXhDd0daaXp4b2JqMEFWRmRsVDRsZGQ3VGRkRDZNSE9aMF95bVE?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T10:52:14+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.649876+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "As Donald Trump stalls, Iran rebuilds and Israel faces growing threats - The Jerusalem Post",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -163,6 +821,48 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "Bridge to Impact grants launch with goal of boosting innovation in Israel",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "df22a470585456a505efd44cfb9b82fa5e8cb20ecdc39adfc59728e3669d6834",
+    "title": "Kushner: Israeli policies risk turning country into international pariah, Netanyahu obstructs Gaza reconstruction - Middle East Monitor",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaTkzWlZvTkZuVXd4ZTh1cm1sLTQ0Q0RPX2FhOVJkbTB6ajBnMDA1aGE0bnc1ZjVkTjY0Q3RYZVVLalBxWEREWEk4eHl3V3ZvTjg0ckM4YjUta2E2QjF6R3dlMEU5VVZZLUU5bk5VWHJfdndnY3JtYzZtQTJZb0N1cVozWFdNcUpwbEdfX04tQ1BuN2lxT3RJcTRPWnkxNndxR2VSQnhpbmc2c0NyRmZvUlFoWE1KWVBOazVhYXdRSFlYWWFPOHV2WG9SZWV6cERjaWlwaFpnWXBTWVhVTHZKNVNxcTEzdVhVb3dr0gHwAUFVX3lxTFBNaWZXYUdCS3UxeE5FMHM5cy1oejlzR0I1anZscVBrWU05SFB1eENRT3Zpb1lxWnJVRjJhSENvajIwbDd4Q0xzRTE2Q0gwR3dHeTRiVVVxcHhkZ0xPQWdwdDR2LTVmQlpId2NHbDlZOXZkc01HRktJVkt2Ykp1R1ZSLW5IRktmaHN3SG1HVkMxWW9RWWJ1a1NVMTBkM3RQakttdjMxNE9mYkEtRXF4SUNpYVY3UXFXOWFVQ3hHT1IxZG84V2luXzBWeDFaWnhjOHc0NGYzZUVaQVJhNjc2V0UzUGRBdjVNOW13LUxGMEFaVw?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T07:23:00+00:00",
+    "fetched_iso": "2026-11-24T22:56:02.020514+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Kushner: Israeli policies risk turning country into international pariah, Netanyahu obstructs Gaza reconstruction - Middle East Monitor",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "61382b96ed43253f0c3cfd08df0ff77abc46b3fcf7091a5054f2b8837eb24ba1",
+    "title": "The Antisemitism Smear Is Wearing Thin - The American Conservative",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTZyZzFsRTBBYVZ4SXFiN2dJM3laQ0w1VUNzTzFGQlhFb1Uwd0J2VjhLZV9fb2FIcjhfYU9rcVc3Qm1qQkJyRUZJaG5ya2NTM3ZKanZWQlYxOXNjbUFCaG11SF9fMmt0cnZxX0RxVzdyRUJVclEwQTlwWXFIS0lsRzE2TVZKZw?oc=5",
+    "source": "Google News - White House & Israel",
+    "published_iso": "2026-11-24T05:01:00+00:00",
+    "fetched_iso": "2026-11-24T22:56:03.248596+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "The Antisemitism Smear Is Wearing Thin - The American Conservative",
+    "implications": [
+      "Analysis temporarily unavailable."
+    ]
+  },
+  {
+    "url_hash": "11345facd0b26cf0a58b282ea8afa02d00ad7ac69bb6f214b89d7c4e734d1bbd",
+    "title": "Without U.S. aid, Israel’s defense budget doesn’t add up",
+    "link": "https://www.fdd.org/in_the_news/without-u-s-aid-israels-defense-budget-doesnt-add-up/",
+    "source": "Foundation for Defense of Democracies (FDD)",
+    "published_iso": "2026-11-24T02:50:00+00:00",
+    "fetched_iso": "2026-11-24T22:55:56.534415+00:00",
+    "category": "Diplomacy & Regional Affairs",
+    "importance_score": 2,
+    "bluf": "Without U.S. aid, Israel’s defense budget doesn’t add up",
     "implications": [
       "Analysis temporarily unavailable."
     ]
@@ -10579,748 +11279,6 @@
     "category": "Diplomacy & Regional Affairs",
     "importance_score": 2,
     "bluf": "US senators urge removal of Israel provisions from defense act — Jerusalem Post - UA.NEWS",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "69b6fa9cced2bfe67699a6467df5bf80221a98aadfa8f324f63346ab624577cd",
-    "title": "Twelve US senators seek to block expanded defense and intelligence cooperation with Israel - The Jerusalem Post",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tZDhhNFdYR05mTXNka2VQckpodTQ2TDQzOUdqeDd5NEdwSWUzc2JuTl9Ua3NHVi1XVGxDdHQyRVlJbldUclBtRHdwNzFleUdxTTJ2TkluMUdCR3NRMC12QU5hMGk?oc=5",
-    "source": "Google News - NDAA / FMF / Title VI",
-    "published_iso": "2026-11-10T22:55:45+00:00",
-    "fetched_iso": "2026-11-11T09:56:15.235496+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Twelve US senators seek to block expanded defense and intelligence cooperation with Israel - The Jerusalem Post",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "1a1c794feb60785097f05a49f0430792f0606e3249c9b07a8ba740e5525cbf34",
-    "title": "Did China Play Jensen Huang?",
-    "link": "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unanswered-questions/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T22:55:16+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.818737+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Did China Play Jensen Huang?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d5b87e6dcb75c7b4f024de1d84acad5aff324bf4c1ba0f70aeb0eb8cd7104642",
-    "title": "Donald Trump actually faced a few tough questions on ’60 Minutes.’ So, why does Marine Le Pen get a pass?",
-    "link": "https://forward.com/opinion/862124/marine-le-pen-donald-trump-60-minutes-douthat-trevor-phillips/",
-    "source": "The Forward",
-    "published_iso": "2026-11-10T22:31:50+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.316574+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Donald Trump actually faced a few tough questions on ’60 Minutes.’ So, why does Marine Le Pen get a pass?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "411b0cf3188927d1ca6210fb93247aad9a665e75968939f81187927a0debe852",
-    "title": "Senate Dems call to nix Israel cooperation provision",
-    "link": "https://jewishinsider.com/2026/11/senate-dems-call-to-nix-israel-cooperation-provision/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T22:05:26+00:00",
-    "fetched_iso": "2026-11-11T09:56:15.672577+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Senate Dems call to nix Israel cooperation provision",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4edb7595aff77f281c29fa7097b5f1ac3801e24bf820ea47f176739d8dd62c0d",
-    "title": "‘Manhattan icon’ Stanley Zabar dies at 94",
-    "link": "https://www.jta.org/2026/11/10/ny/jessica-tisch-accepts-wjc-herzl-award-and-calls-for-courage-to-confront-anti-jewish-hate",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-10T22:03:54+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.010364+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘Manhattan icon’ Stanley Zabar dies at 94",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e75e93d9e0f2feb22c7266d5247570de0d0ad9bd09d84c76a03f6c1c0806cb17",
-    "title": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
-    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-new-drone-blitz-cuts-russian-oil-refining-capacity-by-30-percent/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-10T21:54:01+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.568695+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "90050e2ab89beaf1e0b1a5dcc7a80c9948decb79a87c875ef4027f4599629640",
-    "title": "To Disarm Hezbollah, Lebanon Need Only Enforce Its Own Laws",
-    "link": "https://www.fdd.org/analysis/to-disarm-hezbollah-lebanon-need-only-enforce-its-own-laws/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T21:50:27+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.303296+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "To Disarm Hezbollah, Lebanon Need Only Enforce Its Own Laws",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "86101c3196e01de39eb6c100bfb0c9154970f9da11200925e967e5208abe4ff3",
-    "title": "Van Hollen leads push to remove U.S.-Israel cooperation provisions from defense funding bill - Jewish Insider",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamJIbUY5S3RrR0VvdXRpN2tNVjN4cDJmOVJXekdjalZMcjhzZzNWR05SaTluZW81U19URTFIX3IySlZfbTM5QWM2QXc5N3ZUQjFBWGFRY2hvdnNwRUxqZFRwd3JnWC1MUFI4Nks1ZnBkcU9SdDVpUXhzNVJQYnU1WncwYmEyUWc5YjBpN0NLUi1xYWxzNzdySENaUG1xTDEtNDFyMDNRYTF1RVdKMW9BbXk3WXdhOXV4NENXZ291dUFqeTV0?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-10T21:43:33+00:00",
-    "fetched_iso": "2026-11-11T09:56:17.338917+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Van Hollen leads push to remove U.S.-Israel cooperation provisions from defense funding bill - Jewish Insider",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7fa28bc3b9350dd973069e627e64b1e9ded5d078af3e446c865ed2db92f06c59",
-    "title": "12 US Senators seek removal of provisions expanding defense cooperation with Israel - Anadolu Ajansı",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWluY3g1M0xMN0tWckh0dUNiVFpfRmduOXBZZXhQb1JOd21sZGJHaURnOUhuWXhtbGx4emFjSG50Y2c3Sms3NVVWVGs0ekxmX1ExUE4wTG9mZTJTWGNMNXQyMFBHQ3J2ZkNzS2lDd0VRd0dWUTBTT0xqbUlNemMtZF84VDlpX3l5bTlldUc2d3gtVTdaOC0wNGd3dEZtWjlHdTZkemFadGk1czlqTURoMzNUSk1FNVJnOUttTFJ3?oc=5",
-    "source": "Google News - US-Israel Defense Cooperation",
-    "published_iso": "2026-11-10T21:36:10+00:00",
-    "fetched_iso": "2026-11-11T09:56:17.423164+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "12 US Senators seek removal of provisions expanding defense cooperation with Israel - Anadolu Ajansı",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "856db18efc55851efa640f6474b813cf88a267c4d4f9f384c65ecb109d5f1166",
-    "title": "Van Hollen leads push to remove U.S.-Israel cooperation provisions from defense funding bill",
-    "link": "https://jewishinsider.com/2026/11/van-hollen-leads-push-to-remove-u-s-israel-cooperation-provisions-from-defense-funding-bill/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T21:32:20+00:00",
-    "fetched_iso": "2026-11-11T09:56:15.761424+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Van Hollen leads push to remove U.S.-Israel cooperation provisions from defense funding bill",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "247e19edfb3e2a38826a0b31003dfdffe4398d48de511723c5b07ac8bfafcb39",
-    "title": "Senior Democrats Urge Congress to Block Expanded Military Ties With Israel - Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONlRXRVpudXF6bjNpcXJIUThFNURfY253bFRtUWx4SEdWN1plYWltSmhsWURwd3JFd0RqTGF6TnFDMGV3RjZsYmhQb050ZVVfVURmWTNrY24zQ2dTeWNIcmNNX3JSRV8wMUxVdmdyX3ZZdDFqd1hYbVpHVHBtU1hVSEhpX2FMUUVwMTVqWHZlSjhJN0RHdHJoVTZvZnNiWlFxZkVaSS0xYzBNNGk4NEFZTlFaU0VfOWo1S1ozMWJTTEJjelJmUWtLNVBtT0NGSktSQ0VKRkFmOHpuSVRQZUlOc2g5UV9kZ1NlMkdMUThLSmM0QzU5VFkxSmJiUkNHNWpaWXFqWQ?oc=5",
-    "source": "Google News - Congress & Israel",
-    "published_iso": "2026-11-10T21:26:00+00:00",
-    "fetched_iso": "2026-11-11T09:56:17.068344+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Senior Democrats Urge Congress to Block Expanded Military Ties With Israel - Haaretz",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f140aeaa088fe87ec46628c4706d32c0344af40ff9a6d25f6f2b46a2080ede1f",
-    "title": "Europe sees surge in suspected Russian hybrid warfare incidents",
-    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/europe-sees-surge-in-suspected-russian-hybrid-warfare-incidents/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-10T21:17:23+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.648693+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Europe sees surge in suspected Russian hybrid warfare incidents",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7e632de2f9f1d693384f05950ffca939c68971dbe5f261f0a8c8d5b30f76c188",
-    "title": "Israel’s parliament sworn in as leaders scramble to form a government",
-    "link": "https://forward.com/fast-forward/862034/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government/",
-    "source": "The Forward",
-    "published_iso": "2026-11-10T21:11:24+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.405284+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel’s parliament sworn in as leaders scramble to form a government",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e90cfdd67471e860af97e1f616256ef4f3011aed55fe2c8fa9d143471ca87e5c",
-    "title": "Evan Gershkovich survived the terrors of prison in Putin’s Russia. Not every journalist was equally lucky.",
-    "link": "https://forward.com/culture/books/862016/evan-gershkovich-this-cursed-beautiful-land-russia-putin-jewish-memoir/",
-    "source": "The Forward",
-    "published_iso": "2026-11-10T21:03:56+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.497126+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Evan Gershkovich survived the terrors of prison in Putin’s Russia. Not every journalist was equally lucky.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "873c4900456ca02f32da371b070dadc89ed922d65f305c38b0f1a59f910e8bb0",
-    "title": "What Progressives Could Do on Israel",
-    "link": "https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T21:02:51+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.898926+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What Progressives Could Do on Israel",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "47a943b5cbeb6ccf7eeb1fb12c27ba2abf2c41eb08c8404dfe7d4d0c9dbb652f",
-    "title": "Philadelphia Jewish federation blasts Chris Rabb’s silence on bike protest",
-    "link": "https://jewishinsider.com/2026/11/philadelphia-jewish-federation-blasts-chris-rabbs-silence-on-bike-protest/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T20:53:16+00:00",
-    "fetched_iso": "2026-11-11T09:56:15.848275+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Philadelphia Jewish federation blasts Chris Rabb’s silence on bike protest",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "aeb3398a290d2a3f44e2703441fe7ec703af2a726048f79901ef4be70c1add2c",
-    "title": "The Larry David bar mitzvah story that his biographer left out",
-    "link": "https://forward.com/culture/862055/larry-david-emperor-of-nothing-biography-blake-harris/",
-    "source": "The Forward",
-    "published_iso": "2026-11-10T20:45:52+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.573676+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Larry David bar mitzvah story that his biographer left out",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3093d7b534b143ee869d28421d3e2e9c552d6f6438fd0e4832821fd525ac0a65",
-    "title": "Rep.-elect Adam Hamawy declines to call Iran a U.S. adversary in CNN interview",
-    "link": "https://jewishinsider.com/2026/11/adam-hamawy-declines-call-iran-us-adversary/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T20:44:11+00:00",
-    "fetched_iso": "2026-11-11T09:56:15.926338+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Rep.-elect Adam Hamawy declines to call Iran a U.S. adversary in CNN interview",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "84f5ef78dfa154a4914c0f408a10d250ffde75c78b5fc8224c4384bbfec2d4aa",
-    "title": "U.S.-Mediated Russia-Ukraine Talks Make Little Headway",
-    "link": "https://foreignpolicy.com/2026/11/10/us-russia-ukraine-peace-talks-progress-cease-fire-donbas/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T20:34:28+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.980797+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "U.S.-Mediated Russia-Ukraine Talks Make Little Headway",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "6d79ece39159fd7f307f9924ddc6a9ea49fbb4b01df02a957b33346247ff305e",
-    "title": "Kentucky's Attorney General Takes Fight Against Anti-Semitism on College Campuses to U.S. Supreme Court - 95.3 WIKI",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVHZReWk2MWRCODNFWkFVQWwySmdINnFDZVVFQndJakltRTVCZEhoaGFGYUhBX2lBbjRmVXUzUFpFWG9FbGRTdWJ2WXlEaGd1MzRub2dEZjNKLXNxX2pOTE9VcUphdUtEQ0dJMGRZb0QtZHpNTFhKQk9GaEpNajRlcHZiT0c1U0VCQ1hWV1VtZkxiV0Jvci1keXp0T19RamNlREVUUXd2a3JwX1VGVFFvSHEyb09fbGRXenQxcS1Bb2NNdnVMdzVGWUxQdlFtSGZ5MzEtb2ExZlR2UQ?oc=5",
-    "source": "Google News - US Antisemitism & Campus Affairs",
-    "published_iso": "2026-11-10T20:33:22+00:00",
-    "fetched_iso": "2026-11-11T09:56:17.159588+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Kentucky's Attorney General Takes Fight Against Anti-Semitism on College Campuses to U.S. Supreme Court - 95.3 WIKI",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "301ef35dbfa5b8aeb5ace7c109bf0c607d5f0f897c4b4b3adb8b2200ff9663de",
-    "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll - Al Jazeera",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ3NWVUx0bUZWN1Y5MUxkRG5ZWGF2VFVzOHhFa0NsQzJ3Z2ZoWGlmNUEtRGFfaVVvYXVCUHFaak41LXVBaDJRdkhMSThVTlc3c0JMQTVYTnVLTFpxR0RrSjA0WlVhNnVxc1lOU1ViWW1XLU9XSFotTFc2eUdvUzhWeTB4X0RLWUt1MmR3SGNzNzE2S1lQUUxTNmNPN2oyQkxDaEtpRFZnQ0pYSDdlSkpHaXl2WdIBuAFBVV95cUxQanlGTU44bUg3MEo0UmlQTFpGUFBhWDZ2VERBZThVNEZ2dnFQeWs5TTBpeVo5OGRNTUZhbkhYdTZDdEVibUxLenBpelZOb2g5aEVvQWpITTAxQ3pvMEh5WGwxWkVyYzA3N0RBMnNNd2tYNVFmY1JsSHk1TDU4MTRVcHVaUzBSNGo4eXEzd3pfc3V2SmhzRTRmXzlhMjFSRkxPeFVZR3N4LTBWTnowRzFLbndQUTBuZm55?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-10T20:31:11+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.977548+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "US voters want Democrats focused on ending Iran war, lowering costs: Poll - Al Jazeera",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8b4a3a06382306fd86b395eae5f2030fec7f8f06e12c384d31befe857724d3eb",
-    "title": "Jewish Democratic support weakened slightly in midterms: survey",
-    "link": "https://www.jta.org/2026/11/10/united-states/jewish-democratic-support-weakened-slightly-in-midterms-survey",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-10T20:28:18+00:00",
-    "fetched_iso": "2026-11-11T09:56:16.092167+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Jewish Democratic support weakened slightly in midterms: survey",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fdedbc26d430a07c1ff07bed2bc893a77ea675f5015896ee3cc1c8069b48f2af",
-    "title": "These Democrats Are Bringing a Christian Case Against Israel's War to Congress - Haaretz",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObkgwQTEzR3NmUzMyT2xKemk2Nzc2djNWaWRvblVYZVgtRVZEMUhhQldKVkRKN3JzUG1WUWVJb0t3d1VzVFZBTzNNVGRCV1YzaG5nMjRpNlhtTUxGanAwTC1hanoybHcxMEFXeXNNcV9DRjZmaUwxS2E2bE9KRHI5YUNLUUc1eVpfOW9nUGVQd3Y5RUoxMUVaYnVOUUpWV2IyZnpmNHNZZXRKNUJVUk5GTlRVaW85SUNZbXlwV0FLTEFqcXRuSjNPNzJQSUtlTVFBNUFQQVNzVmIyOVBWMldsWkhxU05WNG9DbEFKZ1ZkVkxyNEU2Vm5naFVBQzFCOGJoZ3ZWcXg1dEVFN0kzZVBWaGhPYUg?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-10T20:17:00+00:00",
-    "fetched_iso": "2026-11-11T19:54:36.566515+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "These Democrats Are Bringing a Christian Case Against Israel's War to Congress - Haaretz",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "cf84130a081b64f894339ec63a11fca7a1a17ea8a09446010e1810fe8a953ee8",
-    "title": "France blames IRGC for supermarket fridge cyberattack",
-    "link": "https://www.fdd.org/in_the_news/france-blames-irgc-for-supermarket-fridge-cyberattack/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T20:10:11+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.389923+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "France blames IRGC for supermarket fridge cyberattack",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "fcfabb8704d74648083ff4d66ee057d55e73fdfbca67734363ddd07c0e5cdc46",
-    "title": "Syria’s New Alliances Risk Embroiling It in New Conflicts",
-    "link": "https://www.fdd.org/analysis/policy-briefs/syrias-new-alliances-risk-embroiling-it-in-new-conflicts/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T20:10:05+00:00",
-    "fetched_iso": "2026-11-11T09:56:14.481481+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Syria’s New Alliances Risk Embroiling It in New Conflicts",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "3bfe6aa5874cb2f6dea2029547ae4015fd8190be78ec2d87bd50372a633d67bb",
-    "title": "Sigd: An Israeli Holiday and a Cultural Miracle - Jewish Policy Center",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1Z5YVFZLVRIdGFfejNXV0dRb0c1V25EeGFINzNNaEsyUjRGZUlQTmZrZGkxYUxEZG04SWVjOTNJVEhjOGtCdXBUaVd2ZS0waXFpVTBBVHhDaklLeWVZeU1TbUdjX25aX3p3Q0xPemFQZlVjbHlUOUdLSjRfclVwSGtsU1B3UDZkMmR0LUdYV1QxU1pnQ3NBdQ?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-10T19:43:04+00:00",
-    "fetched_iso": "2026-11-10T20:04:08.931906+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Sigd: An Israeli Holiday and a Cultural Miracle - Jewish Policy Center",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "01df36423a41920be706986e5e07b0db0eed718dfa4194adfda521cd02a773c5",
-    "title": "Israel’s parliament sworn in as leaders scramble to form a government",
-    "link": "https://www.jta.org/2026/11/10/israel/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-10T19:29:08+00:00",
-    "fetched_iso": "2026-11-10T20:04:07.408641+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Israel’s parliament sworn in as leaders scramble to form a government",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "4ba0ce35df29af1390c418cb669ce1214aac9f540284c946e0373125b81df65a",
-    "title": "Trump and Netanyahu Survive, but Their War Faces a Political Reckoning - Jakarta Globe",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmdtUGhtU0diYUkzNlVnck5jZHZsMC0zTTlVT3pOQ25ETjFvcmdUOW45UVBrV3B2SGtiQ3RMdFBLNXY1ZkNnVUJ1S0ltV0x6NnVXWDRhNjNPN2JWSHdoY0JVMXlXTXRpOXA4YnVvT2x6QzMyME45TGZWY2RacEM3a0xHcjlhdTR1dFlMUDkzZFpVNHRoM3JvcnMxV2tRUVZTY2E0?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-10T19:27:00+00:00",
-    "fetched_iso": "2026-11-10T20:04:09.354433+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump and Netanyahu Survive, but Their War Faces a Political Reckoning - Jakarta Globe",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0220224c15a94ccab3583a1c0f9954541c22d6d2ea80726f04a49d4a21f97855",
-    "title": "There’s Never a New Middle East",
-    "link": "https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T19:21:20+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.926415+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "There’s Never a New Middle East",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "7c580ea0720fd40e897aad9998917d450c6131fd6f9650c553db355c6e4c404a",
-    "title": "Museum cancels Amersfoort Synagogue’s tricentennial celebration over Israel tensions",
-    "link": "https://www.jta.org/2026/11/10/culture/museum-cancels-amersfoort-synagogues-tricentennial-celebration-over-israel-tensions",
-    "source": "JTA - Jewish Telegraphic Agency",
-    "published_iso": "2026-11-10T19:15:41+00:00",
-    "fetched_iso": "2026-11-10T20:04:07.572908+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Museum cancels Amersfoort Synagogue’s tricentennial celebration over Israel tensions",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d8089ace49c29929289a4ea5ca41c2677c046005421a50a6d1847d84e40c9a2a",
-    "title": "Trump’s ‘golden fleet’ battleships and missile dome are on life support after midterm losses",
-    "link": "https://www.fdd.org/in_the_news/quotes/trumps-golden-fleet-battleships-and-missile-dome-are-on-life-support-after-midterm-losses/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T19:14:45+00:00",
-    "fetched_iso": "2026-11-10T20:04:04.239138+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump’s ‘golden fleet’ battleships and missile dome are on life support after midterm losses",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e633e9a9c2d9ce89e212ba895b88df4ad6e1c3bbcf8e5d89f5dafc3f2442cacf",
-    "title": "Trump lost the midterms. Did Iran win?",
-    "link": "https://www.fdd.org/in_the_news/quotes/trump-lost-the-midterms-did-iran-win/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T19:13:57+00:00",
-    "fetched_iso": "2026-11-10T20:04:04.438695+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Trump lost the midterms. Did Iran win?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a6025ac4c6a4f46062ecf8564a3e407bb9b64d0f5358abb157a0d544293295ea",
-    "title": "Your Daily Phil: Lipstadt’s new geometry on antisemitism",
-    "link": "https://ejewishphilanthropy.com/your-daily-phil-lipstadts-new-geometry-on-antisemitism/",
-    "source": "eJewishPhilanthropy",
-    "published_iso": "2026-11-10T19:05:47+00:00",
-    "fetched_iso": "2026-11-10T20:04:08.273950+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Your Daily Phil: Lipstadt’s new geometry on antisemitism",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "d75a737bd3a8cb9eae6fd7a2bd92b6dbc4b4bcae4c0dcb741ff3e4be3d379b09",
-    "title": "France on edge after fourth weekend of protests",
-    "link": "https://www.fdd.org/in_the_news/france-on-edge-after-fourth-weekend-of-protests/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T18:55:45+00:00",
-    "fetched_iso": "2026-11-10T20:04:04.625047+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "France on edge after fourth weekend of protests",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "30b755140d08164a00ac7fdd579f559e74e75b168584d24a13d68f2a984a2af8",
-    "title": "David Axelrod downplays DSA ascendance within Democratic Party",
-    "link": "https://jewishinsider.com/2026/11/david-axelrod-democratic-socialists-america-eliana-johnson/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T18:22:05+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.763071+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "David Axelrod downplays DSA ascendance within Democratic Party",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "eba381777294d44ad18a288ce7eae7d3fae7dcaf6196ae88f62b3b2969176eb0",
-    "title": "Hezbollah reportedly rebuilding networks in southern Lebanon pilot zones",
-    "link": "https://www.fdd.org/analysis/hezbollah-reportedly-rebuilding-networks-in-southern-lebanon-pilot-zones/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T18:18:10+00:00",
-    "fetched_iso": "2026-11-10T20:04:04.741323+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Hezbollah reportedly rebuilding networks in southern Lebanon pilot zones",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "44bb8922c519fc437900b144c9f45e5c36d64879aa188ff3963a2c88330dd2e2",
-    "title": "Attack targets Khor Mor gas field in Iraqi Kurdistan",
-    "link": "https://www.fdd.org/analysis/attack-targets-khor-mor-gas-field-in-iraqi-kurdistan/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T18:15:14+00:00",
-    "fetched_iso": "2026-11-10T20:04:04.931285+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Attack targets Khor Mor gas field in Iraqi Kurdistan",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "543ff09c9942036f8102eeaa22a91a6caa2ef7c8396c499a60dd1bc37f2811ee",
-    "title": "What’s Next for Iran? [Video] - Foreign Policy",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0kwaWIzZ3BITmZWN1pOUExMbUxxUnpqeWMyUGdIbU5vUFA5SDBKdWFxa1d4NVUwSDM2SDlmdjBhbWp5b1RFLWFVa0RjSUxWLWVPcmdSZFUwYXV0M251UmNTSjlRMVN4WkIzOEhYS0NfakRocjBuOGNVdEZOYjMySzJLemRiZ0ExQkhrZHFHLW1QNUxHQ0Fr?oc=5",
-    "source": "Google News - White House & Israel",
-    "published_iso": "2026-11-10T17:53:23+00:00",
-    "fetched_iso": "2026-11-10T20:04:09.144888+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What’s Next for Iran? [Video] - Foreign Policy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "0ad691afd411d93945f58f88a3df0dde3cd2e01370369d7ff584bc96e8acb69c",
-    "title": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift",
-    "link": "https://www.atlanticcouncil.org/inflection-points-with-frederick-kempe/nick-clegg-on-trumo-silicon-valley-and-big-techs-political-shift/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-10T17:26:19+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.591483+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Nick Clegg on Trump, Silicon Valley, and Big Tech’s political shift",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "8043de36198c4062ad0b6eadf83fb8ea0e3e83c89aab413a7a95877aa7cf45e3",
-    "title": "‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment",
-    "link": "https://foreignpolicy.com/2026/11/10/hegseth-speech-impeachment-transcript-pentagon-full-text/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T16:59:05+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.034693+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "208d0088802a0d68a9a6de039e781fa21fb54c97e365efd1ac3a63cf2525fdf8",
-    "title": "‘Endless wars’ is a catchy phrase, not a reason to shift policy",
-    "link": "https://www.fdd.org/analysis/endless-wars-is-a-catchy-phrase-not-a-reason-to-shift-policy/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T16:45:16+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.065627+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "‘Endless wars’ is a catchy phrase, not a reason to shift policy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "558a222449397a8a0f54c92ab2fd8bcd441781fb5f34d4800dd16376de9f3657",
-    "title": "The Hasidic Rabbi that brings Jews and Arabs together",
-    "link": "https://forward.com/yiddish/861926/the-hasidic-rabbi-that-brings-together-jews-and-arabs/",
-    "source": "The Forward",
-    "published_iso": "2026-11-10T16:44:46+00:00",
-    "fetched_iso": "2026-11-10T20:04:07.854071+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Hasidic Rabbi that brings Jews and Arabs together",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "9e277c548dbcf53b911d46aff5d6167d6966216f8e7ae63107bfe1ed51105989",
-    "title": "Ugandans start withdrawal from Somalia, US leaves key base",
-    "link": "https://www.fdd.org/analysis/ugandans-start-withdrawal-from-somalia-us-leaves-key-base/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T16:38:41+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.174098+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Ugandans start withdrawal from Somalia, US leaves key base",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "50bf97e19bcadaf5cfc4990ccbfe5ca34559a7986b5adf99eb6abd63c1c60a1d",
-    "title": "Rubio: Military operations in Iran unnecessary — for now",
-    "link": "https://jewishinsider.com/2026/11/marco-rubio-iran-military-operations-unnecessary-negotiations/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T16:36:45+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.866789+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Rubio: Military operations in Iran unnecessary — for now",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "6b1995d1c6b6c7128deaa22ccf20522a54674f9ab28f2fa91ee53bbd1e6011d0",
-    "title": "Materials matter: Managing critical commodities for the next-generation energy economy",
-    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/materials-matter-managing-critical-commodities-for-the-next-generation-energy-economy/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-10T15:52:07+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.706596+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Materials matter: Managing critical commodities for the next-generation energy economy",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "f5feb853ee3602f944d33e4578d5daae2e58dce5954667bba0e8ace9dc255a85",
-    "title": "The Economic Impact of Israel’s Election",
-    "link": "https://foreignpolicy.com/2026/11/10/israel-election-economy-netanyahu-eisenkot-united-states-trump/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T15:23:35+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.228206+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Economic Impact of Israel’s Election",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "deead02832c6d5dad00518738ccd49306ddf5424b3ff49c60ac1ea595cfc14e6",
-    "title": "Hegseth accuses Massie of carrying out personal vendetta in impeachment effort",
-    "link": "https://jewishinsider.com/2026/11/hegseth-massie-press-briefing-impeachment-iran-war/",
-    "source": "Jewish Insider",
-    "published_iso": "2026-11-10T14:59:29+00:00",
-    "fetched_iso": "2026-11-10T20:04:07.165288+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Hegseth accuses Massie of carrying out personal vendetta in impeachment effort",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "5e0176406f1b26d160918fb04799b564e97c5c2a8640ab2f863019bc8da318fc",
-    "title": "8 Tactics Foreign Actors Used To Influence the 2026 Midterms",
-    "link": "https://www.fdd.org/analysis/8-tactics-foreign-actors-used-to-influence-the-2026-midterms/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T14:31:34+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.368267+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "8 Tactics Foreign Actors Used To Influence the 2026 Midterms",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "c4890c97963f73bd54bb42db69e27daecfca8e46da436c4b222f717b34b65e8d",
-    "title": "The Democrats Have a Mandate to Tackle Corruption. Here’s How.",
-    "link": "https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corruption-campaign-finance-trump/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T14:31:18+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.352513+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Democrats Have a Mandate to Tackle Corruption. Here’s How.",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "e8f8237670cbb6f54d4388a90ea463d79ae84b0098eded4be4a060b4c8f020c6",
-    "title": "What’s Going On at Rutgers Law? - Minding The Campus",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LY29TUUhkell3SXY2STRpZVlzQU92bGNUOWYxdGtDTEZIYjVBRXVYU1BVYk5ZMGdZbnpWUTNhaGgyU2hkekJ5bjhfZmkwMGkyZ2xNRHhsSnNFUFZkclJGQUg3U0lpenRPVmRjdVk3WERRSkVubWtfTTJ3?oc=5",
-    "source": "Google News - US Antisemitism & Campus Affairs",
-    "published_iso": "2026-11-10T14:18:37+00:00",
-    "fetched_iso": "2026-11-10T20:04:09.463670+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "What’s Going On at Rutgers Law? - Minding The Campus",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "a0ecc5644ecb6d0b8a4ea2f63daf64bea682e5009c1faca9f82901b48d595964",
-    "title": "And What About Europe’s Center-Left?",
-    "link": "https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/",
-    "source": "Foreign Policy Magazine",
-    "published_iso": "2026-11-10T14:09:50+00:00",
-    "fetched_iso": "2026-11-10T20:04:06.467337+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "And What About Europe’s Center-Left?",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "b6fc7401fd326952fd1e2b4ffec90aa3fda1e1413f03af93b18047dd72de2fc1",
-    "title": "Water infrastructure at the Mediterranean’s inflection point: Financing resilience for an industrializing, digitalizing region",
-    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/water-infrastructure-at-the-mediterraneans-inflection-point/",
-    "source": "Atlantic Council",
-    "published_iso": "2026-11-10T14:00:00+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.810905+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "Water infrastructure at the Mediterranean’s inflection point: Financing resilience for an industrializing, digitalizing region",
-    "implications": [
-      "Analysis temporarily unavailable."
-    ]
-  },
-  {
-    "url_hash": "44e66e90eeffa9d0d3713d6144086dc425a51b79b1241ee6699447b579633a29",
-    "title": "The Huang honey-trap scandal sends a message about chip-export controls",
-    "link": "https://www.fdd.org/analysis/the-huang-honey-trap-scandal-sends-a-message-about-chip-export-controls/",
-    "source": "Foundation for Defense of Democracies (FDD)",
-    "published_iso": "2026-11-10T13:32:16+00:00",
-    "fetched_iso": "2026-11-10T20:04:05.480195+00:00",
-    "category": "Diplomacy & Regional Affairs",
-    "importance_score": 2,
-    "bluf": "The Huang honey-trap scandal sends a message about chip-export controls",
     "implications": [
       "Analysis temporarily unavailable."
     ]
